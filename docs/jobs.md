@@ -1,6 +1,6 @@
 # Careers 
 
-Current jobs available at Totem Live Accounting:
+These are the current jobs available at Totem Live Accounting. To apply olease send your current CV with a motivational text to 
 
 ## Administrative Roles
 
@@ -18,21 +18,21 @@ This role requires organisational skills to make sure our repos are being mainta
 
 It helps if you love breaking things because this is a key role supporting the development effort. Our app is live, and new functionality is being built all the time, and we need someone who is not afraid to try things directly in our live app, test, break things, raise issues, make recomendations on the UX and help contribute towards documenting how everything works. You may be familiar with coding and tools like mdbook, gitlab/github but they are not essential. More importantly you should be enthusiastic and excited to learn.
 
-### Speculative Application
+### Speculative Application.
 
 You tell us why we should hire you!
 
 ## Developer Roles
 
-### Web Developer
+### Web Developer.
 
 Totem Live's app front-end is built with React and Javascript with that in mind you should have these skills and be able to hit the ground running. Your initial task is to rebuild our website but following that you will join our dev team to work on improving the UI.
 
-### More than a Rust Developer
+### More than a Rust Developer.
 
 This is a critical role working alongside the CEO (also a Rust dev) to develop the blockchain modules that support the entire application. You must be more than a developer though, able to research and understand the accounting flow and how Totem solves many of the existing problems that accounting software has. Building tests is also a must and familiarity with Substrate from Parity is helpful but not essential.
 
-### Network Infrastructure VPS Architect
+### Network Infrastructure VPS Architect.
 
 We are looking for a seasoned professional to help running and setting up network infrastructure to support the launch and network. Experience in handling and mitigating DOS and other possible attacks, as well as setting up stable and reliable architectures on various VPS platforms and OSes. You should also contribute towards "How-to..." documentation to encourage external parties to host nodes on the network. Familiarity with linux, nginx, docker is a must.
 
@@ -53,3 +53,4 @@ You will be active in social media and be working in a team to encourage growth 
 ### Language Translators
 
 We have a number of sources of information that we need translated into as many languages as possible. If you are a non-native English speaker (but of course are fluent in English) and can translate we would love to hear from you.
+
