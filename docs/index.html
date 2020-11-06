@@ -26,7 +26,7 @@
         '/',
         'navigation',
         'getting-started',
-        'Identities',
+        'dentities',
         'partners',
         'activities',
         'timekeeping',
@@ -41,27 +41,28 @@
       // complete configuration parameters
       search: {
         maxAge: 86400000, // Expiration time, the default one day
-        paths: [], // or 'auto'
+        // maxAge: 1, // To clear for testing
+        paths: 'auto',
         placeholder: 'Type to search',
 
         // Localization
-        placeholder: {
-          // '/zh-cn/': '搜索',
-          '/': 'Type to search'
-        },
+        // placeholder: {
+        //   // '/zh-cn/': '搜索',
+        //   '/': 'Type to search'
+        // },
 
         noData: 'No Results!',
 
         // Localization
-        noData: {
-          // '/zh-cn/': '找不到结果',
-          '/': 'No Results'
-        },
+        // noData: {
+        //   // '/zh-cn/': '找不到结果',
+        //   '/': 'No Results'
+        // },
 
         // Headline depth, 1 - 6
-        depth: 2,
+        depth: 6,
 
-        hideOtherSidebarContent: true, // whether or not to hide other sidebar content
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
       }
     }
  
