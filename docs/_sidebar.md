@@ -1,5 +1,5 @@
-* [Home](/)
-* How to use Totem Live
+* [Introduction](/)
+* **About the Totem Live App**
     * [Navigating the App](navigation.md)
     * [Getting Started](getting-started.md)
     * [Identities](Identities.md)
@@ -9,9 +9,6 @@
     * [Transfer](transfer.md)
     * [History](history.md)
     * [Utilities](utilities.md)
-* [Privacy](privacy.md)
-* [Terms](terms.md)
-* [Careers](jobs.md)
 ---
 * Languages
     * [:uk:](/)

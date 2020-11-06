@@ -15,15 +15,59 @@
       // coverpage: true,
       el: '#home',
       auto2top: true,
+      logo: '/_media/new-totem-logo.svg',
       name: 'Contents',
       // repo: '',
       loadSidebar: true,
-      subMaxLevel: 2,
-      loadNavbar: true
+      subMaxLevel: 1,
+      loadNavbar: true,
+      search: 'auto',
+      search: [
+        '/',
+        'navigation',
+        'getting-started',
+        'Identities',
+        'partners',
+        'activities',
+        'timekeeping',
+        'transfer',
+        'history',
+        'utilities',
+        'privacy',
+        'terms',
+        'jobs',
+      ],
 
+      // complete configuration parameters
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: [], // or 'auto'
+        placeholder: 'Type to search',
+
+        // Localization
+        placeholder: {
+          // '/zh-cn/': '搜索',
+          '/': 'Type to search'
+        },
+
+        noData: 'No Results!',
+
+        // Localization
+        noData: {
+          // '/zh-cn/': '找不到结果',
+          '/': 'No Results'
+        },
+
+        // Headline depth, 1 - 6
+        depth: 2,
+
+        hideOtherSidebarContent: true, // whether or not to hide other sidebar content
+      }
     }
+ 
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
