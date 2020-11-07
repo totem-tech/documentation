@@ -1,4 +1,6 @@
+---
 * [Introduction](/)
+---
 * **Guides to Modules**
     * [Navigating the App](navigation.md)
     * [Getting Started](getting-started.md)
@@ -10,6 +12,9 @@
     * [History](history.md)
     * [Utilities](utilities.md)
 ---
-* Languages
-    * [:uk:](/)
-    * [:cn:](/)
+* [Privacy Statement](privacy.md)
+---
+* [Terms of Use](terms.md)
+---
+* [Installing these docs](installing-docs.md)
+---

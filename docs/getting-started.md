@@ -1,1 +1,1 @@
-### What is the Getting Started Module?
+## What is the Getting Started Module?

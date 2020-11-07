@@ -1,4 +1,4 @@
-# Privacy
+## Privacy Principles in Totem Live.
 
 These are the Privacy Terms for Totem Live Accounting both the app and the website.
 

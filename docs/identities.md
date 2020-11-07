@@ -1,4 +1,4 @@
-# What are Identities?
+## What are Identities?
 
 Identities are either businesses or some personal idenity that you want to create. We have puposely left the definition vague, because it depends on how simple or complex you want your identity usage to be. 
 
@@ -18,7 +18,7 @@ Tom can switch between this new Identity and his own personal identity by simply
 
 **All functionality of Totem are attached to whichever identity is selected.**
 
-## Sharing
+## Sharing Identities
 
 You will share some of your identities with the outside world - another person or a business - but **by default your Totem Identities are private**.
 

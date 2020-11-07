@@ -1,6 +1,6 @@
-# How to Navigate the Totem Live Application
+## How to Navigate the Totem Live Application
 
-## The Totem UI has these navigation elements: 
+### The Totem UI has these navigation elements: 
 
 1. The Header Bar with Icons and Menu Items
 2. The Side Bar Navigation

@@ -1,1 +1,1 @@
-### What is the History Module?
+## What is the History Module?

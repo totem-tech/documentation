@@ -1,4 +1,4 @@
-# Welcome.
+## Welcome to Totem Live Accounting Docs.
 
 **In these pages you will find supporting documentation on the Totem Live Accounting application and other detailed aspects of the project.**
 
@@ -12,11 +12,11 @@ With traditional accounting software peer-to-peer communication is impossible. I
 
 Totem innovates this because the protocol which we are building allows companies to share data without configuration securely, privately and without having to rely on a software vendor. Alongside the protocol, we are also building a user interface (aka UI) so that companies can use the Totem protocol immediately without having to build an interface themselves - although they could if you wanted to.
 
-## The concept of Modules
+## The Concept of Totem Modules
 
 In broad terms "a module" in Totem is an item that can be found in the navigation bar of the UI. It usually has two primary components: the front-end user interface (Totem UI) and the back-end blockchain (Totem Network).
 
-### Supporting services in each module
+## Supporting Services for each Totem Module
 
 There are additional supporting components which allow your data to be stored locally on your device, and this in turn is supported by a remote service which syncronises your data with your device and the blockchain. 
 
@@ -27,24 +27,3 @@ All these services will be explained here too.
 ## Contribution
 
 We welcome anyone who wishes to contribute to this documentation and the code is open source. Please get in touch to contribute.
-
-
-
-
-
-#### Running this site on localhost
-
-This is just a quick how-to. 
-
-```shell
-# Install Docsify (if not already installed)
-$ npm i docsify-cli -g
-
-# Run this site
-$ docsify serve docs
-
-```
-
-Then visit http://localhost:3000
-
-Docsify docs found [here](https://docsify.js.org/#/quickstart)

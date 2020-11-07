@@ -1,1 +1,1 @@
-### What is the Activities Module?
+## What is the Activities Module?

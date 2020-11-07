@@ -1,1 +1,1 @@
-### What is the Partners Module?
+## What is the Partners Module?
