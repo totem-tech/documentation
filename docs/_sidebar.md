@@ -11,6 +11,9 @@
     * [Transfer](transfer.md)
     * [History](history.md)
     * [Utilities](utilities.md)
+    * [About](about-totem.md)
+---
+* [Team](team.md)
 ---
 * [Privacy Statement](privacy.md)
 ---
