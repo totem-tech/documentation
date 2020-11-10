@@ -71,3 +71,6 @@ Tom creates several new identities, Tom 1, Tom 2, Tom 3 etc. With Tom 1 he wants
 
 Tom edit's Tom 1, by pressing on the Pencil icon in the Actions column of Identities. In the edit window he types "shopping" in the tags section. Pressing enter causes the tag to be recorded. Pressing the tab button twice highlights the "Update" button, and pressing Enter stores the change and brings you back to the Identities list.
 
+
+
+
