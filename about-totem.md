@@ -4,7 +4,7 @@
 
 The code in this repository will enable you to join and support Meccano as a simple node.
 
-If you wish to become a validator or authority on the network, please contact us at mailto:info@totemaccounting.com?subject=Inquiry:%20Becoming%20a%20Validator%20or%20Authority%20on%20Totem[info@totemaccounting.com]
+If you wish to become a validator or authority on the network, please contact us at info@totemaccounting.com?subject=Inquiry:%20Becoming%20a%20Validator%20or%20Authority%20on%20Totem[info@totemaccounting.com]
 
 We recommend you use on of the current binaries which can be found here.
 If you are running the binaries, skip to the  <<#binary>> section.
