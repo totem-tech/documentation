@@ -1,10 +1,10 @@
-## About the Crowdsale
+## Special Properties of XTX
 
-This page explains in detail the economic model for the Totem internal Functional Currency for participants in the Crowdsale. It's the Tokenomics information you've been looking for.
+This page explains in detail the special properties of the internal Functional Currency of the Totem Live blockchain network and the economic model.
 
 #### **tl;dr**
 
-_Totem native currency - XTX - is a true Unit of Account because it is both the Functional Currency and is intrinsic to the Accounting Engine. This may be the first time this has ever been conceived or executed._
+_Totem native currency - XTX - is a true Unit of Account because it is both the Functional Currency **and is intrinsic to the Accounting Engine**. This may be the first time this has ever been conceived or executed._
 
 ---
 
@@ -20,11 +20,19 @@ In this respect XTX is similar to a utility token, because it is consumed when t
 
 Some transactions consume more XTX as the size of the transactions - measured in bytes - are larger that others. XTX is consumed at the rate of 1 XTX per byte, and the smallest transaction is around 139 bytes so costs 139 XTX to execute. 
 
-> A balance needs to be struck between the total issued XTX currency and the global consumption demand for executing transactions. Stakeholders are not penalised. They control the entire liquidity in the MainNet.
+> A balance needs to be struck between the total issued XTX currency and the global consumption demand for executing transactions. Stakeholders are not penalised. They control the liquidity of the network.
 
-To give you an idea about this, typically large global corporations have accounting databases that contains 1-4 billion accounting entries over the course of a year or so. SAP which makes corporate accounting software - by far the largest player in the market by transaction volume - has around 64000 corporate customers.
+To give you an idea about this, typically large global corporations have accounting databases that contains 1-4 billion accounting entries over the course of a year or so. SAP which makes corporate accounting software - by far the largest player in the market by transaction volume - has around 64000 corporate customers. 
 
-So the amount of XTX required to fulfil this requirement will be need to be sufficiently large to cover the transactions use case. XTX is not burnt in the process of executing transactions, but sent to the validators and treasury. This means that beyond a certain startup point the network should circulate currency freely, but those who participate in the the Crowdsale will be the initial liquidity providers. 
+**This alone would equate to 256,000,000,000,000 transactions per year at a cost of 35,584,000,000,000,000 XTX per year.**
+
+So the amount of XTX required to fulfil this requirement will be need to be sufficiently large to cover the transactions use case. Our aim is to distribute the quantity of XTX on MainNet to the community as much as possible, with the remainder being allocated to the treasury of the network.
+
+XTX is not burnt in the process of executing transactions, but sent to the validators and treasury. This means that beyond a certain startup point the network should circulate currency freely and be self-funding. 
+
+> At this point in time, without the full application being ready we are unable to estimate the usage costs (because we just don't know how large some transactions will be yet) and therefore cannot accurately estimate the XTX issuance cap.
+
+**Having said that our aim is for those who participate in the the Crowdsale to be the primary liquidity providers in MainNet and they will be allocated funds accordingly.**
 
 It will be their responsibility to sell XTX to new participants so the entire quantity of tokens will be distributed amongst those who participate in the crowdsale and the network treasury.
 
@@ -34,11 +42,11 @@ The network treasury is intended to be a liquidity provider of last resort, in t
 
 A Functional Currency is the nominated currency that every business - large or small - needs to decide upon in order to measure how it is performing. This is also known as a Unit of Account. 
 
-It is a single currency against which all transactions in other currencies are translated and is supposed to have a relatively stable value. **The businesses Financial Statements cannot be produced without the Functional Currency.**
+It is a single currency against which all transactions in other currencies are translated and is supposed to have a relatively stable value. **Financial Statements cannot be produced without a Functional Currency.**
 
 To many reading this, the idea of a Functional Currency will be completely unknown - unless you are an accountant of course - but it is probably the single most important concept in business accounting: 
 
-> A Functional Currency that is stable relative to all other currencies means that reporting results can be compared across years, between companies in the same country, and between companies anywhere in the world. It is the basis for understanding the value of every company on the planet.   
+> **A Functional Currency that is stable relative to all other currencies means that reporting results can be compared across years, between companies in the same country, and between companies anywhere in the world. It is the basis for understanding the value of every company on the planet.**
 
 Having said that, a Functional Currency can be different from another type of currency - the Presentation Currency. 
 
