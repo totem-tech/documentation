@@ -2,9 +2,11 @@
 
 <h3>Totem Live Accounting  is built on the idea that accounting ledgers should be able to communicate directly with each other, anywhere in the world, in real-time.</h3>
 
-To achieve this we are in the process of developing a custom built blockchain runtime and a peer-to-peer network, coupled with a full set of account posting recipes to create - what we believe to be  - one of the first fully decentralised non-finance products for business and consumers anywhere.
+To achieve this we are in the process of developing a custom built blockchain runtime and a peer-to-peer network, coupled with a full set of account posting recipes to create - what we believe to be  - one of the first fully decentralised non-finance products for business and consumers anywhere. 
 
 > **You can think of Totem like a globally available, dedicated public network for accounting data with a modern, intuitive, usable front-end app.**
+
+## Totem | Live Accounting is part of the Polkadot Ecosystem.
 
 <h4>Technically speaking, Totem is delivering a fully functional accounting ledger attached to every blockchain wallet on its network.</h4>
 
@@ -64,7 +66,7 @@ The Totem team demonstrated this capability in February 2019, connecting five ra
 
 We have been building out the full scale version ever since and Totem can already do many of the underlying communication tasks required to make this happen. We are actively pushing new code every day.
 
-### Application Architecture
+<!-- ### Application Architecture
 
 There are several key features of the Totem Architecture which are as follows:
 
@@ -143,4 +145,4 @@ All these services will be explained here too.
 
 ## Contribution
 
-We welcome anyone who wishes to contribute to this documentation and the code is open source. Please get in touch to contribute.
+We welcome anyone who wishes to contribute to this documentation and the code is open source. Please get in touch to contribute. -->
