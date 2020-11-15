@@ -37,7 +37,7 @@ It is important to understand that everything that happens in Totem is attached 
 
 ## Identities List
 
-The identities module is a simple table of  identities that have been created on your device. They do not exist anywhere else unless they have been backed up and restored on another device by you.
+The identities module is a simple table of identities that have been created on your device. They do not exist anywhere else unless they have been backed up and restored on another device by you.
 
 #### Important message about Backups and Data Loss
 
@@ -71,6 +71,6 @@ Tom creates several new identities, Tom 1, Tom 2, Tom 3 etc. With Tom 1 he wants
 
 Tom edit's Tom 1, by pressing on the Pencil icon in the Actions column of Identities. In the edit window he types "shopping" in the tags section. Pressing enter causes the tag to be recorded. Pressing the tab button twice highlights the "Update" button, and pressing Enter stores the change and brings you back to the Identities list.
 
+## Last Backup Column
 
-
-
+Here the date and time will update automatically whenever any transaction made by the user.
