@@ -10,7 +10,7 @@ The community will have an opportunity to become stakeholders in the Totem Live 
 
 > XTX is unlike any other cryptocurrency, because it has some intrinsic properties that are not present on other cryptocurrency networks.
 
-**Read more about the special properties of XTX in p2p accounting software [here](app-docs/overview-xtx.md).** 
+**Read more about the special properties of XTX in p2p accounting software [here](information/overview-xtx.md).** 
 
 ### Investment view.
 

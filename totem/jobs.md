@@ -1,4 +1,4 @@
-## Careers 
+<h2>Careers</h2> 
 
 These are the current jobs available at Totem Live Accounting. To apply please send your current CV with a motivational text to the links under each role.
 
