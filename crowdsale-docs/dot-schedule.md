@@ -14,7 +14,7 @@ As a side effect however, fluctuations in spot market prices can expose arbitrag
 
 **This table shows the summary of in/out contributions measured in Polkadot DOT.**
 
-As XTX has a stable value with respect to all other currencies including cryptocurrencies (as defined in the whitepaper), it is expected that these values will remain stable through to Mainnet launch. 
+As XTX has a stable value with respect to all other currencies including cryptocurrencies (as defined in the whitepaper), it is expected that these values will remain stable through to Mainnet launch, but for the sake of the Crowdsale they are locked. 
 
 > Contributors can exchange XTX for other currencies earlier than Mainnet launch using the Totem Live Marketplace according to the Release Schedules.
 
