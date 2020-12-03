@@ -1,5 +1,7 @@
 ## What are Identities?
 
+<img src="/_media/identities.png">
+
 Identities are either businesses or some personal idenity that you want to create. We have puposely left the definition vague, because it depends on how simple or complex you want your identity usage to be. 
 
 For example When Totem is used in larger businesses the Identity is usually a cost-center or profit-center or a budget holder. These are more complex administrative use-cases that will be familiar to anyone who has ever worked in corporate. 

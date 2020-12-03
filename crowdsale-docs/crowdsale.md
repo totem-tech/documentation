@@ -4,9 +4,18 @@
 
 <h4>Today, the project has reached a critical growth stage in our Roadmap towards Totem Live release on Mainnet.</h4> 
 
-> We’re announcing a Crowdsale seed round expanding the current team and accelerating development of the already live alpha-app.
+> We’re announcing a Crowdsale seed round to fund expansion of the current team and to accelerate development of the Live Accounting App.
 
-The community will have an opportunity to become stakeholders in the Totem Live Network. Community members can participate in the funding round by buying batches of the network currency Totem Transactions (XTX) on the current TestNet.  You can register [here](https://totem.live?)
+The community will have an opportunity to become stakeholders in the Totem Live Network. Community members can participate in the funding round by buying batches of the network currency Totem Transactions (XTX) on the current TestNet.  
+
+---
+
+***All persons intending to participate in the Crowdsale <u>must</u> read and understand the*** 
+[***Contribution Terms***](/crowdsale-docs/contribution-terms.md?id=contribution-notes)
+
+---
+
+You can register [here](https://totem.live?)
 
 > XTX is unlike any other cryptocurrency, because it has some intrinsic properties that are not present on other cryptocurrency networks.
 
@@ -16,9 +25,9 @@ The community will have an opportunity to become stakeholders in the Totem Live 
 
 Totem Transactions will mostly be viewed as an investment opportunity by the majority of the Crowdsale participants. However it is our intention that these participants will have a greater responsibility in the Mainnet: _to maintain liquidity in order for the network users to be able to use it_.
 
-> In Mainnet users of Totem Live need to have XTX to pay for transactions. They will acquire XTX from the participants in the crowdsale who are custodians of the success of the future network.
+> In Mainnet users of Totem Live need to have XTX to pay for transactions. They will acquire XTX from the participants in the Crowdsale who are custodians of the success of the future network.
 
-The quantity of XTX released on mainnet is dependent on the success of the crowdsale, in distributing the expected quantities of XTX to these investors. The mid-term view is that 50% of XTX will be distributed to the crowdsale participants and the remainder to the network treasury.
+The quantity of XTX released on mainnet is dependent on the success of the Crowdsale, in distributing the expected quantities of XTX to these investors. The mid-term view is that 50% of XTX will be distributed to the Crowdsale participants and the remainder to the network treasury.
 
 The network treasury will be the liquidity provider of last resort and on-chain governance will determine by votes, how those funds are released.
 

@@ -28,10 +28,10 @@ The single biggest issue is that they all compete with each other - the interope
 
 <h4>Q: Can any other business do this? A: probably.</h4>
 
-Doing accounting software requires experience, but building accounting software that operates on a blockchain network, is an entirely different beast. It will require not only expertise in both domains, it will also require a vision about how peer-to-peer accounting entries can be made on a decentralised public network, what the risks are and how they can be mitigated. Given that most accountants still view blockchain as hot air, there is a lot of catch-up to do to catch the front runner - Totem. 
+Building accounting software requires experience, but building accounting software that operates on a blockchain network, is an entirely different beast. It will require not only expertise in both domains, it requires a vision about how peer-to-peer accounting entries can be made on a decentralised public network, what the risks are and how they can be mitigated. Given that most accountants still view blockchain as hot air, there is a lot of catch-up to do to catch the front runner - Totem. 
 
-<h4>Q: Can Totem implement this? A: Yes..</h4>
+<h4>Q: Can Totem implement this? A: Yes.</h4>
 
-The Totem team demonstrated this capability in February 2019, connecting five random parties and three tax jurisdictions, posting accounting entries in all relevant accounts on a blockchain. This was a "Marconi moment". Connecting ledger for the first time means the activity of accounting will change forever. 
+The Totem team demonstrated this capability in February 2019, connecting five random parties and three tax jurisdictions, posting accounting entries in all relevant accounts on a blockchain. This was a "Marconi moment". Connecting all these ledgers together and randomly passing information for the first time means the activity of accounting will change forever.
 
-We have been building out the full scale version ever since and Totem can already do many of the underlying communication tasks required to make this happen. We are actively pushing new code every day.
+We have been building out the full scale version ever since and the Totem Live App can already do many of the underlying communication tasks required to make this happen in the full product. We are actively pushing new code every day and aim to launch the fully operational product by Q1 2022.
