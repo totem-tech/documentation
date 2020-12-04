@@ -12,9 +12,9 @@ Imagine a world where you could for example, see how much you paid for tomatoes 
 
 Honestly, we don't know, but it will be a bonus side-effect of what Totem is building. 
 
-Our main target market is the ever-expanding decentralised economy - as businesses employ less, and contract freelancers more, we are all moving towards a future where our accounting will be at the atomic level of our own identities.
+Our main target market is the ever-expanding decentralised economy - as businesses employ less, and contract freelancers more, we are all moving towards a future where our accounting will be at the atomic level of our own Identities.
 
-We are looking towards a future where we only need to share our Totem identities, and all the book-keeping will be taken care of, silently, behind the scenes. This is the way future generations will want accounting to be done. This is the way it is done today in Totem. 
+We are looking towards a future where we only need to share our Totem Identities, and all the book-keeping will be taken care of, silently, behind the scenes. This is the way future generations will want accounting to be done. This is the way it is done today in Totem. 
 
 <h3> The alternatives</h3>
 
@@ -34,4 +34,4 @@ Building accounting software requires experience, but building accounting softwa
 
 The Totem team demonstrated this capability in February 2019, connecting five random parties and three tax jurisdictions, posting accounting entries in all relevant accounts on a blockchain. This was a "Marconi moment". Connecting all these ledgers together and randomly passing information for the first time means the activity of accounting will change forever.
 
-We have been building out the full scale version ever since and the Totem Live App can already do many of the underlying communication tasks required to make this happen in the full product. We are actively pushing new code every day and aim to launch the fully operational product by Q1 2022.
+We have been building out the full scale version ever since and the Totem Live App can already do many of the underlying communication tasks required to make the full product. We are actively pushing new code every day and aim to launch the fully operational product by Q1 2022.

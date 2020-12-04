@@ -30,7 +30,7 @@ Totem is designed to be used. If you use Totem for tasks, activities and timekee
 
 * **3.2** If you receive funds from the faucet and do nothing, then no matter how large your balance, no funds will be allocated on MainNet. HODLing serves no purpose in Totem as the price is deterministic.
 
-* **3.3** If you receive funds from the faucet and attempt "simulate usage" for example by only transfering funds between identities you will receive zero allocations of XTX on MainNet.
+* **3.3** If you receive funds from the faucet and attempt "simulate usage" for example by only transfering funds between Identities you will receive zero allocations of XTX on MainNet.
 
 ### 4. Are HODLers penalised?
 
