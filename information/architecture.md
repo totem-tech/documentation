@@ -11,7 +11,7 @@ There are several key features of the Totem Architecture which are as follows:
 * encrypted storage on- and off-chain,
 * the front-end UI service, 
 * the p2p encrypted communication channels, 
-* socially recoverable identities,
+* socially recoverable Identities,
 * the 'transactions' faucet,
 
 Most of the components are designed to allow businesses to participate in the global live accounting network, but they can also run their own private networks should they wish to do this, and still benefit from being able to communicate with other companies and exchange account posting information.
@@ -20,9 +20,9 @@ Whilst much of this is established in an early form, we are on course to complet
 
 #<h3> Application Privacy</h3>
 
-The Totem Network will have privacy by default for all self-managed identities. The BOXKEYS is a key building-block in that process. 
+The Totem Network will have privacy by default for all self-managed Identities. The BOXKEYS is a key building-block in that process. 
 
-As the development progresses we will be introducing fully encrypted storage and end-to-end communication (hence the reason for developing BOXKEYS and BONSAI) to maintain data security and privacy for everyone using self-managed identities on any Totem network. 
+As the development progresses we will be introducing fully encrypted storage and end-to-end communication (hence the reason for developing BOXKEYS and BONSAI) to maintain data security and privacy for everyone using self-managed Identities on any Totem network. 
 
 In the longer term we will be using Fully Homomorphic Encryption (FHE) for obvious reasons.
 
