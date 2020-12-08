@@ -27,10 +27,10 @@ Identities are intended for either personal or business use, and setting this pa
 
 Tags are words or phrases that you can use to categorise the entries in Totem not just in the Identities Module but elsewhere. 
 
-### Example 
+### Example of tag usage
 
 Tom decides that he wants to create several Identities for personal use, but wants to distinguish one from the other.
 
-Tom creates several new Identities, Tom 1, Tom 2, Tom 3 etc. With Tom 1 he wants to use this Identity when he goes shopping. Tom 2 is used when he is sending or receiving money from his family, and Tom 3 is the Identity he wants to assign as the "owner" of Toms Healty Cat Food Co.
+Tom creates several new Identities, Tom 1, Tom 2, Tom 3 etc. With Tom 1 he wants to use this Identity when he goes shopping. Tom 2 is used when he is sending or receiving money from his family, and Tom 3 is the Identity he wants to assign as the "owner" of Toms Healthy Cat Food Co.
 
 Tom edit's Tom 1, by pressing on the Pencil icon in the Actions column of Identities. In the edit window he types "shopping" in the tags section. Pressing enter causes the tag to be recorded. Pressing the tab button twice highlights the "Update" button, and pressing Enter stores the change and brings you back to the Identities list.
