@@ -1,8 +1,32 @@
-# Totem Token at a Glance
+# Totem Transactions at a glance
+
+* Totem Transactions (Symbol XTX) is the native functional currency of the network.
+* A functional currency in accounting terms is not the same thing as fiat currency or cryptocurrency. 
+    * A functional currency is a unit of value used to measure assets and currencies in the book-keeping accounts.
+* The value of XTX is calculated according to set accounting rules.
+    * The calculation is baked-in to the protocol
+    * The market price has no influence on this price calculation
+    * The value of what you have is constantly adjusted to remain stable relative to other currencies
+    * This is a fundamentally new use case for blockchain cryptocurrencies.
+* Uniquely, this allows accounting records to be recorded with a functional currency that is global, non-fiat and not pegged to any one fiat currency.
+* accounting in this way means that foreign exchange market price changes are nullified and dynamically accounted for.
+
+# Crowdsale at a glance
+
+The Crowdsale is planning to raise funds to further develop the app which has been founder funded over the last two years.
+
+The funding round consists of
+
+* Soft cap of 2.5M USD - 
+* Target Cap of 10M USD
+
+The number of XTX that will be released for sale 
+The dates will run for approximately one month from a date to be decided shortly after 18th January 2021.
+
 
 Totem operates a new type of currency that is only useful when combined with accounting software. The type of currency has not yet been seen in the cryptocurrency and blockchain space, but has been used in financial statements since the dawn of time.
 
-You can read more details about why this is entirely different than any other crypto-currency here [Special Properties of the Totem Unit of Account](/crowdsale-docs/overview-xtx.md).
+You can read more details about why this is entirely different than any other crypto-currency here: [Special Properties of the Totem Unit of Account](/crowdsale-docs/overview-xtx.md).
 
 Although the currency as described in the documentation has a primary use case as a Unit of Account for Financial Accounting, it is also a cryptocurrency and can be used to transfer units of value and therefore has the same properties other currencies.
 
