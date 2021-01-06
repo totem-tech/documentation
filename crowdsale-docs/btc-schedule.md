@@ -14,7 +14,7 @@ As a side effect however, fluctuations in spot market prices can expose arbitrag
 
 **This table shows the summary of in/out contributions measured in Bitcoin BTC.**
 
-As XTX has a stable value with respect to all other currencies including cryptocurrencies (as defined in the whitepaper), it is expected that these values will remain stable through to Mainnet launch. 
+As XTX has a stable value with respect to all other currencies including cryptocurrencies (as defined in the whitepaper), it is expected that these values will remain stable through to Mainnet launch, but for the sake of the Crowdsale they are locked. 
 
 > Contributors can exchange XTX for other currencies earlier than Mainnet launch using the Totem Live Marketplace according to the Release Schedules.
 
@@ -31,45 +31,3 @@ As XTX has a stable value with respect to all other currencies including cryptoc
 | 8                | 10\.00000000 BTC  |  1,292,457,027,158 XTX |  469\.94048752 ≜BTC           |
 
 **_The values here do not constitute a promise to pay BTC in exchange for XTX. The are a guide price based on current exchange rates._**
-
----
-
-### Contribution Details Table
-
-This table shows the details on how the Multiplier Level affects the contribution. A rule-of-thumb is that the higher the level of contribution, the larger the Multiplier.
-
-The Multipliers are calculated on total contributions in all currencies. The Registration Dashboard will perform this calculation for you, so that you can contribute multiple times in multiple currencies and see how far away you are from acheiving the nex Multiplier level.
-
-| Multiplier Level | Contribution     | Base Allocation     | Multiplier    | Total Allocated        |
-|:----------------:|-----------------:|--------------------:|--------------:|-----------------------:|
-| 1                | 0\.00666667 BTC  |  18,335,045 XTX     |  1\.61810000  |  29,667,937 XTX        |
-| 2                | 0\.33333333 BTC  |  916,752,271 XTX    |  2\.61824761  |  2,400,284,442 XTX     |
-| 3                | 0\.66666667 BTC  |  1,833,504,542 XTX  |  4\.23658646  |  7,767,800,511 XTX     |
-| 4                | 1\.66666667 BTC  |  4,583,761,354 XTX  |  6\.85522055  |  31,422,695,016 XTX    |
-| 5                | 3\.33333333 BTC  |  9,167,522,708 XTX  |  11\.09243237 |  101,690,125,612 XTX   |
-| 6                | 5\.00000000 BTC  |  13,751,284,061 XTX |  17\.94866481 |  246,817,188,379 XTX   |
-| 7                | 6\.66666667 BTC  |  18,335,045,415 XTX |  29\.04273454 |  532,499,856,687 XTX   |
-| 8                | 10\.00000000 BTC |  27,502,568,123 XTX |  46\.99404875 |  1,292,457,027,158 XTX |
-
----
-
-### BTC Release Schedule per Multiplier Level
-
-This table shows the total overall XTX that can be released over the 12 month release calendar by Multiplier Level. 
-
-> **This table is defined by the principle that the lowest level contributors are not penalised over the higher level contributors as only 162% of the contributed funds can be released prior to MainNet. A staggered release period applies at all levels above the lowest level.**
-
-Remaining balances on accounts are transferred to MainNet.
-
-An additional multiplier (exact value to be decided) will be applied on MainNet under the conditions outlined in the [FAQ - Are HODLers Penalised?](crowdsale-docs/crowdsale-faq.md?id=_4-are-hodlers-penalised).
-
-| Multiplier Level | %age Released after Crowdsale | Released Amount     | Equivalent Released |
-|:----------------:|:-----------------------------:|--------------------:|----      ----------:|
-| 1                | 100\.00%                      |  29,667,936 XTX     | 0\.0108 ≜BTC        |
-| 2                | 61\.80%                       |  1,483,396,849 XTX  | 0\.5400 ≜BTC        |
-| 3                | 38\.19%                       |  2,966,793,698 XTX  | 1\.0800 ≜BTC        |
-| 4                | 23\.60%                       |  7,416,984,246 XTX  | 2\.7000 ≜BTC        |
-| 5                | 14\.59%                       |  14,833,968,493 XTX | 5\.4000 ≜BTC        |
-| 6                | 9\.02%                        |  22,250,952,739 XTX | 8\.1000 ≜BTC        |
-| 7                | 5\.57%                        |  29,667,936,986 XTX | 10\.8000 ≜BTC       |
-| 8                | 3\.44%                        |  44,501,905,479 XTX | 16\.2000 ≜BTC       |

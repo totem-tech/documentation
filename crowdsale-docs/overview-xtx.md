@@ -34,7 +34,7 @@ XTX is not burnt in the process of executing transactions, but sent to the valid
 
 **Having said that our aim is for those who participate in the the Crowdsale to be the primary liquidity providers in MainNet and they will be allocated funds accordingly.**
 
-It will be their responsibility to sell XTX to new participants so the entire quantity of tokens will be distributed amongst those who participate in the crowdsale and the network treasury.
+It will be their responsibility to sell XTX to new participants so the entire quantity of tokens will be distributed amongst those who participate in the Crowdsale and the network treasury.
 
 The network treasury is intended to be a liquidity provider of last resort, in the event that XTX holders refuse to sell.
 
