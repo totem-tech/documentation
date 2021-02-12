@@ -10,7 +10,7 @@
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
     <!-- Themes -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"/>
 
     <!-- Code Boxes -->
     <link rel="stylesheet" href="path/to/prismjs-theme.css">
@@ -64,7 +64,7 @@
                 crossChapterText: true,
             },
             footer: {
-                copy: '<span>&copy; Totem Accounting 2020 | </span>',
+                copy: '<span>&copy; Totem Accounting 2021 | </span>',
                 // copy: '<span>Authored by Totem Dev Team & Live Accounting Association | <span id="current-year">2018</span>',
                 auth: 'authored by Totem Dev Team & Live Accounting Association',
                 // pre: '<hr/>',
@@ -78,7 +78,11 @@
             name: 'Totem',
             // repo: '',
             loadSidebar: true,
+            alias: {
+                '/.*/_sidebar.md': '/_sidebar.md',
+            },
             subMaxLevel: 1,
+            sidebarDisplayLevel: 1, // set sidebar display level
             loadNavbar: true,
             search: 'auto',
             search: [
@@ -113,14 +117,21 @@
                 '/crowdsale-docs/overview-xtx.md',
                 '/crowdsale-docs/post-crowdsale.md',
                 '/crowdsale-docs/release-schedule.md',
-                '/information/architecture.md',
+                // '/information/architecture.md',
                 '/information/chart-of-accounts.md',
                 '/information/story-so-far.md',
                 '/information/totem-vs-traditional.md',
+                '/information/roadmap/features.md',
+                '/information/roadmap/roadmap.md',
                 '/totem/privacy.md',
                 '/totem/terms.md',
-                '/totem/team.md',
+                '/totem/team/team-core.md',
+                '/totem/team/team-advisors.md',
+                '/totem/team/team-extended-dev.md',
+                '/totem/team/team-operations.md',
+                '/totem/team/team-security.md',
                 '/totem/jobs.md',
+                '/totem/contact.md',
             ],
 
             // complete configuration parameters

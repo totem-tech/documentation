@@ -34,17 +34,17 @@ In the following sections we detail how these tests apply to this Crowdsale. Ple
 
 The Totem Live Accounting Test Network (aka Totem Meccano Canary Network) is a public blockchain network that has been live since February 14th 2019, and has been the backbone of all the development work that has taken place before and after it was launched.
 
-All users who have registered on the [Totem Live app](https://totem.live) connect directly with the network and have been allocated Totem Transactions (XTX) - the native cryptocurrency of the network - for free using our automated Faucet since the outset.
+All users who have registered on the [Totem Live App](https://totem.live) connect directly with the network and have been allocated Totem Transactions (ticker symbol: XTX) - the native cryptocurrency of the network - for free using our automated Faucet since the outset.
 
 The Totem Live Accounting Blockchain Network does not depend on other blockchains such as Ethereum or Bitcoin - it is completely decentralised and independent.
 
 XTX is consumed in order to execute actions on the Totem Live Accounting Network. For example to create Activities, Timekeeping and Tasks and to administer them requires you to spend XTX to process these requests on the blockchain network.
 
-Furthermore all existing users since launch have also been able to request, with certain limits, further allocations of Transactions (XTX) from the Faucet without charge. This request is carried out from within the application itself. These additional allocations have been fixed at the same level as the initial allocation and have been distributed free-of-charge.
+Furthermore all existing users since launch have also been able to request, with certain limits, further allocations of Transactions (ticker symbol: XTX) from the Faucet without charge. This request is carried out from within the application itself. These additional allocations have been fixed at the same level as the initial allocation and have been distributed free-of-charge.
 
 The allocations made to users will be unconditionally carried over to the Totem Live Accounting MainNet as a reward for early adopters.
 
-The Totem Transactions Token (XTX) is a cryptocurrency that has never been intended to have a value determined by after-market exchanges. 
+The Totem Transactions Token (ticker symbol: XTX) is a cryptocurrency that has never been intended to have a value determined by after-market exchanges. 
 
 XTX has been designed from the outset to have a value that is calculated deterministically by an automated algorithm as set out in our 2016 Paper and more recently updated. The algorithm determines the value of XTX based on information available tothe Totem Network. 
 
@@ -73,7 +73,7 @@ The Live Accounting Association will set aside money received as a donation to e
 
 #### Howey Test 1 Conclusion 
 
-The first test is unlikely to be satified as Totem Transactions (XTX) were distributed on an already live network via an already live application, for free and for a significant period of time prior the Crowdsale.
+The first test is unlikely to be satified as Totem Transactions (ticker symbol: XTX) were distributed on an already live network via an already live application, for free and for a significant period of time prior the Crowdsale.
 
 Therefore on this point the Token does not qualify as a Security. Consideration must still be given to the other tests.
 
@@ -99,7 +99,7 @@ There are three categories of Totem Transaction owners:
 * Crowdsale Contributors owners who were allocated XTX from the Faucet as a function of their contribution
 * Owners who are both of the above
 
-For users allocated Totem Transactions (XTX) from the Faucet alone there is no expectation of profit. No publicity has ever been made to this effect at any time.
+For users allocated Totem Transactions (ticker symbol: XTX) from the Faucet alone there is no expectation of profit. No publicity has ever been made to this effect at any time.
 
 Totem Transactions that are allocated by the Live Accounting Association in the Crowdsale are allocated at a discount to the deterministic exchange rate. The discounts are set out in the schedules to the Crowdsale and are entirely dependent on the contribution level.
 
@@ -111,9 +111,9 @@ It is however entirely expected that when XTX is used for example in conjuction 
 
 #### Howey Test 3 Conclusion 
 
-If the Howey Test was based on this test alone there would be a possibility that the discount allocation is considered a security. As the exchange rate is designed to be stable and the discounted allocation infers a future usage value all contributors will have a return value known at the outset.
+If the Howey Test was based on this test alone there would be a possibility that the discount allocation is considered a security. As the exchange rate is designed to be stable and the discounted allocation infers a future usage value all Contributors will have a return value known at the outset.
 
-This is subject however to the correct functioning of the algorithm that determines the value of XTX for exchange. Should any factors significantly change the valuation, contributors cannot necessarily expect a return until the algorithm has been throughly proven and therefore the expectation of profit is not guaranteed.
+This is subject however to the correct functioning of the algorithm that determines the value of XTX for exchange. Should any factors significantly change the valuation, Contributors cannot necessarily expect a return until the algorithm has been throughly proven and therefore the expectation of profit is not guaranteed.
 
 This test is therefore only partially satisfied and subject to interpretation.
 
@@ -155,7 +155,7 @@ The users of the Network are not required to carry out work in order to give val
 
 The application has almost entirely been completed by the Founders prior to the Crowdsale and can be used today although there are still many parts to be added.
 
-This analysis is subject to alternative interpretation however for the reasons set out above three out of the four tests fail and on this basis the Totem Transaction Token (XTX) is unlikely to considered a security in the USA.
+This analysis is subject to alternative interpretation however for the reasons set out above three out of the four tests fail and on this basis the Totem Transaction Token (ticker symbol: XTX) is unlikely to considered a security in the USA.
 
 This opinion may change in future or should the legislation change.
 
@@ -163,7 +163,7 @@ This opinion may change in future or should the legislation change.
 
 # Swiss FINMA Regulations
 
-Under the Swiss Markets authority Guidance (FINMA Guidance 04/2017), Totem Transactions (XTX) may fall under one or several categories of Token:
+Under the Swiss Markets authority Guidance (FINMA Guidance 04/2017), Totem Transactions (ticker symbol: XTX) may fall under one or several categories of Token:
 
 * A Payment Token
 * A Registered or Unregistered Security Token
@@ -175,13 +175,13 @@ A further categorization is possible, the so-called Pre-Sale or Pre-Financing of
 
 ### ANALYSIS 5. Are Totem Transactions Payment Tokens?
 
-Totem Transactions (XTX) are in the classic sense a cryptocurrency. They are intended to be consummed when transactions are executed on the blockchain network, and can be used for payments. The quantity of XTX that is consumed by a transaction depends on the byte size of the transaction and other technical factors including the type of accounting record to be stored on the blockchain.
+Totem Transactions (ticker symbol: XTX) are in the classic sense a cryptocurrency. They are intended to be consummed when transactions are executed on the blockchain network, and can be used for payments. The quantity of XTX that is consumed by a transaction depends on the byte size of the transaction and other technical factors including the type of accounting record to be stored on the blockchain.
 
 However, unlike traditional cryptocurrencies the value of XTX is deterministic, as it is designed to be used as a Unit of Account within the accounting engine. In this case the value that is recorded may not have any bearing on a specific blockchain transaction, and may not even be related to an asset that is held.
 
 #### Test 5 Conclusion
 
-Totem Transactions (XTX) are defined as a cryptocurrency and given the nature of the value calculation, will inevitably be used as a settlement currency although this mechanism was primarily designed as a Unit of Account for valuation and accounting purposes. 
+Totem Transactions (ticker symbol: XTX) are defined as a cryptocurrency and given the nature of the value calculation, will inevitably be used as a settlement currency although this mechanism was primarily designed as a Unit of Account for valuation and accounting purposes. 
 
 XTX can be considered a Payment Token and is therefore not treated as a security in this context. 
 
@@ -195,13 +195,13 @@ Furthermore they are not intended to be traded as a free-floating asset on capit
 
 #### Test 6 Conclusion
 
-In this case the Totem Transactions (XTX) exhibit missing properties that would otherwise class it as a security, for example to provide access to capital markets.
+In this case the Totem Transactions (ticker symbol: XTX) exhibit missing properties that would otherwise class it as a security, for example to provide access to capital markets.
 
 ---
 
 ### ANALYSIS 7. Are Totem Transactions Asset Tokens?
 
-Totem Transactions (XTX) that are to be distributed in the Crowdsale, are allocated on an existing so-called TestNet system. They are intended to be migrated to the MainNet system when it goes live. 
+Totem Transactions (ticker symbol: XTX) that are to be distributed in the Crowdsale, are allocated on an existing so-called TestNet system. They are intended to be migrated to the MainNet system when it goes live. 
 
 The allocation is conditional upon the contributor to comply with the terms of migration, but in general remaining balances on accounts will be migrated plus any additional bonuses earned in the interim.
 
@@ -209,13 +209,13 @@ The XTX Tokens are standardised, however due to the algorithmic mechanism by whi
 
 Furthermore the value is derived from a basket of independent assets that are not actually held or used as collateral in this calculation. In other words there are no assets that are held which underwrite the value of Totem Transactions. The value is primarily calculated for accounting purposes in the application itself.
 
-Totem Transactions have been self-issued since April 2019 and although it has not been publicised, given the fact that a Crowdsale will occur there may be an expectation of a claim on the MainNet for non-paying contributors.
+Totem Transactions have been self-issued since April 2019 and although it has not been publicised, given the fact that a Crowdsale will occur there may be an expectation of a claim on the MainNet for non-paying Contributors.
 
 #### Test 7 Conclusion
 
-Totem Transactions (XTX) may be considered uncertificated securities under the Swiss Stock Exchange Act (SESTA). Self-issued uncertificated securities in Switzerland are esentially unregulated even if uncertificated securities qualify as securities within the meaning of the Financial Market Infrastructure Act (FIMIA). 
+Totem Transactions (ticker symbol: XTX) may be considered uncertificated securities under the Swiss Stock Exchange Act (SESTA). Self-issued uncertificated securities in Switzerland are esentially unregulated even if uncertificated securities qualify as securities within the meaning of the Financial Market Infrastructure Act (FIMIA). 
 
-Totem Transactions (XTX) are not intended to be traded on the Primary [Stock] Market and therefore do not need to be regulated in accordance with directives in Article 3 paragrah 3 [Stock Exchange Ordinance] of SESTA.
+Totem Transactions (ticker symbol: XTX) are not intended to be traded on the Primary [Stock] Market and therefore do not need to be regulated in accordance with directives in Article 3 paragrah 3 [Stock Exchange Ordinance] of SESTA.
 
 The issuance of Totem TRansactions are not analgous to Equity or Bonds and although FINMA has no direct responsibility in this area, the Token is not required to conform to the Swiss Code of Obligations and the Financial Services Act (FINSA).
 
@@ -239,7 +239,7 @@ However, in the interest of transparency the Live Accounting Association has tak
 
 In the interests of securing the Personal Identification Information (PII) the following proceedure will be followed: 
 
-* The application found at the domain https://totem.live will manage contributors' registration.
+* The application found at the domain https://totem.live will manage Contributors' registration.
 
 * The data that is submitted by users will not be accessible by the application servers - with the exception of the pay-to cryptocurrency address that is sent to registrants.
 
@@ -261,7 +261,7 @@ In the interests of securing the Personal Identification Information (PII) the f
 
     * The data provided in these requests will only ever be decrypted on a case-by-case basis and not decrypted _en masse_.
 
-All contributors who do not provide valid PII may be excluded from receiving XTX allocations on the Totem MainNet regardless of their contribution. Supplying false information is therefore at the risk of the registrant.
+All Contributors who do not provide valid PII may be excluded from receiving XTX allocations on the Totem MainNet regardless of their contribution. Supplying false information is therefore at the risk of the registrant.
 
 The personal Information that we request is as follows:
 
