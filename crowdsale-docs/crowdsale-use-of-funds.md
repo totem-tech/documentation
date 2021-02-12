@@ -18,3 +18,5 @@ The Totem Development Team will apply for a grant from the Live Accounting Assoc
 | Travel                                       | 1.24%                    |
 
 Ideally the Totem Team would like to grow quickly. There may be further rounds of contribution.
+
+

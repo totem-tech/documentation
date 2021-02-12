@@ -1,33 +1,17 @@
 
 # Contribution Terms.
 
-> **In order to contribute to the Crowdsale Contributors must register using the Registration Form in Totem Live App.** 
+## General Terms and Conditions of the Totem Live Accounting Crowdsale.
 
-The Totem Live App also operates a Contributions Cockpit Module that allows Contributors to track the progress of their payments and distributions of the XTX currency.
-
-The following are the general conditions of the Totem Crowdsale.
+**IMPORTANT NOTICE:** _Whilst we have made a concerted effort to explain the Totem Live Accounting Crowdsale in great detail, you should not make any contribution unless you understand and are prepared to accept the risk. If you have any doubt about participating in the Totem Live Accounting Crowdsale you should abstain from participating. You acknowledge that by contributing to the Totem Live Accounting Crowdsale you are entering on your own accord having carried out your own research. The Live Accounting Association, its members, partners and its associates, and the Totem Accounting Team, and consultants are not responsible for any loss that you incur from your investment or subsequent trades._
 
 ---
 
-## **Note for expert users only:**
+### About Your Contributions. 
 
-* Contributions can actually be made _in any cryptocurrency_, using third-party conversion tools such as [Shapeshift](https://beta.shapeshift.com/) and Monero's [XMR.to](XMR.to). 
+The contributions are received and administered by the Live Accounting Association. This organisation also administers the development grants in order to further the development of the Live Accounting Protocols and applications.
 
-**Unless you are familiar with how these services work we do not recommend that you make payments this way.**
-
-* These types of payments preserve your privacy.
-
-* Using such tools, whilst not excluded, is your own risk. These services receive your funds and pay out to addresses you provide to them. It is your responsibility to ensure that the address you provide to them is the correct address for funding your contributions. 
-
-* These are third-party conversion services and for clarity are not operated by Totem Accounting, and or the Live Accounting Association.
-
-* Totem Accounting, and or the Live Accounting Association is not liable for any loss of funds that arise from using third-party services to make payments. If the funds do not arrive in the designated pay-to addresses they are considered as unpaid.
-
----
-
-## General Terms 
-
-* All contributions are not refundable. 
+* Contributions are not refundable. 
 
 * Contributors are required to self-validate the amounts that they pay, and that the addresses that they pay to are the correctly designated payment addresses.
 
@@ -44,51 +28,53 @@ The following are the general conditions of the Totem Crowdsale.
 
 * All payments received after the Crowdsale ends will still receive XTX allocations but only at the Base Allocation rate for their currency. No multiplier will be applied for late received funds.
 
-## Ethereum Specific Terms
-
-* Ethereum contributions share the same smart contract payment address, and will be allocated non-valuable tokens (0TX) to their white-listed address. 
-
-    * These Etherem ERC20 Tokens are allocated on a 1:1 basis ETX/0TX. 
-    * We use this as a simple ETH contribution counter for the whitelisted addresses and the tokens will not be transferable.
-
-* All payments to the Ethereum smart contract via non-white-listed addresses are considered donations and are not entitled to XTX. 
-    
-    * However, any contributor can **retrospectively white-list their Ethereum address** in Totem Live App to retroactively acquire XTX in the Crowdsale. 
-    * Only whitelisted Ethereum paid-from addresses can it be considered in the final tally, and allocation level.
-
-
-## Crowdsale Dates
-
-The Crowdsale dates will be announced before the end of June 2021. This may be subject to change but we aim to announce the exact date and time giving at least 72 hours notice, preferably longer.
-
-The Crowdsale will run for approximately one month from the start date.
-
-There are two investment targets for the Crowdsale:
-
-**1. Soft Cap**
-The Soft Cap set at $2.5M USD is the level at which we aim to raise funds to support us over the next 12 months. 
-
-* If the Soft Cap amount is not reached before or on the last day of the Crowdsale:
-    * The Totem Development Team is fully commited to launching the MainNet and will continue to develop the application albeit on a limited budget, and possibly a longer timeframe.
-    * The Totem Team and The Live Accounting Association will keep the Crowdsale open, publishing a new end date and time.
-    * Contributors can continue to contribute under the Multiplier conditions.
-
-* If the Soft Cap is reached before or on the last day of the Crowdsale:
-    * The Crowdsale may close, but may also remain open and a new end date will be published.
-    * There has not been a transaction in the last day.
-
-Prior to the Crowdsale we will announce an referral program.
-
-
-
-* The date on which this happens is considered "The Last Allocation Time" and is defined by the team after Crowdsale closes and their decision is final. 
+* The cut-off date will be defined by the Live Accounting Association after Crowdsale closes. This will be known as "The Last Allocation Time" and cannot be appealed. 
 
 * The XTX allocations will be available to view during the Crowdsale in the registration form. You are expected to view the form from time-to-time.
 
-* The final allocation is only calculated after the Crowdsale ends in order to capture funds sent at the very last minute. We advise you do not send funds at the last minute because the registration form allows you to calculate your Multiplier Level and depends on funds that have already been sent and received to indicate how much you have tp pay to reach the next Multiplier Level.
+* The final allocation is only calculated after the Crowdsale ends in order to capture funds sent at the very last minute. We advise you do not send funds at the last minute. The registration form allows you to calculate your Multiplier Level and depends on funds that have already been sent and received.
 
-* The Crowdsale locking terms are that some funds will be locked for periods depending on the final Multiplier Level you achieve, and according to the release schedule. 
+* The Crowdsale locking terms are set out in the [Lock Release Schedule](/crowdsale-docs/crowdsale-details?id=lock-release-schedule). 
 
-* With the exception of the lowest Multiplier Level there will be a continuous release of your XTX every quarter for 12 months from The Last Allocation Time. The remaining balance at the end of the lock periods will be carried over to the MainNet.
+* With the exception of the smallest contribution level there will be a continuous release of your XTX every quarter for 12 months from The Last Allocation Time. The remaining balance at the end of the lock periods will be carried over to the MainNet.
 
-## Crowdsale FAQ
+### Crowdsale Dates
+
+The Crowdsale dates will be announced before the end of June 2021. This may be subject to change but we aim to announce the exact date and time giving at least 72 hours notice, preferably longer.
+
+The Crowdsale will run for approximately five weeks from the start date. The actual runtime is defined by a number of blocks after the start block has been set. This is why we say "approximately five weeks".
+
+#### There are two fundraising targets for the Crowdsale: Soft Cap and Target Cap.
+
+The Soft Cap set at $1M USD is the level at which we aim to raise funds to support development over the next 12 months. 
+
+
+* If the Soft Cap is reached before or on the last day of the Crowdsale:
+    
+    * A decision will be made to close or remain open involing the Target Cap of $2.5M additional funding. 
+    
+    * A new end date will be published if this is the case.
+    
+* If the Soft Cap amount is not reached before or on the last day of the Crowdsale
+
+    * The Totem Development Team is fully commited to launching the MainNet and will continue to develop the application albeit on a limited budget, and possibly a longer timeframe.
+
+    * The Totem Team and The Live Accounting Association will keep the Crowdsale open, publishing a new end date and time.
+
+    * Contributors can continue to contribute. The Multiplier conditions may be extended or reapplied.
+
+        * existing contributors will not be penalised.
+
+### Specific Terms for Contributors paying with ETH.
+
+* All Ethereum contributions share the same smart contract payment address. Each ETH contributor will be allocated non-valuable tokens (0TX) to their white-listed address. 
+
+    * These Ethereum ERC20 Tokens are allocated on a 1:1 basis ETH:0TX. 
+
+    * We use this as a simple ETH contribution counter for the whitelisted addresses and the tokens will not be transferable.
+
+* All payments to the Ethereum smart contract via non-white-listed addresses are considered donations and are not entitled to XTX.
+    
+    * However, any contributor can **retrospectively white-list their Ethereum address** in Totem Live App to retroactively acquire XTX in the Crowdsale. 
+
+    * Only whitelisted Ethereum paid-from addresses can it be considered in the final tally, and allocation level.
