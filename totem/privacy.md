@@ -14,7 +14,7 @@ These are the Privacy Terms for Totem Live Accounting app.
 
     * It is encrypted to their public key before being sent to their storage server - not ours. 
 
-        * For clarity the Totem Live servers forward the already encrypted data but do not have access to read the personally identifyable data.
+        * For clarity the Totem Live App servers forward the already encrypted data but do not have access to read the personally identifyable data.
 
         * The Totem servers will carry out services which inspect the other blockchains for payments. We need to do this in order to send messages to the XTX payment server to make payments to you. 
 

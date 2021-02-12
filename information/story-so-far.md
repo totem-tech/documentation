@@ -1,6 +1,6 @@
-<h2>The Totem Story So Far.</h2>
+## The Totem Story So Far.
 
-<h4>Totem is still an early stage product. We started developing in earnest in December 2018, building on years of discovery and research that evolved out of experimental projects in the blockchain and cryptocurrency space going back to 2013.</h4> 
+### Totem is still an early stage product. We started developing in earnest in December 2018, building on years of discovery and research that evolved out of experimental projects in the blockchain and cryptocurrency space going back to 2013.
 
 The idea behind Totem is simple however and makes sense in a connected world. 
 
@@ -16,21 +16,21 @@ Our main target market is the ever-expanding decentralised economy - as business
 
 We are looking towards a future where we only need to share our Totem Identities, and all the book-keeping will be taken care of, silently, behind the scenes. This is the way future generations will want accounting to be done. This is the way it is done today in Totem. 
 
-<h3> The alternatives</h3>
+### The alternatives
 
-<h4>Q: Can banks do what Totem is doing? A: No.</h4> 
+#### Q: Can banks do what Totem is doing? A: No. 
 
 The problem for banks is that their messaging system does not handle the details of each transaction, so the messages that banking systems receive are very basic. More importantly it is not _their business model_ to collect this data and so they do not. **We would argue that they are missing the opportunity.** 
 
-<h4>Q: Can accounting software companies do this? A: Yes and no.</h4> 
+#### Q: Can accounting software companies do this? A: Yes and no.
 
 The single biggest issue is that they all compete with each other - the interoperability between ledgers would not be standardised. Additionally, it would destroy their licence-fee paying business model, or in some cases the model that sells your data. What would happen to your data if the software company merged or stopped operating?
 
-<h4>Q: Can any other business do this? A: probably.</h4>
+#### Q: Can any other business do this? A: probably.
 
 Building accounting software requires experience, but building accounting software that operates on a blockchain network, is an entirely different beast. It will require not only expertise in both domains, it requires a vision about how peer-to-peer accounting entries can be made on a decentralised public network, what the risks are and how they can be mitigated. Given that most accountants still view blockchain as hot air, there is a lot of catch-up to do to catch the front runner - Totem. 
 
-<h4>Q: Can Totem implement this? A: Yes.</h4>
+#### Q: Can Totem implement this? A: Yes.
 
 The Totem team demonstrated this capability in February 2019, connecting five random parties and three tax jurisdictions, posting accounting entries in all relevant accounts on a blockchain. This was a "Marconi moment". Connecting all these ledgers together and randomly passing information for the first time means the activity of accounting will change forever.
 

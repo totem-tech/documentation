@@ -6,7 +6,7 @@ The distribution is calculated on the three month moving average exchange rate f
 
 As a side effect however, fluctuations in spot market prices can expose arbitrage opportunities between the  currencies used to make contributions. These opportunities can be used to **increase Multiplier Acheivements** and overall level of XTX allocations. Funds are not refundable once paid.
 
-> **For more information about how to exchange XTX after the Crowdsale in the Totem Live P2P OTC Marketplace please read the Crowdsale FAQ.**
+> **For more information about how to exchange XTX after the Crowdsale in the Totem Live App P2P OTC Marketplace please read the Crowdsale FAQ.**
 
 ---
 
@@ -14,9 +14,9 @@ As a side effect however, fluctuations in spot market prices can expose arbitrag
 
 **This table shows the summary of in/out contributions measured in Polkadot DOT.**
 
-As XTX has a stable value with respect to all other currencies including cryptocurrencies (as defined in the whitepaper), it is expected that these values will remain stable through to Mainnet launch, but for the sake of the Crowdsale they are locked. 
+As XTX has a stable value with respect to all other currencies including cryptocurrencies (as defined in the whitepaper), it is expected that these values will remain stable through to MainNet launch, but for the sake of the Crowdsale they are locked. 
 
-> Contributors can exchange XTX for other currencies earlier than Mainnet launch using the Totem Live Marketplace according to the Release Schedules.
+> Contributors can exchange XTX for other currencies earlier than MainNet launch using the Totem Live App Marketplace according to the Release Schedules.
 
 
 | Multiplier Level | Min. Contribution | Total Allocated        | Equiv. value of alloc. in DOT |

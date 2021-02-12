@@ -1,8 +1,9 @@
+
 # Contribution Terms.
 
-> **In order to contribute to the Crowdsale contributors must register using the Registration Form in Totem Live App.** 
+> **In order to contribute to the Crowdsale Contributors must register using the Registration Form in Totem Live App.** 
 
-Totem Live also operates a Contributions Cockpit Module that allows contributors to track the progress of their payments and distributions of the XTX currency.
+The Totem Live App also operates a Contributions Cockpit Module that allows Contributors to track the progress of their payments and distributions of the XTX currency.
 
 The following are the general conditions of the Totem Crowdsale.
 
@@ -52,13 +53,13 @@ The following are the general conditions of the Totem Crowdsale.
 
 * All payments to the Ethereum smart contract via non-white-listed addresses are considered donations and are not entitled to XTX. 
     
-    * However, any contributor can **retrospectively white-list their Ethereum address** on Totem Live to retroactively acquire XTX in the Crowdsale. 
+    * However, any contributor can **retrospectively white-list their Ethereum address** in Totem Live App to retroactively acquire XTX in the Crowdsale. 
     * Only whitelisted Ethereum paid-from addresses can it be considered in the final tally, and allocation level.
 
 
 ## Crowdsale Dates
 
-The Crowdsale dates will be announced in the week of 18th January 2021. This may be subject to change but we aim to announce the exact date and time giving at least 72 hours notice, preferably longer.
+The Crowdsale dates will be announced before the end of June 2021. This may be subject to change but we aim to announce the exact date and time giving at least 72 hours notice, preferably longer.
 
 The Crowdsale will run for approximately one month from the start date.
 

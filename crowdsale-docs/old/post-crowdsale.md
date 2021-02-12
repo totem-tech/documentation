@@ -1,8 +1,8 @@
 ## What happens after the Crowdsale?
 
-Once the Crowdsale is completed some of the contributors will be able to sell their XTX allocations according to the Release Calendar below.
+Once the Crowdsale is completed some of the Contributors will be able to sell their XTX allocations according to the Release Calendar below.
 
-This largely depends on the final Multiplier Level that was acheived by the contributors.
+This largely depends on the final Multiplier Level that was acheived by the Contributors.
 
 ### Post Crowdsale Staggered Release Calendar
 
