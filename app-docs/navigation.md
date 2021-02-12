@@ -1,4 +1,4 @@
-## Familiarise yourself with the Totem Live Application
+## About the App Interface
 
 ### The Totem App has these navigation elements: 
 

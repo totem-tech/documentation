@@ -2,7 +2,7 @@
 
 This table shows the total overall XTX that can be released over the 12 month release calendar by Multiplier Level. 
 
-> **This table is defined by the principle that the lowest level contributors are not penalised over the higher level contributors as only 162% of the contributed funds can be released prior to MainNet. A staggered release period applies at all levels above the lowest level.**
+> **This table is defined by the principle that the lowest level Contributors are not penalised over the higher level Contributors as only 162% of the contributed funds can be released prior to MainNet. A staggered release period applies at all levels above the lowest level.**
 
 Remaining balances on accounts are transferred to MainNet.
 
