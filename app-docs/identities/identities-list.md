@@ -21,7 +21,7 @@ How you name your Identity is your concern. If you do not want to share the name
 
 ### Usage column
 
-Identities are intended for either personal or business use, and setting this parameter is mandatory when you on-board and when creating new Identites. 
+Identities are intended for either personal or business use, and setting this parameter is mandatory when you on-board and when creating new Identities. 
 
 ## Tags column
 

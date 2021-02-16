@@ -20,7 +20,7 @@ However in Totem Live Accounting, - which is a dedicated blockchain not a smart 
 
 Some transactions consume more XTX as the size of the transactions - measured in bytes - are larger that others. XTX is consumed at the rate of 1 XTX per byte, and the smallest transaction is around 139 bytes with a 1 unit base cost. So the smallest transaction costs 140 XTX to execute. 
 
-> These transaction fees are burned creating a deflationary pressure on the total issuance of the currency.
+> These transaction fees are burned creating a deflationary pressure on the total issuance of the currency. However, validators are rewarded with the creation of new currency to increase the supply going forward.
 
 <!-- > A balance needs to be struck between the total issued XTX currency and the global consumption demand for executing transactions. 
 >

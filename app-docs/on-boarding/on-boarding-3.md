@@ -4,4 +4,4 @@
 
 For this reason you must backup your data regularly as we cannot help you if you lose access to it. 
 
-Read more about this in the [**Disaster Recovery**](app-docs/identities/) section.
+Read more about this in the [**Disaster Recovery**](app-docs/identities/identities-backups.md) section.

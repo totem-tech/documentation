@@ -10,12 +10,17 @@ This is another of many key principles behind Totem. We call it "The Self-Sovere
 
 ## Why share an Identity then?
 
-Totem Live Accounting can function as standalone accounting software. 
+**Totem Live Accounting can function as standalone accounting software. However, where it really shines is when it is used to connect business partners and other contacts.**
 
-> **However, where it really shines is when it is used to connect business partners and other contacts. This creates a network of channels between you and your customers, suppliers, friends and family.**
-
-Once you have these connections you will see everything you do in Totem is magically accounted for without you having to do anything.
+This creates a network of channels between you and your customers, suppliers, friends and family. Once you have these connections you will see everything you do in Totem is magically accounted for without you having to do anything. 
 
 The is the real power of the peer-to-peer network. 
 
 > **With every other accounting software it is impossible to connect random people because all our competitors operate centralised systems, not peer-to-peer public blockchain networks.**
+
+## If I share my Identity is it still private?
+
+At the time of writing, we have not yet implemented end-to-end encryption of the sharing mechanism, although it is on our Roadmap.
+
+In future this will be the workflow:
+

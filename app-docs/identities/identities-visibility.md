@@ -18,6 +18,6 @@ In this way accounting entries cannot be accidentally posted to the wrong Identi
 
 > There are a couple of exceptions to this rule. 
 
-* Both the Identities Module and the Partners Module show all Identites and Partners, no matter which I dentity is selected.
+* Both the Identities Module and the Partners Module show all Identities and Partners, no matter which I dentity is selected.
 
 * The History Module shows the history of the Live Accounting App. This is private. Totem cannot see this history, but it is useful should you need to contact support via the chat messaging.
