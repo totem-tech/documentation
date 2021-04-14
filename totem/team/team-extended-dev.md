@@ -10,7 +10,7 @@ Coming from Central Europe Miro is an autodidact who has acquired a broad set of
 
 ---
 
-### Aeon C (Singapore)
+### Aeon C
 
 **_International Accountant & Tax Consultant. (Singapore)_**
 
@@ -18,14 +18,6 @@ An experienced Chartered Accountant with a focus on accounting and taxation for 
 
 ---
 
-### Ashik Mahmud (Germany)
+### Ashik Mahmud
 
 **_Intern & Tester_**
-
-### Félix Daudré-Vigner (France)
-
-**_Rust Developer_**
-
-### Mor Gueye (France)
-
-**_Rust Development Intern_**

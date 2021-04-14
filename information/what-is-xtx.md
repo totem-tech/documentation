@@ -14,17 +14,15 @@
 
 **Performing any kind of activity using the [Totem Live Accounting](https://totem.live) user interface (UI) creates blockchain transactions, which are paid for using the XTX currency.**
 
-In this respect XTX is similar to a utility token, because it is consumed when transactions are exected. This is common in most smart contract blockchains. 
+In this respect XTX is similar to a utility token, because it is consumed when transactions are executed. This is common in most smart contract blockchains. 
 
-However in Totem Live Accounting, - which is a dedicated blockchain not a smart contract - the transaction fees depend largely on the type of transaction that is being sent, rather than a current gas price. In this way fees are stable and predictable. 
+However in Totem Live Accounting, - which is a _dedicated functionality blockchain_ not a smart contract - the transaction fees depend largely on the type of transaction that is being sent, rather than a current gas price. In this way fees are stable and predictable. 
 
 Some transactions consume more XTX as the size of the transactions - measured in bytes - are larger that others. XTX is consumed at the rate of 1 XTX per byte, and the smallest transaction is around 139 bytes with a 1 unit base cost. So the smallest transaction costs 140 XTX to execute. 
 
-> These transaction fees are burned creating a deflationary pressure on the total issuance of the currency. However, validators are rewarded with the creation of new currency to increase the supply going forward.
+> In the MainNet, these transaction fees are allocated to Validators and the network treasury. Additionally Validators are rewarded with the creation of new currency to increase the supply going forward.
 
-<!-- > A balance needs to be struck between the total issued XTX currency and the global consumption demand for executing transactions. 
->
-> Stakeholders are not penalised for owning XTX. They control the liquidity of the network, no matter the quantity they own. -->
+A balance needs to be struck between the total issued XTX currency and the global consumption demand for executing transactions. Holders are not penalised for owning XTX. They control the liquidity of the network, no matter the quantity they own.
 
 **In the next section we discuss what makes the internal currency different.**
 <!-- **In the next section we discuss token issuance and other economic considerations.** -->

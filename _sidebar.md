@@ -10,7 +10,7 @@
     * [Implemented Features](information/roadmap/features.md)
     * [Roadmap](information/roadmap/roadmap.md)
         * [To-do in 2021](information/roadmap/roadmap-1.md)
-* [**Hello Crowdsale!**](crowdsale-docs/crowdsale.md)
+<!-- * [**Hello Crowdsale!**](crowdsale-docs/crowdsale.md)
     * [Overview](crowdsale-docs/crowdsale-at-a-glance.md)
     * [Token Economics](crowdsale-docs/overview-xtx-redirect.md)
     * [Crowdsale Details](crowdsale-docs/crowdsale-details.md)
@@ -18,7 +18,7 @@
     * [**How to Participate**](crowdsale-docs/crowdsale-how-to.md)
     * [Crowdsale FAQ](crowdsale-docs/crowdsale-faq.md)
     * [Regulation](crowdsale-docs/regulation.md)
-    * [Contribution Terms](crowdsale-docs/contribution-terms.md)
+    * [Contribution Terms](crowdsale-docs/contribution-terms.md) -->
     <!-- * [Post Crowdsale](crowdsale-docs/post-crowdsale.md) -->
 * [About the Team](totem/team/team-core.md)
     * [Extended Dev Team](totem/team/team-extended-dev.md)

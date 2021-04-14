@@ -22,13 +22,13 @@ It is an important concept to grasp, but a presentation Currency is not necessar
 
 * At first, when the products are bought in Japan and Europe the costs are converted at the exchange rate of the date of the purchase invoice. 
 
-    * Later when the payment (settlement) transaction occurs the exchange rate of the date of the transaction is used. Differences are booked to a special ledger account. 
+    * Later when the payment (settlement) transaction occurs the exchange rate of the date of the settlement is used. Differences are booked to a special ledger account. 
 
     * A further adjustment takes place when the expenses are recognised. The exchange rate now used is the rate of the date of balance sheet in the period of recognition. 
     
     * The values in all these cases are converted to USD.
 
-* All transactions involving Euro and Japanese Yen have been converted several times by this point in time. The last exchange rate being the one that is related to the Balance Sheet date continues to be updated with every subsequent month that the Balance Sheet is produced until the last day of the financial year. This last date provides the exchange rate used used to convert all transactions (also known as restatement) throughout the year.
+* All transactions involving Euro and Japanese Yen have been converted several times by this point in time. The last exchange rate being the one that is related to the date of the production of the Balance Sheet and continues to be updated with every subsequent month that the Balance Sheet is produced until the last day of the financial year. This last date provides the exchange rate used to convert all transactions throughout the year - this is known as restatement.
 
 Clever observers will realise that there may actually be a gains or losses associated with the difference between when the settlement actually happened (in Euro and Yen) and when the expense was recognised in USD. So an adjustment for foreign exchange differences is made to the accounts to show this difference. That's a lot of adjustments to make!
 
@@ -36,6 +36,6 @@ Clever observers will realise that there may actually be a gains or losses assoc
 
 > The simple solution to this accounting problem would have been if everybody just accepted USD as payment instead of Yen or Euro, then there would be no exchange rate differences to account for. The end of period Financial Statements would be a simple conversion from USD to GBP at the exchange rate of the date of the period end.
 
-In Totem Accounting, when we record a transaction in the functional currency, it also makes it super simple for producing reports in the Presentation Currency. You can do that already in the [Settings Module](/app-docs/settings.md) of the App.
+In Totem Accounting, when we record a transaction in the functional currency of the network - XTX - it also makes it super simple for producing reports in the Presentation Currency. You can do the conversion to Presentation Currency in the [Settings Module](/app-docs/settings.md) of the App.
 
 **In the next section we see how XTX is valued as a Unit of Account.**
