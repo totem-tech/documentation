@@ -10,7 +10,7 @@ At the time of writing this basket consists of:
 
 * 503 Corporate currencies 
 
-The motivation for including so many assets is that  is that large variations in exchange rate values for any one of these currencies, does not skew the overall value of the basket. It is designed to be this way in order to deal with the high volatility of cryptocurrencies.
+The motivation for including so many assets is that is that large variations in [Reference Exchange Rate](/information/overview-xtx-3?id=sources-of-data) values for any one of these currencies, does not skew the overall value of the basket. It is designed to be this way in order to deal with the high volatility of cryptocurrencies.
 
 > The deterministic value will have miniscule variations on a daily basis and therefore is very stable.
 
@@ -33,7 +33,7 @@ _The values for TMC and TMU are current at the time of writing._
 
 > The exchange rate of XTX fluctuates in balance with the fluctations in the Reference Exchange Rates and so represents a stable Unit of Account against which all currencies can be measured. This makes it an ideal candidate as a Functional Currency.
 
-In Totem all accounting enries are recorded in XTX by default. The entres are made at the exchange rate of the moment of recognition and not the currency that the transaction is made. In this way all accounting entries are recorded directly in the Functional Currency as per our example above and do not require further adjustments. The adjustment occurs automatically when producing the statements in the Presentation Currency.
+In Totem all accounting enries are recorded in XTX by default. The entres are made at the exchange rate of the moment of recognition and not the value in the currency that the transaction is made. In this way all accounting entries are recorded directly in the Functional Currency. As per our example above and do not require further adjustments. The adjustment occurs automatically when producing the statements in the Presentation Currency.
 
 
 ### Totem Global Currencies Index.

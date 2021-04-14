@@ -17,3 +17,11 @@ In 2014 Chris began research to explore the concept of Global Corporate Currenci
 **_Co-founder, Totem UI Developer, Software Engineer. (Germany)_**
 
 Toufiqur is a first-class Software Engineer having worked on various web based technologies since graduating in 2014. He has been instrumental in developing the core Totem UI functionality and the unique BONSAI protocol for distributed NoSQL databases.
+
+---
+
+### Félix Daudré-Vigner 
+
+**_Rust Developer (France)_**
+
+Félix has recently joined the team and hit the ground running. A senior programmer with expertise in several languages, he moved into Rust development. He is charged with the process of migrating the code-base in preparation for Totem joining the Polkadot Network and beyond.

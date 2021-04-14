@@ -11,9 +11,3 @@ Bilingual Marketing and Communication specialist with extensive experience worki
 ### Cheyenne Krishan
 
 **_Consultant Press Relations (Belgium)_**
-
-## Translators
-
-### Aeon C
-
-### Etienne Gaas
