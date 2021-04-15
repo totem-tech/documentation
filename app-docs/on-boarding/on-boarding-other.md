@@ -10,8 +10,8 @@ _**The cost per transaction is intended to be tiny and stable. It is currently e
 
 #### Getting XTX the cryptocurrency
 
-We are currently operating a so-called TestNet version of the network, and will be selling cryptocurrency at a large discount. 
+We are currently operating a so-called TestNet version of the network and XTX tokens are distributed for free. However there is an opportunity to buy the Totem Seed Funding Token (symbol: sTFT) and details can be found [here](information/issuance/funding-token.md).
 
 Early owners of the cryptocurrency will be able to sell their currency to users on the main network. We anticipate that corporations will prefer using Totem, because there are no licence fees and because the cost scales with use.
 
-To read more about this see the [**About the Crowdsale**](crowdsale-docs/crowdsale.md) documents.
+<!-- To read more about this see the [**About the Crowdsale**](crowdsale-docs/crowdsale.md) documents. -->
