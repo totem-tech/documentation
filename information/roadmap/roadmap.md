@@ -34,7 +34,7 @@ The Totem Marketplace is a foundational component, and its importance stemmed fr
 
 **This use case greatly expands the potential for commerce via exchange on the platform:**
 
-* Primary distribution mechanism for selling XTX to other users.
+<!-- * Primary distribution mechanism for selling XTX to other users. -->
 * Marketplace for selling or buying services.
 * Marketplace for swapping off-chain goods and services with an insured component.
 * An open exchange for cryptocurencies (OTC-like) with an insured component.
