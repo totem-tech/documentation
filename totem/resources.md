@@ -4,7 +4,7 @@ _Email:_ <a href="mailto:info@totemaccounting.com">info@totemaccounting.com</a>
 
 ## Totem Accounting Application
 
-_Live Testnet:_ <a href="http://bit.ly/3j78rYz">Live Accounting Testnet</a>
+_Live TestNet:_ <a href="http://bit.ly/3j78rYz">Live Accounting TestNet</a>
 
 _Early Adopters:_ <a href="http://bit.ly/36waf8f">Signup for news here</a>
 
