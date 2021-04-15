@@ -22,7 +22,7 @@ After submitting the form, you’ll receive within 24-hours a Totem crowdsale ac
 
 ### Step 5: 
 
-You can track your XTX in your Totem.Live account. The vesting period is time until MainNet launch, where your XTX on testnet will be part of the supply on MainNet. 
+You can track your XTX in your Totem.Live account. The vesting period is time until MainNet launch, where your XTX on TestNet will be part of the supply on MainNet. 
 
 ## Disclaimer:
 

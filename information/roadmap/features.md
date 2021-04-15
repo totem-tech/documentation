@@ -1,3 +1,5 @@
+> **We are aware that there are a number of scam crypto projects claiming to be Totem. These scammers have no code repositories or have issued a smart contract scam tokens using our Totem brand. Please check the Polkadot community forums to ensure you are communicating with the genuine Totem Team.**
+
 # Features List
 
 ### The following is a list all the features that have already been shipped, and are available in our live application already. 

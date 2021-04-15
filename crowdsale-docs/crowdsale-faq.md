@@ -28,7 +28,7 @@ Totem is designed to be used. If you use Totem for tasks, activities and timekee
 
 * **3.1** If you receive funds from the faucet and use these funds to work with Totem TestNets, then you will receive an allocation on MainNet. You will also be in line for an additional bonus allocation as a "thankyou" for helping us improve our product before going live. 
 
-* **3.2** If you receive funds from the faucet and do nothing, then no matter how large your balance, no funds will be allocated on MainNet. HODLing serves no purpose in Totem Testnets as the price is deterministic, but you can realise value by using the tokens yourself.
+* **3.2** If you receive funds from the faucet and do nothing, then no matter how large your balance, no funds will be allocated on MainNet. HODLing serves no purpose in Totem TestNets as the price is deterministic, but you can realise value by using the tokens yourself.
 
 * **3.3** If you receive funds from the faucet and attempt "simulate usage" for example by only transfering funds between Identities you will receive zero allocations of XTX on MainNet. This would be pretty dumb anyway because you burn transaction fees in the process.
 

@@ -1,3 +1,5 @@
+> **We are aware that there are a number of scam crypto projects claiming to be Totem. These scammers have no code repositories or have issued a smart contract scam tokens using our Totem brand. Please check the Polkadot community forums to ensure you are communicating with the genuine Totem Team.**
+
 ## XTX as a Functional Currency is a true Unit of Account.
 
 ### A Functional Currency is the nominated currency that every business - large or small - needs to decide upon in order to measure how it is performing. This is also known as a Unit of Account. 
