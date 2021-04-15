@@ -2,12 +2,11 @@
 
 # Consumption Scenarios.
 
-### In this section we look at the requirements for consuming and minting in the MainNet. 
+### In this section we look at the requirements for consuming XTX in the MainNet. 
 
 > **These are assumptions at the time of writing.** 
 >
-> The second planned network - Totem Lego Network - is intended to help identify the real demand for tokens.  
-> Early adopters and Contributors will not be penalised, and some bonus may be necessary during the migration to Lego and the MainNet.
+> The second planned network - Totem Lego Network - is intended to help identify the real demand for tokens.
 >
 > The quantity of tokens issued on the Totem Meccano Canary Network is not an indication of the quantity of tokens that will be issued on the MainNet.
 
@@ -32,6 +31,8 @@ To provide an idea on the likely usage, typically large global corporations have
 
 Once the full app is available and used we will be able to estimate the quantity of tokens required for the MainNet and to adjust holders balances accordingly.
 
-**If you came here from the _Crowdsale_ section you can navigate back [here](crowdsale-docs/overview-xtx-redirect.md).** 
+<!-- **If you came here from the _Crowdsale_ section you can navigate back [here](crowdsale-docs/overview-xtx-redirect.md).**  -->
 
-**If you came here from the _About Totem_ section continue to the Features of the App section.** 
+<!-- **If you came here from the _About Totem_ section continue to the Features of the App section.**  -->
+
+**In the next section read about the Feature and Milstones of our app development.**
