@@ -29,7 +29,7 @@ This will be programmed into the genesis block.
 
 This will initially be controlled by the Live Accounting Association, and will later be community owned. 
 
-**Note:** The Live Accounting Association will not migrate the balance of tokens from its holdings, but instead the Network Treasury will be allocated an amount equivalent to 51% of the coins to be minted at MainNet.
+**Note:** The Live Accounting Association will not migrate the balance of tokens from its holdings, but instead the Network Treasury will be allocated an amount equivalent to 51% of the coins to be minted at MainNet according to the price calculation above.
 
 The Treasury is intended to be the liquidity provider of last resort in the initial startup phases of MainNet. The funds will be used to provide liquidity to users, if the holders of burnt supply refuse to provide liquidity to commercial users. It is intended as a safety mechanism.
 
