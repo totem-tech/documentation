@@ -16,7 +16,7 @@ These are the Privacy Terms for Totem Live Accounting app.
 
         * For clarity the Totem Live App servers forward the already encrypted data but do not have access to read the personally identifyable data.
 
-        * The Totem servers will carry out services which inspect the other blockchains for payments. We need to do this in order to send messages to the XTX payment server to make payments to you. 
+        * The Totem servers will carry out services which inspect the other blockchains for payments. We need to do this in order to send messages to the TOTEM payment server to make payments to you. 
 
         * These are the only requirements that will involve Totem's servers for the Crowdsale.
 

@@ -2,7 +2,7 @@
 
 ### The intention is that sTFT holders will become the liquidity providers for the MainNet. 
 
-The amount of XTX created on MainNet is allocated as follows:
+The amount of TOTEM created on MainNet is allocated as follows:
 
 > **Quantity Minted By Burn + Early Adopter Migration Bonus** is the equivalent of 49%.
 >
@@ -12,7 +12,7 @@ The amount of XTX created on MainNet is allocated as follows:
 
 | Calculation                             |               |                |  |                        |
 |-----------------------------------------|---------------|----------------|--|------------------------|
-| The deterministic exchange rate for XTX | multiplied by | 0.02           | = | Discount Price           |
+| The deterministic exchange rate for TOTEM | multiplied by | 0.02           | = | Discount Price           |
 | Market Price of sTFT                    | divided by    | Discount Price | = | Quantity Minted By Burn |
 
 
@@ -22,7 +22,7 @@ This will be programmed into the genesis block.
 
 | Calculation                             |               |                | |                         |
 |-----------------------------------------|---------------|----------------|-|-------------------------|
-| Totem User’s TestNet XTX balances | multiplied by | 50 | = |         Early Adopter Migration Bonus           |
+| Totem User’s TestNet TOTEM balances | multiplied by | 50 | = |         Early Adopter Migration Bonus           |
 
 
 ## The Network Treasury

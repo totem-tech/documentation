@@ -14,14 +14,14 @@
 **Softcap** 
 
 * Raise $1,000,000  
-* Allocated Quantity 2,149,834,178,385 XTX | 21,498 bXTX 
-* Softcap Percentatge of Total Crowdsale Supply XTX 21.50%
+* Allocated Quantity 2,149,834,178,385 TOTEM | 21,498 bTOTEM 
+* Softcap Percentatge of Total Crowdsale Supply TOTEM 21.50%
 * Value of Allocation to Contributor: $ 100,000,000
 
 **Target Cap (above Softcap)**
 
 * Raise upto a further $2,500,000  
-* Allocated Quantity 2,687,292,722,981 XTX |  26,873 bXTX
+* Allocated Quantity 2,687,292,722,981 TOTEM |  26,873 bTOTEM
 * Target Cap Percentatge of Total Crowdsale Supply 26.87%
 * Value of Allocation to Contributor: $ 125,000,000
 

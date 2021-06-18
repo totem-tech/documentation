@@ -20,17 +20,17 @@ The purpose of the fundraising is to grow the team and accelerate development to
 
         * Transfers be made for smaller amounts
 
-        * Transfers must be paid for using XTX
+        * Transfers must be paid for using TOTEM
 
     * Price per sTFT $5000.
 
     * Chainlink is the primary Oracle for exchange rate determination used at time of investment.
 
-    * On MainNet launch, sTFT holders will burn tokens to acquire MainNet currency (symbol: XTX).
+    * On MainNet launch, sTFT holders will burn tokens to acquire MainNet currency (symbol: TOTEM).
 
-    * the market price of sTFT will determine the quantity of XTX tokens minted in the burn - and this in turn will determine the initial supply on MainNet.
+    * the market price of sTFT will determine the quantity of TOTEM tokens minted in the burn - and this in turn will determine the initial supply on MainNet.
 
-    * As XTX has a stable value the mechanism of burning will ensure that the owner receives a 98% discount of the market price at burn time. This will also increase the supply on MainNet. (See the next secion for more details about **_The Burn_**)
+    * As TOTEM has a stable value the mechanism of burning will ensure that the owner receives a 98% discount of the market price at burn time. This will also increase the supply on MainNet. (See the next secion for more details about **_The Burn_**)
 
         * The burn period will be time limited. 
         

@@ -21,7 +21,7 @@ The following tables are a reduced set of information. The categorisation of the
 | Debit                | Current Assets                | Bank Current Account                                                                           | 110100010000000 |
 | Debit                | Current Assets                | Bank Savings Account                                                                           | 110100020000000 |
 | Debit                | Current Assets                | Petty Cash                                                                                     | 110100030000000 |
-| Debit                | Current Assets                | XTX Balance                                                                                    | 110100040000000 |
+| Debit                | Current Assets                | TOTEM Balance                                                                                    | 110100040000000 |
 | Debit                | Current Assets                | Totem Runtime Deposit \(Escrow\)                                                               | 110100050000000 |
 | Debit                | Current Assets                | Fixed deposits                                                                                 | 110100060000000 |
 | Debit                | Current Assets                | Prepaid Expenses on account \(Operating Expense\)                                              | 110100070000000 |
@@ -414,7 +414,7 @@ The following tables are a reduced set of information. The categorisation of the
 | Debit                | Operating Expenses         | Product Registrations                                                                              | 250500290000017 |
 | Debit                | Operating Expenses         | Trademarks                                                                                         | 250500290000018 |
 | Debit                | Operating Expenses         | Design Rights                                                                                      | 250500290000019 |
-| Debit                | Operating Expenses         | XTX transaction fees                                                                               | 250500300000000 |
+| Debit                | Operating Expenses         | TOTEM transaction fees                                                                               | 250500300000000 |
 | Debit                | Operating Expenses         | Bank Charges                                                                                       | 250500300000001 |
 | Debit                | Operating Expenses         | Administration Business Tax                                                                        | 250500300000001 |
 | Debit                | Operating Expenses         | Corporate Membership                                                                               | 250500300000002 |

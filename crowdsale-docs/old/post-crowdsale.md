@@ -1,6 +1,6 @@
 ## What happens after the Crowdsale?
 
-Once the Crowdsale is completed some of the Contributors will be able to sell their XTX allocations according to the Release Calendar below.
+Once the Crowdsale is completed some of the Contributors will be able to sell their TOTEM allocations according to the Release Calendar below.
 
 This largely depends on the final Multiplier Level that was acheived by the Contributors.
 
@@ -16,9 +16,9 @@ This table outlines
 | 9 Months             | CEB \+ 1,555,200              |
 | 12 Months            | CEB \+ 2,073,600              |
 
-### Post-Crowdsale Release Calendar for XTX
+### Post-Crowdsale Release Calendar for TOTEM
 
-This table outlines how much XTX can be released 
+This table outlines how much TOTEM can be released 
 
 | Multiplier Level | 0 Months          | 3 Months          | 6 Months           | 9 Months          | 12 Months         |
 |:----------------:|------------------:|------------------:|-------------------:|------------------:|------------------:|

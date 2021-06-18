@@ -26,17 +26,17 @@ The contributions are received and administered by the Live Accounting Associati
 
 * Contributors cannot remove currencies once added. However we ask that you do not add currencies you do not intend to pay with. 
 
-* All payments received after the Crowdsale ends will still receive XTX allocations but only at the Base Allocation rate for their currency. No multiplier will be applied for late received funds.
+* All payments received after the Crowdsale ends will still receive TOTEM allocations but only at the Base Allocation rate for their currency. No multiplier will be applied for late received funds.
 
 * The cut-off date will be defined by the Live Accounting Association after Crowdsale closes. This will be known as "The Last Allocation Time" and cannot be appealed. 
 
-* The XTX allocations will be available to view during the Crowdsale in the registration form. You are expected to view the form from time-to-time.
+* The TOTEM allocations will be available to view during the Crowdsale in the registration form. You are expected to view the form from time-to-time.
 
 * The final allocation is only calculated after the Crowdsale ends in order to capture funds sent at the very last minute. We advise you do not send funds at the last minute. The registration form allows you to calculate your Multiplier Level and depends on funds that have already been sent and received.
 
 * The Crowdsale locking terms are set out in the [Lock Release Schedule](/crowdsale-docs/crowdsale-details?id=lock-release-schedule). 
 
-* With the exception of the smallest contribution level there will be a continuous release of your XTX every quarter for 12 months from The Last Allocation Time. The remaining balance at the end of the lock periods will be carried over to the MainNet.
+* With the exception of the smallest contribution level there will be a continuous release of your TOTEM every quarter for 12 months from The Last Allocation Time. The remaining balance at the end of the lock periods will be carried over to the MainNet.
 
 ### Crowdsale Dates
 
@@ -73,8 +73,8 @@ The Soft Cap set at $1M USD is the level at which we aim to raise funds to suppo
 
     * We use this as a simple ETH contribution counter for the whitelisted addresses and the tokens will not be transferable.
 
-* All payments to the Ethereum smart contract via non-white-listed addresses are considered donations and are not entitled to XTX.
+* All payments to the Ethereum smart contract via non-white-listed addresses are considered donations and are not entitled to TOTEM.
     
-    * However, any contributor can **retrospectively white-list their Ethereum address** in Totem Live App to retroactively acquire XTX in the Crowdsale. 
+    * However, any contributor can **retrospectively white-list their Ethereum address** in Totem Live App to retroactively acquire TOTEM in the Crowdsale. 
 
     * Only whitelisted Ethereum paid-from addresses can it be considered in the final tally, and allocation level.
