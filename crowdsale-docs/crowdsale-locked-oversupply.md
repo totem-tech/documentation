@@ -11,7 +11,7 @@ The funds were originally intended to be the total supply but now is intended to
 5) Send Balance to unspendable account.
     
     
-| Category                                                    | Lock Period | Amount in XTX         | Amount in bXTX |
+| Category                                                    | Lock Period | Amount in TOTEM         | Amount in bTOTEM |
 |-------------------------------------------------------------|------------:|----------------------:|---------------:|
 | Estimated Oversupply                                        | Last Block  | 240,344,321,420,297   | 2,403,443      |
 

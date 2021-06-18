@@ -1,6 +1,6 @@
 > **We are aware that there are a number of scam crypto projects claiming to be Totem. These scammers have no code repositories or have issued a smart contract scam tokens using our Totem brand. Please check the Polkadot community forums to ensure you are communicating with the genuine Totem Team.**
 
-## XTX as a Functional Currency is a true Unit of Account.
+## TOTEM as a Functional Currency is a true Unit of Account.
 
 ### A Functional Currency is the nominated currency that every business - large or small - needs to decide upon in order to measure how it is performing. This is also known as a Unit of Account. 
 
@@ -38,6 +38,6 @@ Clever observers will realise that there may actually be a gains or losses assoc
 
 > The simple solution to this accounting problem would have been if everybody just accepted USD as payment instead of Yen or Euro, then there would be no exchange rate differences to account for. The end of period Financial Statements would be a simple conversion from USD to GBP at the exchange rate of the date of the period end.
 
-In Totem Accounting, when we record a transaction in the functional currency of the network - XTX - it also makes it super simple for producing reports in the Presentation Currency. You can do the conversion to Presentation Currency in the [Settings Module](/app-docs/settings.md) of the App.
+In Totem Accounting, when we record a transaction in the functional currency of the network - TOTEM - it also makes it super simple for producing reports in the Presentation Currency. You can do the conversion to Presentation Currency in the [Settings Module](/app-docs/settings.md) of the App.
 
-**In the next section we see how XTX is valued as a Unit of Account.**
+**In the next section we see how TOTEM is valued as a Unit of Account.**

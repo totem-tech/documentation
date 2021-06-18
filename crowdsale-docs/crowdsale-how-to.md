@@ -18,11 +18,11 @@ BTC DOT and KSM will have unique addresses per signup, in order to monitor the a
 ### Step 3: 
 ### Step 4: 
 
-After submitting the form, you’ll receive within 24-hours a Totem crowdsale account address (it will be specific to you and the crypto). You can execute payment to buy Totem xTx at any point during the crowdsale.
+After submitting the form, you’ll receive within 24-hours a Totem crowdsale account address (it will be specific to you and the crypto). You can execute payment to buy TOTEM at any point during the crowdsale.
 
 ### Step 5: 
 
-You can track your XTX in your Totem.Live account. The vesting period is time until MainNet launch, where your XTX on TestNet will be part of the supply on MainNet. 
+You can track your TOTEM in your Totem.Live account. The vesting period is time until MainNet launch, where your TOTEM on TestNet will be part of the supply on MainNet. 
 
 ## Disclaimer:
 
@@ -48,7 +48,7 @@ All funds received will be held by the Live Accounting Association charged with 
 
 **In order to contribute to the Crowdsale Contributors must register using the Registration Form in Totem Live App.** 
 
-The Totem Live App also operates a Contributions Module that allows Contributors to track the progress of their payments and distributions of the XTX currency.
+The Totem Live App also operates a Contributions Module that allows Contributors to track the progress of their payments and distributions of the TOTEM currency.
 
 > Use this link to register and to connect to the Contributions Module. You can return at any time.
 

@@ -4,7 +4,7 @@ During the Crowdsale, funds will be released to Contributors in tranches of 3 mo
 
 However, The Founder’s allocation will be locked for the entire lock period + 3 months so that all Contributors receive funds before they do. The reserved funds are:
 
-| Category                                                    | Lock Period                               | Amount in XTX         | Amount in bXTX |
+| Category                                                    | Lock Period                               | Amount in TOTEM         | Amount in bTOTEM |
 |-------------------------------------------------------------|:-----------------------------------------:|----------------------:|---------------:|
 | Founder Reservation                                         | 15 months or MainNet whichever is shorter | 1,612,375,633,789     | 16,124         |
 

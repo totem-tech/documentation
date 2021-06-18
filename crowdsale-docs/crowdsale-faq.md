@@ -1,14 +1,14 @@
 ## Frequently Asked Questions
 
-### 1. Can I sell XTX after the Crowdsale?
+### 1. Can I sell TOTEM after the Crowdsale?
 
 **Yes.** 
 
 Depending on which contribution level you acheived some of your allocation maybe be locked until MainNet Launch, but most of it will be released in the 12 months following the end of the Crowdsale. See the Schedules for details.
 
-We already have the basis for a cross-chain OTC Marketplace available in the Totem Live App, and we aim to have it completed shortly after the Crowdsale. This will allow you to exchange XTX for Bitcoin, Ethereum and Dots and possibly other cryptocurrencies.
+We already have the basis for a cross-chain OTC Marketplace available in the Totem Live App, and we aim to have it completed shortly after the Crowdsale. This will allow you to exchange TOTEM for Bitcoin, Ethereum and Dots and possibly other cryptocurrencies.
 
-It does not preclude exchanges from listing XTX where you may be able to exchange your released funds against any cryptocurrency.
+It does not preclude exchanges from listing TOTEM where you may be able to exchange your released funds against any cryptocurrency.
 
 ### 2. Can I get free tokens?
 
@@ -22,7 +22,7 @@ If your friend signs up they will automatically receive the standard sign-up all
 
 **Using Totem**
 
-Totem is designed to be used. If you use Totem for tasks, activities and timekeeping as well as payments, your account will receive an additional bonus allocation of XTX on MainNet. The more you use Totem the greater the allocation on MainNet. Remember the Developers will not be holding XTX and the idea is that the majority of XTX must be distributed to the community. So get to work!
+Totem is designed to be used. If you use Totem for tasks, activities and timekeeping as well as payments, your account will receive an additional bonus allocation of TOTEM on MainNet. The more you use Totem the greater the allocation on MainNet. Remember the Developers will not be holding TOTEM and the idea is that the majority of TOTEM must be distributed to the community. So get to work!
 
 ### 3. What happens to funds allocated from the faucet?
 
@@ -30,7 +30,7 @@ Totem is designed to be used. If you use Totem for tasks, activities and timekee
 
 * **3.2** If you receive funds from the faucet and do nothing, then no matter how large your balance, no funds will be allocated on MainNet. HODLing serves no purpose in Totem TestNets as the price is deterministic, but you can realise value by using the tokens yourself.
 
-* **3.3** If you receive funds from the faucet and attempt "simulate usage" for example by only transfering funds between Identities you will receive zero allocations of XTX on MainNet. This would be pretty dumb anyway because you burn transaction fees in the process.
+* **3.3** If you receive funds from the faucet and attempt "simulate usage" for example by only transfering funds between Identities you will receive zero allocations of TOTEM on MainNet. This would be pretty dumb anyway because you burn transaction fees in the process.
 
 ### 4. Are HODLers penalised?
 
@@ -40,11 +40,11 @@ We want to encourage people to use Totem because it helps us define product mark
 
 * **4.1** If you receive funds from Crowdsale, and actually use Totem, then this will cause your balance to be reduced. To make up for this you will be recompensated in MainNet with an additional bonus based on the amount of usage on top of your original allocation. The amount is to be decided.
 
-    * **4.11** A cut-off period will come into play to determine the account activity and the amount of XTX that will be allocated on MainNet. This will be notified to all users in advance.
+    * **4.11** A cut-off period will come into play to determine the account activity and the amount of TOTEM that will be allocated on MainNet. This will be notified to all users in advance.
 
-* **4.2** If you receive funds from Crowdsale, and do nothing, you will be allocated the same quantity of XTX on MainNet.
+* **4.2** If you receive funds from Crowdsale, and do nothing, you will be allocated the same quantity of TOTEM on MainNet.
 
-* **4.3** If you receive funds from Crowdsale, and sell some, but do no other activity in Totem you will be allocated the remaining quantity of XTX on MainNet.
+* **4.3** If you receive funds from Crowdsale, and sell some, but do no other activity in Totem you will be allocated the remaining quantity of TOTEM on MainNet.
 
 
 ### 5. Is this an Initial Parachain Offering?
@@ -63,7 +63,7 @@ If your funds are not credited after 24 hours, you can trigger a further manual 
 
 ### 7. What happens if I pay after the Crowdsale is closed?
 
-You contributions will be counted, but you will not achieve multipliers no matter how much you have contributed. If this is the case XTX will be allocated at a 1:1 value level for the cryptocurrrency you paid with.
+You contributions will be counted, but you will not achieve multipliers no matter how much you have contributed. If this is the case TOTEM will be allocated at a 1:1 value level for the cryptocurrrency you paid with.
 
 ### 8. When will my total allocations be calculated?
 
@@ -77,12 +77,12 @@ Mostly this will be in the weeks following the Crowdsale to allow for any late p
 
 **Yes unless over subscribed**
 
-The maximum contribution is determined by the maximum number of XTX that is available for allocation. This is known as the Crowdsale Target Cap. If the Live Accounting Association judges that the Crowdsale is over-subscribed, it can at its own discretion increase the quantity of XTX to be allocated.
+The maximum contribution is determined by the maximum number of TOTEM that is available for allocation. This is known as the Crowdsale Target Cap. If the Live Accounting Association judges that the Crowdsale is over-subscribed, it can at its own discretion increase the quantity of TOTEM to be allocated.
 
 * **10.1 How much is the Crowdsale Cap?**
 
-> The Crowdsale Soft Cap is equivalent to 100M units of XTX or $3.5M.
-> The Crowdsale Targte Cap is equivalent to 100M units of XTX or $3.5M.
+> The Crowdsale Soft Cap is equivalent to 100M units of TOTEM or $3.5M.
+> The Crowdsale Targte Cap is equivalent to 100M units of TOTEM or $3.5M.
 
 We do not expect this to be reached, and in any case the remaining funds will not be carried over to MainNet.
 

@@ -1,6 +1,6 @@
 > **We are aware that there are a number of scam crypto projects claiming to be Totem. These scammers have no code repositories or have issued a smart contract scam tokens using our Totem brand. Please check the Polkadot community forums to ensure you are communicating with the genuine Totem Team.**
 
-# Free allocations of XTX network tokens:
+# Free allocations of TOTEM network tokens:
 
 ### All available coins not already allocated to _users_ and not accidentally burnt in the development process will be re-assigned to the Live Accounting Association address. This includes all founder allocations that were made at the genesis block. 
 
@@ -22,4 +22,4 @@
 
 > **All users signed up on the TestNet and who have actually used Totem Live Accounting will receive a 50x multiplyer when their balance is migrated to MainNet.**
 
-**In the next section we provide information about paid allocations of XTX.**
+**In the next section we provide information about paid allocations of TOTEM.**
