@@ -1,22 +1,22 @@
-## What happens after the Crowdsale?
+## What happens after the Crowdfunding?
 
-Once the Crowdsale is completed some of the Contributors will be able to sell their TOTEM allocations according to the Release Calendar below.
+Once the Crowdfunding is completed some of the Contributors will be able to sell their TOTEM allocations according to the Release Calendar below.
 
 This largely depends on the final Multiplier Level that was acheived by the Contributors.
 
-### Post Crowdsale Staggered Release Calendar
+### Post Crowdfunding Staggered Release Calendar
 
 This table outlines 
 
 | Equivalent in months | Release Schedule              |
 |:--------------------:|:-----------------------------:|
-| 0 Months             | Crowdsale End Block(CEB) \+ 0 |
+| 0 Months             | Crowdfunding End Block(CEB) \+ 0 |
 | 3 Months             | CEB \+ 518,400                |
 | 6 Months             | CEB \+ 1,036,800              |
 | 9 Months             | CEB \+ 1,555,200              |
 | 12 Months            | CEB \+ 2,073,600              |
 
-### Post-Crowdsale Release Calendar for TOTEM
+### Post-Crowdfunding Release Calendar for TOTEM
 
 This table outlines how much TOTEM can be released 
 

@@ -14,7 +14,7 @@ The Totem Development Team will apply for a grant from the Live Accounting Assoc
 | Development & Engineering                    | 38.67%                   |
 | Marketing                                    | 29.43%                   |
 | Network & Operations                         | 15.29%                   |
-| Pre-Crowdsale Costs                          | 15.36%                   |
+| Pre-Crowdfunding Costs                          | 15.36%                   |
 | Travel                                       | 1.24%                    |
 
 Ideally the Totem Team would like to grow quickly. There may be further rounds of contribution.

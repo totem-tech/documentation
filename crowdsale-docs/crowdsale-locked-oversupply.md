@@ -2,12 +2,12 @@
     
 **An unspendable account will be set up to contain the oversupply of tokens on the existing network.** 
 
-The funds were originally intended to be the total supply but now is intended to be locked for the life of the network in order not to penalise Contributors to the Crowdsale. The process will follow a number of steps:
+The funds were originally intended to be the total supply but now is intended to be locked for the life of the network in order not to penalise Contributors to the Crowdfunding. The process will follow a number of steps:
 
 1) Gather all available funds to one account.
-2) Allocate the Crowdsale Funds to the Live Accounting Association account and the the Treasury.
+2) Allocate the Crowdfunding Funds to the Live Accounting Association account and the the Treasury.
 3) Allocate the Referral Fund.
-4) Allocate partial Crowdsale funds to the Faucet for security reasons.
+4) Allocate partial Crowdfunding funds to the Faucet for security reasons.
 5) Send Balance to unspendable account.
     
     
@@ -17,4 +17,4 @@ The funds were originally intended to be the total supply but now is intended to
 
 _The unspendable account is programattically created and has no associated private key._
 
-**[Go Back](crowdsale-docs/crowdsale-details.md)**
+**[Go Back](Crowdfunding-docs/Crowdfunding-details.md)**

@@ -1,12 +1,12 @@
 # Regulation, The Howey Test and Swiss FINMA
 
-In this section we detail the two most important considerations; the so-called **"Howey Test"** and **Know Your Customer (KYC) and Anti-Money Laundering (AML) Compliance** in relation to the Crowdsale. 
+In this section we detail the two most important considerations; the so-called **"Howey Test"** and **Know Your Customer (KYC) and Anti-Money Laundering (AML) Compliance** in relation to the Crowdfunding. 
 
-In addition as the Live Accounting Association, based in Switzerland is administering the Crowdsale and must follow the Swiss Financial Market's Authority Guidance which is outlined below.
+In addition as the Live Accounting Association, based in Switzerland is administering the Crowdfunding and must follow the Swiss Financial Market's Authority Guidance which is outlined below.
 
 ---
 
-**_Do not register or contribute to the Crowdsale if you do not understand anything that is documented here or in the other Crowdsale pages._**
+**_Do not register or contribute to the Crowdfunding if you do not understand anything that is documented here or in the other Crowdfunding pages._**
 
 ---
 
@@ -14,7 +14,7 @@ In addition as the Live Accounting Association, based in Switzerland is administ
 
 The Howey Test which came out of the 1946 Securities and Exchange Commission Court Case  [Howey vs SEC](https://en.wikipedia.org/wiki/SEC_v._W._J._Howey_Co.) has become widely accepted as  being applicable to all cryptocurrency fundraising efforts since 2017. 
 
-The purpose of the Howey Test is to determine if the Crowdsale constitutes an "investment contract".
+The purpose of the Howey Test is to determine if the Crowdfunding constitutes an "investment contract".
 
 The Howey Test is set out in four parts. All four parts need to be passed in order for the distribution of Tokens to be considered an "investment contract" and therefore as a security. If one or more parts fail, then the Token _may not_ be considered a security in most jurisdictions.
 
@@ -27,7 +27,7 @@ The four parts of the test are broadly:
 * Is there an expectation of profits or returns on investment?
 * Do returns rely solely on the efforts of others?
 
-In the following sections we detail how these tests apply to this Crowdsale. Please read this very carefully, and if you have any questions you may reach out to us on any channel for clarification.
+In the following sections we detail how these tests apply to this Crowdfunding. Please read this very carefully, and if you have any questions you may reach out to us on any channel for clarification.
 
 
 ### ANALYSIS 1: Is there an investment of money?
@@ -54,26 +54,26 @@ It should be noted that as the Totem Live Accounting Network is a permissionless
 
 However users of third-party exchanges should be aware that the spot price (or market price) is completely disconnected from the deterministicly calculated price in the Totem Live Accounting Network, and therefore users must consider and are entirely responsible for impairment risks when selling or buying on after-market exchanges.
 
-The value of the TOTEM allocated either by the Faucet or the Crowdsale is in accordance with the valuation algorithm. At the time of the network start, this value was equivalent to around 0.18 USD at a time of allocation or 16181 TOTEM. 
+The value of the TOTEM allocated either by the Faucet or the Crowdfunding is in accordance with the valuation algorithm. At the time of the network start, this value was equivalent to around 0.18 USD at a time of allocation or 16181 TOTEM. 
 
 This amount is sufficient for micro-business to conduct accounting operations and business activities in the Totem Live Accounting Application essentially for free for a meaningful period of time without requiring an investment of fiat or cryptocurrency funds.
 
 In the case of a requested to replenish TOTEM, the Faucet allocated the funds unconditionally and for free although this will partially change in future as outlined here.
 
-Whilst the Tokens have been distributed by the Faucet prior to the Crowdsale, the entire remaining balances held by the Founders will be transferred to the Live Accounting Association, an independent non-profit organisation based in Switzerland. This will be carried out with one-off network reset which will not penalise other existing holders.
+Whilst the Tokens have been distributed by the Faucet prior to the Crowdfunding, the entire remaining balances held by the Founders will be transferred to the Live Accounting Association, an independent non-profit organisation based in Switzerland. This will be carried out with one-off network reset which will not penalise other existing holders.
 
-The Crowdsale will be administered by the Live Accounting Association, and the basis of the allocation will be that the TOTEM Tokens will be distributed as a measure of the contribution as a donation to the Association and not to the Founders. The donation does not constitute or confer membership of the Association, which can be obtained seperately. 
+The Crowdfunding will be administered by the Live Accounting Association, and the basis of the allocation will be that the TOTEM Tokens will be distributed as a measure of the contribution as a donation to the Association and not to the Founders. The donation does not constitute or confer membership of the Association, which can be obtained seperately. 
 
 The Live Accounting Association will set aside money received as a donation to enable the purpose of the Association.
 
 > The purpose of the Live Accounting Association is to provide funding for the development of the Live Accounting Network. Any developer - not just the Founders of Totem Accounting - can apply for grants from the Association for work that carries out the purpose of the Association.
 
-* Founders will not receive an allocation of TOTEM from the Crowdsale.
+* Founders will not receive an allocation of TOTEM from the Crowdfunding.
 * In future all balances will be transferred to Totem Live Accounting MainNet at a minimum of 1:1 ratio of allocation. 
 
 #### Howey Test 1 Conclusion 
 
-The first test is unlikely to be satified as Totem Transactions (ticker symbol: TOTEM) were distributed on an already live network via an already live application, for free and for a significant period of time prior the Crowdsale.
+The first test is unlikely to be satified as Totem Transactions (ticker symbol: TOTEM) were distributed on an already live network via an already live application, for free and for a significant period of time prior the Crowdfunding.
 
 Therefore on this point the Token does not qualify as a Security. Consideration must still be given to the other tests.
 
@@ -81,9 +81,9 @@ Therefore on this point the Token does not qualify as a Security. Consideration 
 
 ### ANALYSIS 2: Is there a so-called "Common Enterprise"?
 
-As the Totem Live Accounting Network has already been developed and is already live, there is no requirement for the Contributors to the Crowdsale to be part of a common enterprise in order for the project to be developed, launched or to succeed.
+As the Totem Live Accounting Network has already been developed and is already live, there is no requirement for the Contributors to the Crowdfunding to be part of a common enterprise in order for the project to be developed, launched or to succeed.
 
-The TOTEM Tokens are unlocked for Contributors in tranches shortly after the Crowdsale completes using the application itself. Contributor can immediately use some or all of their allocations of TOTEM to enable the application or to transfer to other parties as a form of settlement at the deterministic exchange rate. 
+The TOTEM Tokens are unlocked for Contributors in tranches shortly after the Crowdfunding completes using the application itself. Contributor can immediately use some or all of their allocations of TOTEM to enable the application or to transfer to other parties as a form of settlement at the deterministic exchange rate. 
 
 #### Howey Test 2 Conclusion
 
@@ -96,16 +96,16 @@ The second test fails to establish a common enterprise, as Contributors are part
 There are three categories of Totem Transaction owners:
 
 * Early users / owners who were allocated TOTEM from tne Faucet
-* Crowdsale Contributors owners who were allocated TOTEM from the Faucet as a function of their contribution
+* Crowdfunding Contributors owners who were allocated TOTEM from the Faucet as a function of their contribution
 * Owners who are both of the above
 
 For users allocated Totem Transactions (ticker symbol: TOTEM) from the Faucet alone there is no expectation of profit. No publicity has ever been made to this effect at any time.
 
-Totem Transactions that are allocated by the Live Accounting Association in the Crowdsale are allocated at a discount to the deterministic exchange rate. The discounts are set out in the schedules to the Crowdsale and are entirely dependent on the contribution level.
+Totem Transactions that are allocated by the Live Accounting Association in the Crowdfunding are allocated at a discount to the deterministic exchange rate. The discounts are set out in the schedules to the Crowdfunding and are entirely dependent on the contribution level.
 
-It could be argued that Contributors can expect that the TOTEM will be accepted by other parties on the Network at the deterministic exchange rate and therefore an element of increase in value is built-in to the discounted distribution from the Crowdsale. 
+It could be argued that Contributors can expect that the TOTEM will be accepted by other parties on the Network at the deterministic exchange rate and therefore an element of increase in value is built-in to the discounted distribution from the Crowdfunding. 
 
-However this is only true if the contributor intends not to use Totem Live Accounting and therefore special conditions exist for so-called "Hodlers". It means that penalties apply under certain circumstances to "Hodlers" as set out in the Crowdsale FAQ. Therefore in order for returns to be realised the user must also perform accounting tasks that are useful for them.
+However this is only true if the contributor intends not to use Totem Live Accounting and therefore special conditions exist for so-called "Hodlers". It means that penalties apply under certain circumstances to "Hodlers" as set out in the Crowdfunding FAQ. Therefore in order for returns to be realised the user must also perform accounting tasks that are useful for them.
 
 It is however entirely expected that when TOTEM is used for example in conjuction with paying supplier invoices the value of that settlement is agreed based on the deterministic exchange rate algorithm. At current rates, and given that the mechanism is designed to provide a stable value, this will mean an increase received in relative value compared to the discounted value of all contributions.
 
@@ -147,13 +147,13 @@ These facts alone mean that the Howey Test is not satified that the enterprise r
 
 ## Howey Test Conclusions
 
-Long before the Crowdsale, the Totem Live Accounting Network and Application became public and operational with the core functionality having already been built, launched and available to the public even in the Test Network form.
+Long before the Crowdfunding, the Totem Live Accounting Network and Application became public and operational with the core functionality having already been built, launched and available to the public even in the Test Network form.
 
-Furthermore TOTEM has been issued and distributed for a significant period of time prior to the Crowdsale for free and will continue to allocated in this way, albeit in some limited capacity, after the Crowdsale completes.
+Furthermore TOTEM has been issued and distributed for a significant period of time prior to the Crowdfunding for free and will continue to allocated in this way, albeit in some limited capacity, after the Crowdfunding completes.
 
 The users of the Network are not required to carry out work in order to give value to the Token as the value is determined by an independent algorithm rather than a third-party market price. 
 
-The application has almost entirely been completed by the Founders prior to the Crowdsale and can be used today although there are still many parts to be added.
+The application has almost entirely been completed by the Founders prior to the Crowdfunding and can be used today although there are still many parts to be added.
 
 This analysis is subject to alternative interpretation however for the reasons set out above three out of the four tests fail and on this basis the Totem Transaction Token (ticker symbol: TOTEM) is unlikely to considered a security in the USA.
 
@@ -201,7 +201,7 @@ In this case the Totem Transactions (ticker symbol: TOTEM) exhibit missing prope
 
 ### ANALYSIS 7. Are Totem Transactions Asset Tokens?
 
-Totem Transactions (ticker symbol: TOTEM) that are to be distributed in the Crowdsale, are allocated on an existing so-called TestNet system. They are intended to be migrated to the MainNet system when it goes live. 
+Totem Transactions (ticker symbol: TOTEM) that are to be distributed in the Crowdfunding, are allocated on an existing so-called TestNet system. They are intended to be migrated to the MainNet system when it goes live. 
 
 The allocation is conditional upon the contributor to comply with the terms of migration, but in general remaining balances on accounts will be migrated plus any additional bonuses earned in the interim.
 
@@ -209,7 +209,7 @@ The TOTEM Tokens are standardised, however due to the algorithmic mechanism by w
 
 Furthermore the value is derived from a basket of independent assets that are not actually held or used as collateral in this calculation. In other words there are no assets that are held which underwrite the value of Totem Transactions. The value is primarily calculated for accounting purposes in the application itself.
 
-Totem Transactions have been self-issued since April 2019 and although it has not been publicised, given the fact that a Crowdsale will occur there may be an expectation of a claim on the MainNet for non-paying Contributors.
+Totem Transactions have been self-issued since April 2019 and although it has not been publicised, given the fact that a Crowdfunding will occur there may be an expectation of a claim on the MainNet for non-paying Contributors.
 
 #### Test 7 Conclusion
 
@@ -268,7 +268,7 @@ The personal Information that we request is as follows:
 * Given name and Family name
 
 * Residential Address including Postcode and Country
-    * Residents of certain countries are excluded from participating in the Crowdsale, but ***are not excluded from using the app***. See the [Crowdsale Terms](crowdsale.md).
+    * Residents of certain countries are excluded from participating in the Crowdfunding, but ***are not excluded from using the app***. See the [Crowdfunding Terms](Crowdfunding.md).
 
 * Email address
-    * Registrants' email addresses will be shared by the Live Accounting Association with the Totem Accounting and subscribed to the mailing list in order to facilitate announcements about the Crowdsale progress and other news or relevant communications.
+    * Registrants' email addresses will be shared by the Live Accounting Association with the Totem Accounting and subscribed to the mailing list in order to facilitate announcements about the Crowdfunding progress and other news or relevant communications.

@@ -14,22 +14,23 @@
     * [Implemented Features](information/roadmap/features.md)
     * [Roadmap](information/roadmap/roadmap.md)
         * [To-do in 2021](information/roadmap/roadmap-1.md)
-<!-- * [**Hello Crowdsale!**](crowdsale-docs/crowdsale.md)
-    * [Overview](crowdsale-docs/crowdsale-at-a-glance.md)
-    * [Token Economics](crowdsale-docs/overview-token-redirect.md)
-    * [Crowdsale Details](crowdsale-docs/crowdsale-details.md)
-    * [Use of Funds](crowdsale-docs/crowdsale-use-of-funds.md)
-    * [**How to Participate**](crowdsale-docs/crowdsale-how-to.md)
-    * [Crowdsale FAQ](crowdsale-docs/crowdsale-faq.md)
-    * [Regulation](crowdsale-docs/regulation.md)
-    * [Contribution Terms](crowdsale-docs/contribution-terms.md) -->
-    <!-- * [Post Crowdsale](crowdsale-docs/post-crowdsale.md) -->
+<!-- * [**Hello Crowdfunding!**](Crowdfunding-docs/Crowdfunding.md)
+    * [Overview](Crowdfunding-docs/Crowdfunding-at-a-glance.md)
+    * [Token Economics](Crowdfunding-docs/overview-token-redirect.md)
+    * [Crowdfunding Details](Crowdfunding-docs/Crowdfunding-details.md)
+    * [Use of Funds](Crowdfunding-docs/Crowdfunding-use-of-funds.md)
+    * [**How to Participate**](Crowdfunding-docs/Crowdfunding-how-to.md)
+    * [Crowdfunding FAQ](Crowdfunding-docs/Crowdfunding-faq.md)
+    * [Regulation](Crowdfunding-docs/regulation.md)
+    * [Contribution Terms](Crowdfunding-docs/contribution-terms.md) -->
+    <!-- * [Post Crowdfunding](Crowdfunding-docs/post-Crowdfunding.md) -->
 * [About the Team](totem/team/team-core.md)
     * [Extended Dev Team](totem/team/team-extended-dev.md)
     * [Security Team](totem/team/team-security.md)
     * [Operations Team](totem/team/team-operations.md)
     * [Advisors](totem/team/team-advisors.md)
     <!-- * [Architecture](information/architecture.md) -->
+* [Parachain Slot Auction](parachain-auction/parachain-auction.md)
 ---
 * [**Navigating the App**](app-docs/navigation.md)
     * [Getting Started](app-docs/on-boarding/getting-started.md)

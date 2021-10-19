@@ -6,9 +6,9 @@ This table shows the total overall TOTEM that can be released over the 12 month 
 
 Remaining balances on accounts are transferred to MainNet.
 
-An additional multiplier (exact value to be decided) will be applied on MainNet under the conditions outlined in the [FAQ - Are HODLers Penalised?](crowdsale-docs/crowdsale-faq.md?id=_4-are-hodlers-penalised).
+An additional multiplier (exact value to be decided) will be applied on MainNet under the conditions outlined in the [FAQ - Are HODLers Penalised?](Crowdfunding-docs/Crowdfunding-faq.md?id=_4-are-hodlers-penalised).
 
-| Multiplier Level | %age Released after Crowdsale | Released Amount     | Equivalent Released |
+| Multiplier Level | %age Released after Crowdfunding | Released Amount     | Equivalent Released |
 |:----------------:|:-----------------------------:|--------------------:|----      ----------:|
 | 1                | 100\.00%                      |  29,667,936 TOTEM     | 0\.0108 ≜BTC        |
 | 2                | 61\.80%                       |  1,483,396,849 TOTEM  | 0\.5400 ≜BTC        |

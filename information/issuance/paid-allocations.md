@@ -4,7 +4,7 @@
 
 ### There are currently no plans to issue TOTEM tokens in exchange for payments to Totem or the Live Accounting Association.
 
-We are planning a Crowdsale but this will be based on our limited supply Seed Funding Token which you can read about in the next section.
+We are planning a Crowdfunding but this will be based on our limited supply Seed Funding Token which you can read about in the next section.
 
 ## What if an exchange lists TOTEM?
 

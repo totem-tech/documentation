@@ -31,7 +31,7 @@ To provide an idea on the likely usage, typically large global corporations have
 
 Once the full app is available and used we will be able to estimate the quantity of tokens required for the MainNet and to adjust holders balances accordingly.
 
-<!-- **If you came here from the _Crowdsale_ section you can navigate back [here](crowdsale-docs/overview-token-redirect.md).**  -->
+<!-- **If you came here from the _Crowdfunding_ section you can navigate back [here](Crowdfunding-docs/overview-token-redirect.md).**  -->
 
 <!-- **If you came here from the _About Totem_ section continue to the Features of the App section.**  -->
 

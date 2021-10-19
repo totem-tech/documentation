@@ -1,6 +1,6 @@
 # The Burn 
 
-### The intention is that sTFT holders will become the liquidity providers for the MainNet. 
+### The intention is that LEGO holders will become the liquidity providers for the MainNet. 
 
 The amount of TOTEM created on MainNet is allocated as follows:
 
@@ -13,7 +13,7 @@ The amount of TOTEM created on MainNet is allocated as follows:
 | Calculation                             |               |                |  |                        |
 |-----------------------------------------|---------------|----------------|--|------------------------|
 | The deterministic exchange rate for TOTEM | multiplied by | 0.02           | = | Discount Price           |
-| Market Price of sTFT                    | divided by    | Discount Price | = | Quantity Minted By Burn |
+| Market Price of LEGO                    | divided by    | Discount Price | = | Quantity Minted By Burn |
 
 
 ## Early Adopter Migration Bonus Calculation

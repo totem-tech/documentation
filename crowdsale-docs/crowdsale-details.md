@@ -1,14 +1,14 @@
-# Crowdsale in Detail
+# Crowdfunding in Detail
 
-###  Pre-Crowdsale Allocations
+###  Pre-Crowdfunding Allocations
 
-**It should be noted that because the network has been live since 2019, before the Crowdsale begins there will be re-arrangements of existing funds that are currently managed by the developers.**
+**It should be noted that because the network has been live since 2019, before the Crowdfunding begins there will be re-arrangements of existing funds that are currently managed by the developers.**
 
 In the following pages we outline the existing funds and how they will be rearranged. 
 
-* [Main Cap](crowdsale-docs/crowdsale-main-cap.md)
-* [Locked Oversupply](crowdsale-docs/crowdsale-locked-oversupply.md)
-* [Founder’s Allocation](crowdsale-docs/crowdsale-founders-alloc.md)
+* [Main Cap](Crowdfunding-docs/Crowdfunding-main-cap.md)
+* [Locked Oversupply](Crowdfunding-docs/Crowdfunding-locked-oversupply.md)
+* [Founder’s Allocation](Crowdfunding-docs/Crowdfunding-founders-alloc.md)
 
 ## Fundraising Schedules
 
@@ -22,17 +22,17 @@ The Softcap target is a target for contributions that will allow the Totem Team 
 
 _(1) We are using the Batch notation for convenience (1bTOTEM = 100,000,000 TOTEM)._
 
-_(2) Issuance %age refers to the issuance quantity in the Crowdsale._
+_(2) Issuance %age refers to the issuance quantity in the Crowdfunding._
 
 ## Contribution Schedule
 
-The Contribution Schedule determines how much of the network token is allocated to the contributor based on the value of the contribution and the week of the Crowdsale in which they contribute.
+The Contribution Schedule determines how much of the network token is allocated to the contributor based on the value of the contribution and the week of the Crowdfunding in which they contribute.
 
 For example in the first week a contributor donates the equivalent of $100. They will receive a 50x multiple of that contribution. In other words they will receive TOTEM to the value of $5000. As TOTEM has a deterministic and stable value, the contributor’s return is built-in to the allocation. 
 
 > This is significantly different from other Initial Coin Offerings where the investor must bet on a market price providing the return. The Totem Team want to ensure that the value is allocated upfront so that the Contributors know what they will be receiving.
 
-| Week of Crowdsale  | Multiplier per equivalent $ Contributed | Qty Allocated TOTEM per equivalent $ |
+| Week of Crowdfunding  | Multiplier per equivalent $ Contributed | Qty Allocated TOTEM per equivalent $ |
 |--------|:--------:|---------------------------:|
 | Week 1 | 50       | 1074911                    |
 | Week 2 | 12.5     | 268727                     |
@@ -40,11 +40,11 @@ For example in the first week a contributor donates the equivalent of $100. They
 | Week 4 | 3.125    | 67181                      |
 | Week 5 | 1.563    | 33601                      |
 
-_The table shows a notional $ contributed. However as the Crowdsale accepts only Cryptocurrency the exchange rates will be published 24hrs before and locked for the duration of the Crowdsale._
+_The table shows a notional $ contributed. However as the Crowdfunding accepts only Cryptocurrency the exchange rates will be published 24hrs before and locked for the duration of the Crowdfunding._
 
 ## Lock Release Schedule
 
-All Contributors are subject to a staggered release schedule. However, smaller investors are not penalised over larger investors. The following table shows how the lock release periods will work, but in short, funds are released following the end of the Crowdsale in three-monthly tranches.
+All Contributors are subject to a staggered release schedule. However, smaller investors are not penalised over larger investors. The following table shows how the lock release periods will work, but in short, funds are released following the end of the Crowdfunding in three-monthly tranches.
 
 Some points to consider:
 

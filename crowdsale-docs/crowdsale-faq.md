@@ -1,12 +1,12 @@
 ## Frequently Asked Questions
 
-### 1. Can I sell TOTEM after the Crowdsale?
+### 1. Can I sell TOTEM after the Crowdfunding?
 
 **Yes.** 
 
-Depending on which contribution level you acheived some of your allocation maybe be locked until MainNet Launch, but most of it will be released in the 12 months following the end of the Crowdsale. See the Schedules for details.
+Depending on which contribution level you acheived some of your allocation maybe be locked until MainNet Launch, but most of it will be released in the 12 months following the end of the Crowdfunding. See the Schedules for details.
 
-We already have the basis for a cross-chain OTC Marketplace available in the Totem Live App, and we aim to have it completed shortly after the Crowdsale. This will allow you to exchange TOTEM for Bitcoin, Ethereum and Dots and possibly other cryptocurrencies.
+We already have the basis for a cross-chain OTC Marketplace available in the Totem Live App, and we aim to have it completed shortly after the Crowdfunding. This will allow you to exchange TOTEM for Bitcoin, Ethereum and Dots and possibly other cryptocurrencies.
 
 It does not preclude exchanges from listing TOTEM where you may be able to exchange your released funds against any cryptocurrency.
 
@@ -14,7 +14,7 @@ It does not preclude exchanges from listing TOTEM where you may be able to excha
 
 **Yes.** 
 
-A limited supply of free tokens is available from our faucet **before the Crowdsale starts**. There are several ways to obtain them:
+A limited supply of free tokens is available from our faucet **before the Crowdfunding starts**. There are several ways to obtain them:
 
 **Refer a friend.** 
 
@@ -38,13 +38,13 @@ Totem is designed to be used. If you use Totem for tasks, activities and timekee
 
 We want to encourage people to use Totem because it helps us define product market fit. So we have a couple of rules that determine how your funds migrate to MainNet:
 
-* **4.1** If you receive funds from Crowdsale, and actually use Totem, then this will cause your balance to be reduced. To make up for this you will be recompensated in MainNet with an additional bonus based on the amount of usage on top of your original allocation. The amount is to be decided.
+* **4.1** If you receive funds from Crowdfunding, and actually use Totem, then this will cause your balance to be reduced. To make up for this you will be recompensated in MainNet with an additional bonus based on the amount of usage on top of your original allocation. The amount is to be decided.
 
     * **4.11** A cut-off period will come into play to determine the account activity and the amount of TOTEM that will be allocated on MainNet. This will be notified to all users in advance.
 
-* **4.2** If you receive funds from Crowdsale, and do nothing, you will be allocated the same quantity of TOTEM on MainNet.
+* **4.2** If you receive funds from Crowdfunding, and do nothing, you will be allocated the same quantity of TOTEM on MainNet.
 
-* **4.3** If you receive funds from Crowdsale, and sell some, but do no other activity in Totem you will be allocated the remaining quantity of TOTEM on MainNet.
+* **4.3** If you receive funds from Crowdfunding, and sell some, but do no other activity in Totem you will be allocated the remaining quantity of TOTEM on MainNet.
 
 
 ### 5. Is this an Initial Parachain Offering?
@@ -61,13 +61,13 @@ In our registration form you will be required to click to confirm that funds hav
 
 If your funds are not credited after 24 hours, you can trigger a further manual status check in the registration form.
 
-### 7. What happens if I pay after the Crowdsale is closed?
+### 7. What happens if I pay after the Crowdfunding is closed?
 
 You contributions will be counted, but you will not achieve multipliers no matter how much you have contributed. If this is the case TOTEM will be allocated at a 1:1 value level for the cryptocurrrency you paid with.
 
 ### 8. When will my total allocations be calculated?
 
-Mostly this will be in the weeks following the Crowdsale to allow for any late payments.
+Mostly this will be in the weeks following the Crowdfunding to allow for any late payments.
 
 ### 9. Can I pay with Fiat?
 
@@ -77,12 +77,12 @@ Mostly this will be in the weeks following the Crowdsale to allow for any late p
 
 **Yes unless over subscribed**
 
-The maximum contribution is determined by the maximum number of TOTEM that is available for allocation. This is known as the Crowdsale Target Cap. If the Live Accounting Association judges that the Crowdsale is over-subscribed, it can at its own discretion increase the quantity of TOTEM to be allocated.
+The maximum contribution is determined by the maximum number of TOTEM that is available for allocation. This is known as the Crowdfunding Target Cap. If the Live Accounting Association judges that the Crowdfunding is over-subscribed, it can at its own discretion increase the quantity of TOTEM to be allocated.
 
-* **10.1 How much is the Crowdsale Cap?**
+* **10.1 How much is the Crowdfunding Cap?**
 
-> The Crowdsale Soft Cap is equivalent to 100M units of TOTEM or $3.5M.
-> The Crowdsale Targte Cap is equivalent to 100M units of TOTEM or $3.5M.
+> The Crowdfunding Soft Cap is equivalent to 100M units of TOTEM or $3.5M.
+> The Crowdfunding Targte Cap is equivalent to 100M units of TOTEM or $3.5M.
 
 We do not expect this to be reached, and in any case the remaining funds will not be carried over to MainNet.
 

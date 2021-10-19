@@ -8,9 +8,9 @@ You will be prompted to backup your account - do not skip this step and keep you
 
 ### Step 2: 
 
-Open the Crowdsale Module, and complete the registration process.
+Open the Crowdfunding Module, and complete the registration process.
 
-You’ll need to select the crypto you wish to pay with, BTC ETH and DOT selectable directly in the app, but it is still possible to pay with any cryptocurrency. See the [Notes for expert users](/crowdsale-docs/crowdsale-how-to?id=note-for-expert-users-only).
+You’ll need to select the crypto you wish to pay with, BTC ETH and DOT selectable directly in the app, but it is still possible to pay with any cryptocurrency. See the [Notes for expert users](/Crowdfunding-docs/Crowdfunding-how-to?id=note-for-expert-users-only).
 
 For ETH, Totem  requires a whitelisted account for payment, in order to check the balance paid to the smart contract. The tokens issued by the smart contract on Ethereum are issued 1:1 with the ETH paid, and are intended as a counter. They are not intended to have a market price. The final balance will be taken as the token allocation * multiplier.
 BTC DOT and KSM will have unique addresses per signup, in order to monitor the addresses. The final balance on these addresses will be taken as the token allocation * multiplier.
@@ -18,7 +18,7 @@ BTC DOT and KSM will have unique addresses per signup, in order to monitor the a
 ### Step 3: 
 ### Step 4: 
 
-After submitting the form, you’ll receive within 24-hours a Totem crowdsale account address (it will be specific to you and the crypto). You can execute payment to buy TOTEM at any point during the crowdsale.
+After submitting the form, you’ll receive within 24-hours a Totem Crowdfunding account address (it will be specific to you and the crypto). You can execute payment to buy TOTEM at any point during the Crowdfunding.
 
 ### Step 5: 
 
@@ -26,7 +26,7 @@ You can track your TOTEM in your Totem.Live account. The vesting period is time 
 
 ## Disclaimer:
 
-All funds received will be held by the Live Accounting Association charged with funding Totem.Live development. The funds will be distributed in the form of grants to developers and community members focused on building Totem.Live app and ecosystem. For more information, you can refer to the Totem Live Crowdsale Funds Distribution document. 
+All funds received will be held by the Live Accounting Association charged with funding Totem.Live development. The funds will be distributed in the form of grants to developers and community members focused on building Totem.Live app and ecosystem. For more information, you can refer to the Totem Live Crowdfunding Funds Distribution document. 
 
 ---
 
@@ -46,7 +46,7 @@ All funds received will be held by the Live Accounting Association charged with 
 
 ---
 
-**In order to contribute to the Crowdsale Contributors must register using the Registration Form in Totem Live App.** 
+**In order to contribute to the Crowdfunding Contributors must register using the Registration Form in Totem Live App.** 
 
 The Totem Live App also operates a Contributions Module that allows Contributors to track the progress of their payments and distributions of the TOTEM currency.
 

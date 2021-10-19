@@ -40,7 +40,7 @@ The application still has a number of important features that we will be buildin
 | Activities Module                                   |
 | All Companies Database (UK)                         |
 | Balance sheet                                       |
-| CrowdSale Implementation                            |
+| Crowdfunding Implementation                            |
 | Dark Mode!                                          |
 | Faucet Service                                      |
 | General Ledger Charts of Accounts                   |
@@ -68,7 +68,7 @@ The application still has a number of important features that we will be buildin
 | Connection to Bitcoin Chain           |
 | Connection to Ethereum Chain          |
 | Connection to Polkadot                |
-| CrowdSale Implementation              |
+| Crowdfunding Implementation              |
 | Enhancement to Transfer Module        |
 | Error Events                          |
 | Event Processing                      |

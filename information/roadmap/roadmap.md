@@ -7,7 +7,7 @@
 These include tasks for gaining traction, community building and technical tasks. In no particular order these are broadly:
 
 * Build other remaining key features
-* Launch Crowdsale
+* Launch Crowdfunding
 * Implement the social media influencer and freelancer deal-flow marketplace (for traction)
 * Extend publicity and community building
 * Prepare for Beta network launch

@@ -1,12 +1,12 @@
 ## Ethereum Contribution Schedules
 
-This document sets out the planned distribution schedule for contributions made in **Ethereum ETH**. It is subject to change up to 24 hours before the Crowdsale begins, but will remain fixed thereafter for the entire duration of the Crowdsale.
+This document sets out the planned distribution schedule for contributions made in **Ethereum ETH**. It is subject to change up to 24 hours before the Crowdfunding begins, but will remain fixed thereafter for the entire duration of the Crowdfunding.
 
 The distribution is calculated on the three month moving average exchange rate for stability and for convenience, rather than external spot price accuracy.
 
 As a side effect however, fluctuations in spot market prices can expose arbitrage opportunities between the  currencies used to make contributions. These opportunities can be used to **increase Multiplier Acheivements** and overall level of TOTEM allocations. Funds are not refundable once paid.
 
-> **For more information about how to exchange TOTEM after the Crowdsale in the Totem Live P2P OTC Marketplace please read the Crowdsale FAQ.**
+> **For more information about how to exchange TOTEM after the Crowdfunding in the Totem Live P2P OTC Marketplace please read the Crowdfunding FAQ.**
 
 ---
 
@@ -14,7 +14,7 @@ As a side effect however, fluctuations in spot market prices can expose arbitrag
 
 **This table shows the summary of in/out contributions measured in Ethereum ETH.**
 
-As TOTEM has a stable value with respect to all other currencies including cryptocurrencies (as defined in the whitepaper), it is expected that these values will remain stable through to MainNet launch, but for the sake of the Crowdsale they are locked.
+As TOTEM has a stable value with respect to all other currencies including cryptocurrencies (as defined in the whitepaper), it is expected that these values will remain stable through to MainNet launch, but for the sake of the Crowdfunding they are locked.
 
 > Contributors can exchange TOTEM for other currencies earlier than MainNet launch using the Totem Live Marketplace according to the Release Schedules.
 
