@@ -30,7 +30,9 @@
     * [Operations Team](totem/team/team-operations.md)
     * [Advisors](totem/team/team-advisors.md)
     <!-- * [Architecture](information/architecture.md) -->
-* [Parachain Slot Auction](parachain-auction/parachain-auction.md)
+* [Totem’s Crowdloan](crowdloan/crowdloan-intro.md)
+    * [At A Glance](crowdloan/crowdloan-at-a-glance.md)
+    * [Crowdloan Participation](crowdloan/participation.md)
 ---
 * [**Navigating the App**](app-docs/navigation.md)
     * [Getting Started](app-docs/on-boarding/getting-started.md)
