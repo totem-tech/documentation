@@ -11,14 +11,14 @@
 
 * Minimum contribution is $100 paid with BTC, ETH, & DOT. 
 
-**Softcap** 
+**Soft Cap** 
 
 * Raise $1,000,000  
 * Allocated Quantity 2,149,834,178,385 TOTEM | 21,498 bTOTEM 
-* Softcap Percentatge of Total Crowdfunding Supply TOTEM 21.50%
+* Soft Cap Percentatge of Total Crowdfunding Supply TOTEM 21.50%
 * Value of Allocation to Contributor: $ 100,000,000
 
-**Target Cap (above Softcap)**
+**Target Cap (above Soft Cap)**
 
 * Raise upto a further $2,500,000  
 * Allocated Quantity 2,687,292,722,981 TOTEM |  26,873 bTOTEM

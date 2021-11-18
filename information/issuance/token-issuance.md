@@ -1,4 +1,4 @@
-> **We are aware that there are a number of scam crypto projects claiming to be Totem. These scammers have no code repositories or have issued a smart contract scam tokens using our Totem brand. Please check the Polkadot community forums to ensure you are communicating with the genuine Totem Team.**
+
 
 # How many tokens will be issued?
 
@@ -10,8 +10,8 @@ However, if you have read the previous pages on the subject, it should be clear 
 
 Having said that we recognise that the participants and investors in the cryptocurrency space are interested in tokens that have a market price.
 
-For this reason we are issuing a very limited quantity of free-floating market price tokens which will be used to determine the initial quantity of tokens to be minted on the MainNet.
+For this reason we are issuing a very limited quantity of free-floating market price tokens which will be used to determine the initial quantity of tokens to be minted on the MainNet. These tokens will be issued on the Totem KAPEX Parachain connected to the Polkadot Network.
 
-In addition we will not ignore our existing users and early adopters on the TestNet and will also reward them when we migrate their balances to MainNet.
+In addition we will not ignore our existing users and early adopters on the TestNet and will also reward them when we migrate their balances to the KAPEX Parachain.
 
-**In the next section we will explain how tokens are distributed on our TestNet today, what the funding token is and how all relates to the quantity of tokens for the MainNet.**
+**In the next section we will explain how tokens are distributed on our TestNet today, what the KAPEX token is and how all relates to the quantity of tokens for the MainNet.**

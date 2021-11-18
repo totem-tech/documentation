@@ -12,13 +12,13 @@ In the following pages we outline the existing funds and how they will be rearra
 
 ## Fundraising Schedules
 
-The Softcap target is a target for contributions that will allow the Totem Team to grow and to deliver the remaining Milestones to get us to the pre-MainNet test Network. See the Roadmap section for more details. The Target Cap will allow the team to go beyond shipping software and into marketing and promoting the product and generating users.
+The Soft Cap target is a target for contributions that will allow the Totem Team to grow and to deliver the remaining Milestones to get us to the pre-MainNet test Network. See the Roadmap section for more details. The Target Cap will allow the team to go beyond shipping software and into marketing and promoting the product and generating users.
 
 
 | Description                                   | Raise $     | Allocation Value   | CAP in TOTEM          | Amount in bTOTEM | %age of Issuance |
 |-----------------------------------------------|-------------|-------------------:|--------------------:|--------------------:|-------:|
-| Softcap                                       |  1,000,000  |  $ 100,000,000     |  2,149,834,178,385  |  21,498             | 21.50% |
-| Target Cap (above Softcap)                    |  2,500,000  |  $ 125,000,000     |  2,687,292,722,981  |  26,873             | 26.87% |
+| Soft Cap                                       |  1,000,000  |  $ 100,000,000     |  2,149,834,178,385  |  21,498             | 21.50% |
+| Target Cap (above Soft Cap)                    |  2,500,000  |  $ 125,000,000     |  2,687,292,722,981  |  26,873             | 26.87% |
 
 _(1) We are using the Batch notation for convenience (1bTOTEM = 100,000,000 TOTEM)._
 

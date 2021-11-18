@@ -1,4 +1,4 @@
-> **We are aware that there are a number of scam crypto projects claiming to be Totem. These scammers have no code repositories or have issued a smart contract scam tokens using our Totem brand. Please check the Polkadot community forums to ensure you are communicating with the genuine Totem Team.**
+
 
 # Consumption Scenarios.
 
@@ -6,11 +6,11 @@
 
 > **These are assumptions at the time of writing.** 
 >
-> The second planned network - Totem Lego Network - is intended to help identify the real demand for tokens.
+> The Totem KAPEX Parachain Network is intended to help identify the actual demand for tokens, and the economics of use.
 >
-> The quantity of tokens issued on the Totem Meccano Canary Network is not an indication of the quantity of tokens that will be issued on the MainNet.
+> The quantity of tokens issued on the Totem Meccano Canary Network or the Totem KAPEX Parachain Network is not an indication of the quantity of tokens that will be issued on the MainNet.
 
-At the time of writing it is fair to say that without the full application being ready, we are unable to precisely the usage costs. This is mainly because we don't know how large some transactions will be yet - as the interface is not fully completed.
+At the time of writing it is fair to say that without the full MainNet application being ready, we are unable to precisely measure the usage costs. This is mainly because we don't know how large some transactions will be yet.
 
 To provide an idea on the likely usage, typically large global corporations have accounting databases that contains 1-4 billion accounting entries over the course of a year or so. SAP which makes corporate accounting software - by far the largest player in the market by transaction volume - has around 64000 corporate customers. 
 

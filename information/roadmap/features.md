@@ -1,4 +1,4 @@
-> **We are aware that there are a number of scam crypto projects claiming to be Totem. These scammers have no code repositories or have issued a smart contract scam tokens using our Totem brand. Please check the Polkadot community forums to ensure you are communicating with the genuine Totem Team.**
+
 
 # Features List
 
@@ -12,7 +12,7 @@ The application still has a number of important features that we will be buildin
 
 | Features                                                              |
 |-----------------------------------------------------------------------|
-| Balances Module enhancemenet to add accounting function               |
+| Balances Module enhancement to add accounting function               |
 | Core P2P Accounting function                                          |
 | Enterprise Charts of Accounts                                         |
 | Financial Statement Presentation Currency                             |
