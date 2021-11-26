@@ -1,4 +1,4 @@
-> **We are aware that there are a number of scam crypto projects claiming to be Totem. These scammers have no code repositories or have issued a smart contract scam tokens using our Totem brand. Please check the Polkadot community forums to ensure you are communicating with the genuine Totem Team.**
+
 
 # How is TOTEM valued as a Unit of Account?
 
@@ -66,6 +66,6 @@ Although Totem will handle recording accounting entries when payments are made u
 
 ## So what does owning TOTEM mean for me?
 
-Simply put, owning TOTEM means that you are a stakeholder in all the Totem Test Networks and the future MainNet. The success of the network does not depend on you, but your holding has value when you use Totem or release that value now or in the future in the planned OTC marketplace.
+Simply put, owning TOTEM means that you are a stakeholder in all the Totem Test Networks and the Polkadot Parachain and eventually the MainNet. The success of the network does not depend on you, but your holding has value when you use Totem or when you release that value now or in the future using the planned OTC marketplace.
 
 **The Token Issuance is discussed in the next section.**

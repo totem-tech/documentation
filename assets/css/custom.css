@@ -1,0 +1,57 @@
+:root {
+    --base-color: var(--mono-shade1);
+    --base-font-weight: normal;
+    --base-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --blockquote-em-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --blockquote-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --blockquote-quotes-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --heading-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --heading-h1-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --heading-h2-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --heading-h3-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --heading-h4-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --heading-h5-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --heading-h6-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --notice-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --notice-before-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --theme-hue: 162 !important;
+    --theme-saturation: 81% !important;
+    --theme-lightness: 57% !important;
+}
+
+.app-nav>ul>li ul {
+    right: 100%;
+    width: 8em;
+    max-height: calc(100vh);
+    color: black !important;
+}
+
+
+.content {
+    margin-top: 75px !important;
+}
+
+.app-nav {
+    color: #fff !important;
+    padding-top: 22px;
+    padding-right: 100px;
+    margin-left: -7px;
+    margin-right: -40px;
+    margin-top: -20px;
+    height: 80px;
+    padding-bottom: 0px;
+    background: rgb(255,177,0);
+    background: -moz-linear-gradient(135deg, rgba(255,177,0,1) 3%, rgba(234,55,203,1) 94%);
+    background: -webkit-linear-gradient(135deg, rgba(255,177,0,1) 3%, rgba(234,55,203,1) 94%);
+    background: linear-gradient(135deg, rgba(255,177,0,1) 3%, rgba(234,55,203,1) 94%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffb100",endColorstr="#ea37cb",GradientType=1);
+}
+
+.footer {
+    height: 1px;
+    background: rgb(255,177,0);
+    background: -moz-linear-gradient(135deg, rgba(255,177,0,1) 3%, rgba(234,55,203,1) 94%);
+    background: -webkit-linear-gradient(135deg, rgba(255,177,0,1) 3%, rgba(234,55,203,1) 94%);
+    background: linear-gradient(135deg, rgba(255,177,0,1) 3%, rgba(234,55,203,1) 94%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffb100",endColorstr="#ea37cb",GradientType=1);
+}

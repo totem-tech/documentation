@@ -9,7 +9,7 @@ Managing Partner - Guru Capital SA.
 Former Web3 Development Grants Manager.
 
 ### Mike Tivey
-Partner at Cameron Barney Independent Merchant Bank.
+Partner at EPGroup.
 
 ### Stephen Packer
 CFO Equagroup.

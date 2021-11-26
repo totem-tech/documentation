@@ -1,6 +1,6 @@
-> **We are aware that there are a number of scam crypto projects claiming to be Totem. These scammers have no code repositories or have issued a smart contract scam tokens using our Totem brand. Please check the Polkadot community forums to ensure you are communicating with the genuine Totem Team.**
 
-# To-do for 2021
+
+# TODO
 
 ### The following pages contain a full list of software features that will be implemented in the course of 2021 and leading up to a beta product pulic launch in 2022.
 
