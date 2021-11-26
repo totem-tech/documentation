@@ -27,7 +27,11 @@ For more detailed information head over to the [Polkadot Wiki](https://wiki.polk
 
 > Polkadot is really important in the blockchain space because it solves the scalling problems that have beset smart contract blockchains like Ethereum. 
 
-It solves these problems because rather than having the business logic in smart contracts all executing on the same chain and competing for limited resources as they do on all other smart contract platforms - in the Polkadot network of chains all of the business logic exists on their own blockchains. This means that the execution of the business logic does not happen on Polkadot, and therefore it does not suffer any competition for resources and by implications - transaction fees will not explode as they have done on Ethereum.
+In Ethereum and other smart contract platforms the business logic in smart contracts are all competing for limited resources - the limit of the amount of execution time to be included in a block. Not only is this a problem in terms of scaling - it is also a massive problem in terms of network fees and transaction costs.
+
+However in the Polkadot network all of the business logic exists outside of Polkadot. In fact it is designed so that each blockchain should have its own specific business logic perhaps not even related to other chains. 
+
+This means that the execution of the business logic does not happen on Polkadot, and therefore it does not compete for resources thereby solving both the scaling problem and the trabsaction fee problem all at once. 
 
 ## How is this related to Totem?
 
@@ -39,9 +43,9 @@ It solves these problems because rather than having the business logic in smart 
 
 <!-- <img src="/_media/sub-0-polkadot-network.png"> -->
 
-In order to do that the Totem team has to secure a Parachain Slot Lease. The cost of a lease can be in the region on **$50M-$200M** and no team is expected to have that spare amount of money available to secure a slot. 
+In order to join the Polkadot Network the Totem team has had to create a parachain (which we call KAPEX) and will need to secure a Parachain Slot Lease. The cost of a lease can be in the region on **$50M-$200M** and no team is expected to have that spare amount of money available to secure a slot. 
 
-> The design of Polkadot is that parachain slots are funded by the community via a **_Crowdloan_**. 
+> The design of Polkadot is that parachain slots are funded by the community via **_Crowdloans_**. 
 
 **Simply put, Totem will need a Crowdloan in order to connect the Totem KAPEX Network to Polkadot as a Parachain.**
 

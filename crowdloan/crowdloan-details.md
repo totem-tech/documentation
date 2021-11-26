@@ -73,7 +73,7 @@ _There are implied limits to participation proportional to the Crowdloan limits 
 * A balance transfer lock will apply to all KAPEX awards for a period of time following a parachain win. This will give the team time to generate the funds and apply it to the participating Polkadot addresses. 
 * Once the allocations of KAPEX have been completed, transfers will be enabled. 
 
-## Example
+## Example KAPEX Awards
 
 In the following table, Column A has committed & pledged the highest amount but the lowest ratio of commitments, Column B has not taken part in the Crowdfund, and Column C has the lowest amount committed, with the highest ratio of commitment.
 
@@ -82,37 +82,25 @@ This should give you a good idea as to how KAPEX is awarded.
 | Description                         | A      | B      | C    |
 |-------------------------------------|-------:|-------:|------:|
 | DOT Committed in Crowdloan          | 100    | 80     | 1     |
-| Basis KAPEX Coins awarded           | 50     | 40     | 0.5   |
+| Basis KAPEX Coins awarded           | 10     | 8     | 0.1   |
 | Pledged DOT                         | 2      | 0      | 0.1   |
 | Ratio Pledged to Crowdloan          | 2%     | 0%     | 10%   |
 | Total DOTS                          | 102    | 80     | 1.1   |
-| Soft Cap Reached 10% Bonus in KAPEX  | 5.000  | 4.000  | 0.050 |
-| Target Cap Reached 20% Bonus in KAPEX  | 10.000 | 8.000  | 0.100 |
-| Total KAPEX awarded @ Soft Cap      | 57.020 | 46.436 | 0.700 |
-| Total KAPEX awarded @ Target Cap      | 62.020 | 50.436 | 0.705 |
+| Soft Cap Reached 10% Bonus in KAPEX  | 1.000  | 0.800  | 0.010 |
+| Target Cap Reached 20% Bonus in KAPEX  | 2.000 | 1.600  | 0.020 |
+| Total KAPEX awarded @ Soft Cap      | 11.404 | 8.800 | 0.100 |
+| Total KAPEX awarded @ Target Cap      | 12.404 | 9.600 | 0.141 |
 
-*_These are examples, there are no limits to the amounts you can commit, and the values are calculated at the time of writing. They calculations may be subject to change up to 48 hours before the auction starts._
+*_These are examples, there are no limits to the amounts you can commit, and the values are calculated at the time of writing. They calculations may be subject to change up to 48 hours before the KAPEX Crowdloan starts._
 
-## Links
+### Pledge Use of Funds
 
-This section contaiuns the links on how to participate in the auctions and other useful information.
+Once the pledges are collected the Live Accounbting Association will distribute the funds in the following way:
 
-[Parachain Candle Auction Research](https://research.web3.foundation/en/latest/polkadot/economics/3-parachain-experiment.html)
-
-
-
-
-
-
-### KAPEX Coin Supply
-
-|                                                      | Supply % | KAPEX       |
-|------------------------------------------------------|---------:|------------:|
-| **Total Supply KAPEX**                               | **100%**     |  **2,400,000**  |
-| KAPEX Released Crowdloan & Pledge                    | 55%      |  1,320,000  |
-| Current & Future Team                                | 20%      |  480,000    |
-| Polkadot Community & Airdrop                         | 5%       |  120,000    |
-| Live Accounting Association <br />Dev & Engineering Grants | 20%      |  480,000    |
-
-The video shows you the steps you will need. It is based on Polkadot’s evil twin network Kusama, but the steps are identical. Credit goes to Jay Chrawnna for publishing it - check out his [channel](https://www.youtube.com/playlist?list=PLtyd7v_I7PGkrOymjT8HwD-_x9VP8Tads) - it’s awesome and very funny too.
-<iframe width="800" height="315" src="https://www.youtube.com/embed/K_16N6CeJyo" title="Participate in Corwdloans" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+|                                           | Distribution % |
+|-------------------------------------------|----------------|
+| Development & Engineering Grant Program   | 39%            |
+| Staff Network & Operations                | 35%            |
+| Marketing                                 | 15%            |
+| Contingency                               | 10%            |
+| Travel                                    | 20%            |

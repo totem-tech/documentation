@@ -21,35 +21,12 @@
         rel="stylesheet">
 
     <!-- Customisation -->
-    <style>
-        :root {
-            --base-color: var(--mono-shade1);
-            --base-font-weight: normal;
-            --base-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --blockquote-em-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --blockquote-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --blockquote-quotes-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --heading-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --heading-h1-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --heading-h2-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --heading-h3-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --heading-h4-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --heading-h5-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --heading-h6-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --notice-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --notice-before-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-            --navbar-menu-margin: 1em;
-        }
+    <link href="./assets/css/custom.css" rel="stylesheet">
 
-        .app-nav>ul>li ul {
-            right: 100%;
-            width: 8em;
-            max-height: calc(100vh);
-        }
-    </style>
 </head>
 
 <body>
+    
     <div data-app id="home">Loading Totem Docs...</div>
     <script>
         window.$docsify = {
@@ -69,7 +46,7 @@
                 auth: 'authored by Totem Dev Team & Live Accounting Association',
                 // pre: '<hr/>',
                 style: 'text-align: right;',
-                // class: 'className',
+                class: 'footer',
             },
             // coverpage: true,
             el: '#home',
@@ -169,6 +146,7 @@
     <script>
         document.getElementById("current-year").innerHTML = new Date().getFullYear();
     </script>
+    <!-- <script async src="./assets/js/semantic-ui/semantic.min.js"></script> -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>

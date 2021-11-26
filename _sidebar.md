@@ -25,6 +25,7 @@
         * [Crowdloan Deal](crowdloan/crowdloan-proposition.md)
         * [Crowdloan Participation](crowdloan/participation.md)
         * [Crowdloan Details](crowdloan/crowdloan-details.md)
+        * [Crowdloan How-to](crowdloan/crowdloan-how-to.md)
         * [Crowdloan FAQ](crowdloan/crowdloan-faq.md)
         * [Crowdloan Terms](crowdloan/contribution-terms.md)
         * [Regulatory](crowdloan/regulation.md)

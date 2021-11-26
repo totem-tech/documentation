@@ -3,15 +3,11 @@
 ## Crowdloan Deal at-a-glance
 
 > **There will be no vesting period following the Totem Crowdloan** - KAPEX coins will be available to transfer as soon as the balance transfer lock is disabled.
-
-|                                      |      |
-|--------------------------------------|:------------|
-| Min Crowdloan Participation          |  5 DOT         |
-| Min Pledge Participation             |  0 DOT |
-| Max Pledge Participation             |  Up to 10% of Crowdloan Contribution |
+>
+> Minimum Crowdloan Participation is **5 DOT.**
 
 
-### KAPEX Coin Supply
+### KAPEX Coin Supply & Distribution
 
 |                                                      | Supply % | KAPEX       |
 |------------------------------------------------------|---------:|------------:|
@@ -23,6 +19,11 @@
 | Current & Future Team                                | 20%      | 516,364 |
 
 *_see terms of migration_
+
+| The Pledge (See below)               |      |
+|--------------------------------------|:------------|
+| Min Pledge Participation             |  0 DOT |
+| Max Pledge Participation             |  Up to 10% of Crowdloan Contribution |
 
 ### Crowdloan Referral Bonus
 
