@@ -65,13 +65,3 @@
 * [Resources](totem/resources.md)
 * [Privacy Statements](totem/privacy.md)
 * [Terms of Use](totem/terms.md)
-    <!-- * [**Hello Crowdfunding!**](crowdfund-docs/Crowdfunding.md)
-    * [Overview](crowdfund-docs/Crowdfunding-at-a-glance.md)
-    * [Token Economics](crowdfund-docs/overview-token-redirect.md)
-    * [Use of Funds](crowdfund-docs/Crowdfunding-use-of-funds.md)
-    * [Crowdfunding Details](crowdfund-docs/crowdfund-details.md)
-    * [**How to Participate**](crowdfund-docs/Crowdfunding-how-to.md)
-    * [Crowdfunding FAQ](crowdfund-docs/Crowdfunding-faq.md)
-    * [Regulation](crowdfund-docs/regulation.md)
-    * [Post Crowdfunding](crowdfund-docs/post-Crowdfunding.md)
-    * [Contribution Terms](crowdfund-docs/contribution-terms.md)-->
