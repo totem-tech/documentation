@@ -10,10 +10,10 @@
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
     <!-- Themes -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" />
 
     <!-- Code Boxes -->
-    <link rel="stylesheet" href="path/to/prismjs-theme.css">
+    <!-- <link rel="stylesheet" href="path/to/prismjs-theme.css"> -->
 
     <!-- Fonts -->
     <link
@@ -26,8 +26,34 @@
 </head>
 
 <body>
-    
-    <div data-app id="home">Loading Totem Docs...</div>
+    <nav class="app-nav no-badge">
+        <ul>
+            <li><a href="http://bit.ly/3j78rYz" target="_blank" rel="noopener" title="Try the app">Try the app<span
+                        class="q-inlineBlock qu-verticalAlign--text-bottom" width="10px" name="ExternalLinkBidi"
+                        style="box-sizing: border-box; display: inline-block; width: 10px; height: 10px; flex-shrink: 0; line-height: 0; margin-left: 2px;"><span
+                            class="CssComponent__CssInlineComponent-sc-1oskqb9-1 Icon___StyledCssInlineComponent-sc-11tmcw7-0 lcSoNN"><svg
+                                width="16px" height="16px" viewBox="0 0 24 24">
+                                <g id="external_link" class="icon_svg-stroke" stroke="#fff" stroke-width="1.5"
+                                    fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+                                    <polyline points="17 13.5 17 19.5 5 19.5 5 7.5 11 7.5"></polyline>
+                                    <path d="M14,4.5 L20,4.5 L20,10.5 M20,4.5 L11,13.5"></path>
+                                </g>
+                            </svg></span></span></a></li>
+            <li>Languages<ul>
+                    <li><a href="#/" title="" class="active"><img class="emoji"
+                                src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png"
+                                alt="uk">
+                            English</a></li>
+                    <li><a href="#/" title=""><img class="emoji"
+                                src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png"
+                                alt="cn">
+                            Chinese</a></li>
+                </ul>
+            </li>
+        </ul>
+        <div class="roundLogo"><img src="/_media/new-totem-logo.svg"></div>
+    </nav>
+    <div data-app id="home"></div>
     <script>
         window.$docsify = {
             themeable: {
@@ -51,85 +77,93 @@
             // coverpage: true,
             el: '#home',
             auto2top: true,
-            logo: '/_media/new-totem-logo.svg',
-            name: 'Totem',
+            // logo: '/_media/new-totem-logo.svg',
+            // name: '',
             // repo: '',
             loadSidebar: true,
             alias: {
                 '/.*/_sidebar.md': '/_sidebar.md',
             },
+            // loadNavbar: true,
             subMaxLevel: 1,
             sidebarDisplayLevel: 1, // set sidebar display level
-            loadNavbar: true,
             search: 'auto',
-            search: [
-                '/',
-                'information/story-so-far.md',
-                'information/totem-vs-traditional.md',
-                'information/overview-token.md',
-                'information/what-is-token.md',
-                'information/overview-token-2.md',
-                'information/overview-token-3.md',
-                'information/issuance/token-issuance.md',
-                'information/issuance/free-allocations.md',
-                'information/issuance/paid-allocations.md',
-                'information/issuance/funding-token.md',
-                'information/issuance/the-burn.md',
-                'information/overview-token-4.md',
-                'information/roadmap/features.md',
-                'information/roadmap/roadmap.md',
-                'information/roadmap/roadmap-1.md',
-                'totem/team/team-core.md',
-                'totem/team/team-extended-dev.md',
-                'totem/team/team-security.md',
-                'totem/team/team-operations.md',
-                'totem/team/team-advisors.md',
-                'app-docs/navigation.md',
-                'app-docs/on-boarding/getting-started.md',
-                'app-docs/on-boarding/on-boarding-1.md',
-                'app-docs/on-boarding/on-boarding-2.md',
-                'app-docs/on-boarding/on-boarding-3.md',
-                'app-docs/on-boarding/on-boarding-other.md',
-                'app-docs/identities/identities.md',
-                'app-docs/identities/identities-example.md',
-                'app-docs/identities/identities-visibility.md',
-                'app-docs/identities/identities-sharing.md',
-                'app-docs/identities/identities-backups.md',
-                'app-docs/identities/identities-list.md',
-                'app-docs/partners.md',
-                'app-docs/activities.md',
-                'app-docs/timekeeping.md',
-                'app-docs/tasks.md',
-                'app-docs/transfer.md',
-                'app-docs/financials.md',
-                'information/chart-of-accounts.md',
-                'app-docs/history.md',
-                'app-docs/settings.md',
-                'app-docs/utilities.md',
-                'app-docs/events.md',
-                'totem/jobs.md',
-                'totem/resources.md',
-                'totem/privacy.md',
-                'totem/terms.md',
-                'parachain-auction/parachain-auction.md',
-            ],
-
+            //     search: [
+                //     '/',
+                //     'app-docs/activities.md',
+                //     'app-docs/events.md',
+                //     'app-docs/financials.md',
+                //     'app-docs/history.md',
+                //     'app-docs/identities/identities-backups.md',
+                //     'app-docs/identities/identities-example.md',
+                //     'app-docs/identities/identities-list.md',
+                //     'app-docs/identities/identities-sharing.md',
+                //     'app-docs/identities/identities-visibility.md',
+                //     'app-docs/identities/identities.md',
+                //     'app-docs/navigation.md',
+                //     'app-docs/on-boarding/getting-started.md',
+                //     'app-docs/on-boarding/on-boarding-1.md',
+                //     'app-docs/on-boarding/on-boarding-2.md',
+                //     'app-docs/on-boarding/on-boarding-3.md',
+                //     'app-docs/on-boarding/on-boarding-other.md',
+                //     'app-docs/partners.md',
+                //     'app-docs/settings.md',
+                //     'app-docs/tasks.md',
+                //     'app-docs/timekeeping.md',
+                //     'app-docs/transfer.md',
+                //     'app-docs/utilities.md',
+                //     'crowdloan/contribution-terms.md',
+                //     'crowdloan/crowdloan-details.md',
+                //     'crowdloan/crowdloan-faq.md',
+                //     'crowdloan/crowdloan-how-to.md',
+                //     'crowdloan/crowdloan-intro.md',
+                //     'crowdloan/crowdloan-proposition.md',
+                //     'crowdloan/participation.md',
+                //     'crowdloan/regulation.md',
+                //     'information/chart-of-accounts.md',
+                //     'information/issuance/free-allocations.md',
+                //     'information/issuance/kapex-token.md',
+                //     'information/issuance/paid-allocations.md',
+                //     'information/issuance/the-burn.md',
+                //     'information/issuance/token-issuance.md',
+                //     'information/overview-token-2.md',
+                //     'information/overview-token-3.md',
+                //     'information/overview-token-4.md',
+                //     'information/overview-token.md',
+                //     'information/roadmap/features.md',
+                //     'information/roadmap/roadmap-1.md',
+                //     'information/roadmap/roadmap.md',
+                //     'information/story-so-far.md',
+                //     'information/the-networks.md',
+                //     'information/totem-vs-traditional.md',
+                //     'information/what-is-token.md',
+                //     'totem/jobs.md',
+                //     'totem/privacy.md',
+                //     'totem/resources.md',
+                //     'totem/team/team-advisors.md',
+                //     'totem/team/team-core.md',
+                //     'totem/team/team-extended-dev.md',
+                //     'totem/team/team-operations.md',
+                //     'totem/team/team-security.md',
+                //     'totem/terms.md',
+                // ],
             // complete configuration parameters
             search: {
-                // maxAge: 86400000, // Expiration time, the default one day
-                maxAge: 1, // To clear for testing
+                maxAge: 86400000, // Expiration time, the default one day
+                // maxAge: 1, // To clear for testing
                 paths: 'auto',
+                // paths: [],
                 placeholder: 'Type to search',
 
                 // Localization
                 // placeholder: {
-                //   // '/zh-cn/': '搜索',
-                //   '/': 'Type to search'
-                // },
-
-                noData: 'No Results!',
-
-                // Localization
+                    //   // '/zh-cn/': '搜索',
+                    //   '/': 'Type to search'
+                    // },
+                    
+                    noData: 'Nothing found for this search. Try again.',
+                    
+                    // Localization
                 // noData: {
                 //   // '/zh-cn/': '找不到结果',
                 //   '/': 'No Results'
@@ -143,14 +177,9 @@
         }
 
     </script>
-    <script>
-        document.getElementById("current-year").innerHTML = new Date().getFullYear();
-    </script>
-    <!-- <script async src="./assets/js/semantic-ui/semantic.min.js"></script> -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+    <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
     <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
 </body>
