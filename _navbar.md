@@ -2,6 +2,6 @@
 * Languages
     * [:uk: English](/)
     * [:cn: Chinese](/)
-* <div class="roundLogo"><img src="/_media/new-totem-logo.svg"></img></div> -->
+* <div class="longLogo"><img src="/_media/new-totem-logo.svg"></img></div> -->
 
 
