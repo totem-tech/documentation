@@ -103,4 +103,4 @@ Once the pledges are collected the Live Accounbting Association will distribute 
 | Staff Network & Operations                | 35%            |
 | Marketing                                 | 15%            |
 | Contingency                               | 10%            |
-| Travel                                    | 20%            |
+| Travel                                    | 1%            |
