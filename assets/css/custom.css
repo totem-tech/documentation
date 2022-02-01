@@ -2,6 +2,8 @@
     --base-color: var(--mono-shade1);
     --base-font-weight: normal;
     --base-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    --base-font-size: 1.25rem !important;
+    --base-line-height: 1.75 !important;
     --blockquote-em-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
     --blockquote-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
     --blockquote-quotes-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;

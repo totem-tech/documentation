@@ -8,7 +8,7 @@ This is another of many key principles behind Totem. We call it "The Self-Sovere
 
 > Totem knows nothing about the Identities that you create or share. No personal information is needed to create an Identity or share it.
 
-Technically your identity is made up of a series of letters and numbers like “”
+Technically your identity is made up of a series of letters and numbers like “5GcChpK96PW6WAEnumkPAmDHgW98i1ABYjqtjtmZKwZwyC33” - you might have seen something similar if you are familiar with blockchain cryptocurrencies.
 
 ## Why share an Identity then?
 
