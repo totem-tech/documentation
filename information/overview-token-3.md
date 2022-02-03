@@ -35,7 +35,7 @@ _The values for TMC and TMU are current at the time of writing._
 
 > The exchange rate of TOTEM fluctuates in balance with the fluctations in the Reference Exchange Rates and so represents a stable Unit of Account against which all currencies can be measured. This makes it an ideal candidate as a Functional Currency.
 
-In Totem all accounting enries are recorded in TOTEM by default. The entres are made at the exchange rate of the moment of recognition and not the value in the currency that the transaction is made. In this way all accounting entries are recorded directly in the Functional Currency. As per our example above and do not require further adjustments. The adjustment occurs automatically when producing the statements in the Presentation Currency.
+In Totem all accounting entries are recorded in TOTEM by default. The entries are made at the exchange rate of the moment of recognition and not the value in the currency that the transaction is made. In this way all accounting entries are recorded directly in the Functional Currency. As per our example above and do not require further adjustments. The adjustment occurs automatically when producing the statements in the Presentation Currency.
 
 
 ### Totem Global Currencies Index.
