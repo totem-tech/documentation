@@ -2,7 +2,7 @@
 
 # Roadmap
 
-### During 2021 the team will be both building out the list of features below and carrying out tasks towards MainNet launch in 2022. 
+### During 2022 the team will be both building out the list of features below and carrying out tasks towards MainNet launch in 2023. 
 
 These include tasks for gaining traction, community building and technical tasks. In no particular order these are broadly:
 

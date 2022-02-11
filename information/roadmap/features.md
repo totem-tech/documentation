@@ -4,7 +4,7 @@
 
 ### The following is a list all the features that have already been shipped, and are available in our live application already. 
 
-The application still has a number of important features that we will be building over the course of 2021. The [Roadmap Section](/information/roadmap/roadmap.md) contains a full list.
+The application still has a number of important features that we will be building over the course of 2022. The [Roadmap Section](/information/roadmap/roadmap.md) contains a full list.
 
 ## List of Shipped and Live Features
 
