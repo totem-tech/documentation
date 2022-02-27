@@ -46,4 +46,4 @@ The actual running time of both the Crowdloan and the Pledge is defined by a num
 
 ### Migration Allocations
 
-Funds that are migrated from Totem Meccano will be carried out on a fair basis. If we have noticed any suspicious activity on Totem Meccano, migrating funds may be witheld. This is at the sole discretion of the Live Accounting Association.
+Funds that are migrated from Totem Meccano will be carried out on a fair basis. If we have noticed any suspicious activity on Totem Meccano for example attempting to game the referral mechanism funds will not be migrated. You may raise a complaint on our social channels (Twitter, Discord or Telegram) if you believe that you have been unfairly blocked from receiving a migrated balance. Final decisions will be at the discretion of the Live Accounting Association.

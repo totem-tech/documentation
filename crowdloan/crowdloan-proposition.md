@@ -61,33 +61,30 @@ It is intended that if the Target Cap is reached, no more Crowdloan funds will b
 | Contributor Bonus [Crowdloan Target Cap Reached]  | 20%            |  220,000         |
 
 
+> **Disclaimer: These pages do not constitute investment advice. You should do your own research, and should not participate in this process if you do not understand or feel uncomfortable about committing to the requirements of this program. We offer no guarantees of return of investment [ROI] as DOT prices may vary along with the price of KAPEX. However all DOT committed to the Crowdloan are fully refunded after either the lease period ends or the Crowdloan period whichever is the longer.**
+
 ### Payouts
 
-**There will be four phases to the payouts:**
+**There will be two phases to the payouts:**
 
-#### Phase I Initial Payout
+#### Phase I.a Initial Payout
 
 This initial distribution will be based upon the total contributions in the Crowdloan as logged by the Polkadot Relaychain Crowdloan module.
 
-This will be carried out after the Kapex chain goes live and transactions will be executed to distribute the funds directly to contributor's wallets.
+This will be carried out after the Kapex chain wins a parachain slot and becomes live. Transactions will be executed to distribute the funds directly to contributor's wallets.
 
-Referral bonuses will not be payed at this stage, because the next phases are required to calculate the full bonus payout to contributors even if they were referred.
+Crowdloan referral bonuses will not be payed at this stage, because the next phases are required to calculate the full bonus payout to contributors even if they were referred.
 
+For existing qualifying users of the Totem Meccano Network, they will receive their migration allocation in Phase II based on their balance in Meccano and their referral bonuses already received. The conversion ratio will be announced once the number of accounts and amounts to migrate are known. There will also be a cut-off date for awards that can be earned in Meccano.
 
+#### Phase I.b Pledge Contribution
 
+The Pledge contributions will then be collected from all participants. We will announce the mechnaism for this step shortly.
 
-#### Phase II Pledge Contribution
+#### Phase II Distribution of Bonuses
 
-The Pledge contributions will then be collected from all participants.
+This is the payout stage for both the Pledge contributions and the final total bonuses earned by contributors.
 
-
-#### Phase III Cap Assesment & Payout
-
-At this point all the necessary information is available to calculate and assess the Cap acheivements and contributor bonuses.
-
-This is the payout for both the Pledge contributions and the final total bonuses earned by contributors including referral bonuses.
-
-
-> **Disclaimer: These pages do not constitute investment advice. You should do your own research, and should not participate in this process if you do not understand or feel uncomfortable about committing to the requirements of this program. We offer no guarantees of return of investment [ROI] as DOT prices may vary along with the price of KAPEX. However all DOT committed to the Crowdloan are fully refunded after either the lease period ends or the Crowdloan period whichever is the longer.**
+At this point all the necessary information is available to calculate and assess the Cap acheivements, contributor bonuses and referral rewards. 
 
 **_In the following pages we outline how you can participate in the Crowdloan_**
