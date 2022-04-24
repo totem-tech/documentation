@@ -6,7 +6,7 @@
 
 It is generally assumed that the exchange rate and growth of value are affected by the quantity of currency in circulation, the demand on the exchanges, and how much of the currency is owned by the founding team, and how much is available to the public.
 
-However, if you have read the previous pages on the subject, it should be clear that the Live Accounting Network token value _is designed to be disconnected from the quantity of currency available_ to the system. This is an important distinction, because it means that the value of the tokens held by the early adopters is designed to move relative to all other assets. **_It provides a level of certainty that cannot be acheived with market-price driven cryptocurrencies._**
+However, if you have read the previous pages on the subject, it should be clear that the Live Accounting Network token value _is designed to be disconnected from the quantity of currency available_ to the system. This is an important distinction, because it means that the value of the tokens held by the early adopters is designed to move relative to all other assets. **_It provides a level of certainty that cannot be achieved with market-price driven cryptocurrencies._**
 
 Having said that we recognise that the participants and investors in the cryptocurrency space are interested in tokens that have a market price.
 

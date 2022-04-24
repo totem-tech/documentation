@@ -2,7 +2,7 @@
 
 Once the Crowdfunding is completed some of the Contributors will be able to sell their TOTEM allocations according to the Release Calendar below.
 
-This largely depends on the final Multiplier Level that was acheived by the Contributors.
+This largely depends on the final Multiplier Level that was achieved by the Contributors.
 
 ### Post Crowdfunding Staggered Release Calendar
 

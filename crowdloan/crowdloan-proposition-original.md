@@ -85,6 +85,6 @@ The Pledge contributions will then be collected from all participants. We will a
 
 This is the payout stage for both the Pledge contributions and the final total bonuses earned by contributors.
 
-At this point all the necessary information is available to calculate and assess the Cap acheivements, contributor bonuses and referral rewards. 
+At this point all the necessary information is available to calculate and assess the Cap achievements, contributor bonuses and referral rewards. 
 
 **_In the following pages we outline how you can participate in the Crowdloan_**

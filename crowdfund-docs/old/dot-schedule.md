@@ -4,7 +4,7 @@ This document sets out the planned distribution schedule for contributions made 
 
 The distribution is calculated on the three month moving average exchange rate for stability and for convenience, rather than external spot price accuracy.
 
-As a side effect however, fluctuations in spot market prices can expose arbitrage opportunities between the  currencies used to make contributions. These opportunities can be used to **increase Multiplier Acheivements** and overall level of TOTEM allocations. Funds are not refundable once paid.
+As a side effect however, fluctuations in spot market prices can expose arbitrage opportunities between the  currencies used to make contributions. These opportunities can be used to **increase Multiplier achievements** and overall level of TOTEM allocations. Funds are not refundable once paid.
 
 > **For more information about how to exchange TOTEM after the Crowdfunding in the Totem Live App P2P OTC Marketplace please read the Crowdfunding FAQ.**
 

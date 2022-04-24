@@ -10,7 +10,7 @@
 
 We have introduced this feature because the community was concerned that the current Polkadot Parachain winners had won slots with low quantities of DOT contributed. In our previous version of the offering this would result in a low allocation of total supply to contributors. 
 
-**This now guarantees that _no matter what happens_ ALL CONTRIBUTORS will share at least 22% of supply.**
+**This now guarantees that _no matter what happens_ ALL CONTRIBUTORS will share the entire Hard Cap allocation.**
 
 ### Vesting
 
@@ -122,7 +122,7 @@ The Pledge contributions will then be collected from all participants. We will a
 
 This is the payout stage for both the Pledge contributions and the final total bonuses earned by contributors.
 
-At this point all the necessary information is available to calculate and assess the Cap acheivements, Contributor bonuses and Referral Rewards. 
+At this point all the necessary information is available to calculate and assess the Cap achievements, Contributor bonuses and Referral Rewards. 
 
 > **Disclaimer: These pages do not constitute investment advice. You should do your own research, and should not participate in this process if you do not understand or feel uncomfortable about committing to the requirements of this program. We offer no guarantees of return of investment [ROI] as DOT prices may vary along with the price of KAPEX. However all DOT committed to the Crowdloan are fully refunded after either the lease period ends or the Crowdloan period whichever is the longer.**
 

@@ -6,7 +6,7 @@
 
 ### Types of Participation 
 
-There are two basic types of participation which will award KAPEX coins, although you can win or earn bonuses depending on various factors including referrals and overall crowdloan acheivements.
+There are two basic types of participation which will award KAPEX coins, although you can win or earn bonuses depending on various factors including referrals and overall crowdloan achievements.
 
 The two types are:
 

@@ -83,7 +83,7 @@ A payment is received when the balance of Sales Tax declaration in the control a
 
 ### Totem Accounting Process
 
-> There are in effect only 2 steps in Totem required to acheive the same book-keeping end result.
+> There are in effect only 2 steps in Totem required to achieve the same book-keeping end result.
 
 #### 1. Invoice created in Totem with one transaction
 

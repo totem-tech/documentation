@@ -7,7 +7,7 @@ In this section we outline the details of the allocation mechanisms for Totem’
 ### Base Calculation
 
 > Minimum Crowdloan Participation :  **5 DOT** <br />
-> For every **1 DOT contributed in the Crowdloan** you will receive a minimum of **0.1 KAPEX** plus <br /> a share of the [Contribution Guarantee](/crowdloan/crowdloan-proposition?id=contribution-guarantee) of 568,000 KAPEX.<br />
+> For every **1 DOT contributed in the Crowdloan** you will receive a minimum of **0.1 KAPEX** plus <br /> a share of the [Hard Cap Allocation](/crowdloan/crowdloan-proposition?id=contribution-guarantee) of 568,000 KAPEX.<br />
 > _This does not include bonuses (see below)._
 
 **The total quantity of KAPEX minted is 2,581,818 KAPEX coins.** 
@@ -56,7 +56,7 @@ Totem’s Meccano userbase will have their balances migrated to the KAPEX networ
 * For the Crowdloan and Pledge there are two upper commitment limits (Hard Caps): 5,680,000 DOT for the Crowdloan and 1,775,000 DOT for the Pledge. 
 * The Pledge has no lower limit of contribution as it is voluntary.
 * The Ratio of commitment is capped at 100% of the specific Crowdloan commitment per address. 
-  * The [Crowdloan Dapp](https://totem.live/crowdloan/) enfoces these limits.
+  * The [Crowdloan Dapp](https://totem.live/crowdloan/) enforces these limits.
 
 _There are implied hard limits to participation proportional to the Crowdloan limits and the Pledge limits set out above._
 
