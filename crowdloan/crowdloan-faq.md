@@ -113,7 +113,7 @@ Ping us and we should respond.
 
 ### 12. What the hell is KAPEX? I thought Totem had the TOTEM coin?
 
-**In simple terms, KAPEX is a market priced coin and is native to Totem’s KAPEX Parachain.** It's primary purpose is to provide a distribution mechanism to the community with 55% of all tokens being released in the Crowdsale. 
+**In simple terms, KAPEX is a market priced coin and is native to Totem’s KAPEX Parachain.** It's primary purpose is to provide a distribution mechanism to the community with 55% of all tokens being released in the Crowdloan and Pledge. 
 
 TOTEM is an algorithmic stable coin as described [in the Token Economics section](information/overview-token) of this docmentation portal.
 

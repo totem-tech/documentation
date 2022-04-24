@@ -20,7 +20,7 @@ The contributions are received and administered by the Live Accounting Associati
     * Contributors must manually check the addresses that are copy-pasted BEFORE making any pledges.
         * A simple way to do this is to check the first six characters, the last six characters and several consecutive characters from the middle of the address.
 
-* A Contributor can Crowdloan **at any time before the Crowdloan period ends**, and provided they have followed the terms set out here. After that time the Crowdloan mechanism closes.
+* A Contributor can contribute **at any time before the Crowdloan period ends**, and provided they have followed the terms set out here. After that time the Crowdloan mechanism closes.
 
 * A Contributor can Pledge **at any time before the Pledge period ends**, and provided they have followed the terms set out here.
 
