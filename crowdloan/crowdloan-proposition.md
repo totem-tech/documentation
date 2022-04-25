@@ -33,10 +33,20 @@ We have introduced this feature because the community was concerned that the cur
 
 *_see terms of migration_
 
-| The Pledge (See below)               |      |
+### The Pledge
+
+|                            |      |
 |--------------------------------------|:------------|
 | Min Pledge Participation             |  0 DOT |
-| Max Pledge Participation             |  Up to 100% of Crowdloan Target Cap |
+| Max Pledge Participation             |  Up to 100% of Crowdloan contribution amount |
+
+* When the Soft Cap is reached all Pledge participants will receive 10% bonus based on the amount committed to the Pledge.
+
+* When the Target Cap is reached all Pledge participants will receive a further 10% bonus based on the amount committed to the Pledge.
+
+* There is a Cap on the amount of DOT that can be contributed in the Pledge: 1,775,000 DOT at an exchange rate of 0.32 KAPEX per DOT (not including bonuses which are paid on top). When that threshold is reached the Pledge will stop accepting amounts.
+
+* The Pledge amounts will not be collected until after the Parachain slot is won.
 
 ### Crowdloan Referral Bonus
 
