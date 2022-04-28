@@ -6,7 +6,7 @@
 
 ### Contribution Guarantee
 
-> All contributors to the Crowdloan will be guranteed a share of the Hard Cap (568,000 KAPEX) paid pro-rata to their Crowdloan Contribution if we win without reaching the Hard Cap. This is in addition to their KAPEX allocations (based on actual contributions) and bonuses.
+> All contributors to the Crowdloan will be guranteed a share of the Hard Cap (568,000 KAPEX) paid pro-rata to their Crowdloan Contribution and fulfilled Pledge if we win without reaching the Hard Cap. This is in addition to their KAPEX allocations (based on actual contributions) and bonuses.
 
 We have introduced this feature because the community was concerned that the current Polkadot Parachain winners had won slots with low quantities of DOT contributed. In our previous version of the offering this would result in a low allocation of total supply to contributors. 
 

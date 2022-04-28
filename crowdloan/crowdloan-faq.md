@@ -60,15 +60,17 @@ In practice your funds should be accepted by the Crowdloan mechanism within 3-6 
 
 ### 7. What happens if I pay after the Crowdloan is closed?
 
-You should not be able to contribute once the Crowdloan closes, however you will be able to adjust your pledge up until the Pledge mechanism activates.
+You will not be able to contribute once the Crowdloan closes. hHowever, you can increase your pledge by contributing 5 or more DOTs while the crowdloan is open.
 
-Closing can happen in two ways:
+Closing can happen in one of the following ways:
 
-1. Closing happens because the Target Cap in the Crowdloan is reached. (10M DOT contributed)
+1. Closing happens because the Hard Cap in the Crowdloan is reached. (5.68M DOT contributed)
 
 2. The time for the Crowdloan has passed.
 
 3. Totem KAPEX wins a parachain slot.
+
+4. Pledge Hard Cap is reached. (1.775M DOT pledged)
 
 The Pledge mechanism is considered activated when the module is available on the KAPEX parachain.
 
@@ -94,18 +96,19 @@ For this reason there is no reason to KYC either.
 
 The maximum contribution is determined by the maximum number of KAPEX that is available for allocation. 
 
-This is known as the Crowdloan Target Cap. If the Live Accounting Association judges that the Crowdloan is over-subscribed, it can at its own discretion increase the quantity of KAPEX to be allocated.
+This is known as the Crowdloan Hard Cap. If the Live Accounting Association judges that the Crowdloan is over-subscribed, it can at its own discretion increase the quantity of KAPEX to be allocated.
 
-> The Crowdloan Soft Cap is 1M DOT - 100,000 KAPEX*. <br />
-> The Crowdloan Target Cap is 10M DOT - 1,000,000 KAPEX*.<br />
+> The Crowdloan Soft Cap is 568K DOT - 56,800 KAPEX*. <br />
+> The Crowdloan Target Cap is 1.775M DOT - 177,500 KAPEX*. <br />
+> The Crowdloan Hard Cap is 5.68M DOT - 568,000 KAPEX*.<br />
 
 _*not including bonuses which are paid on top of these caps._
 
-If the Target Cap is not reached all remaining funds will be assigned to the Live Accounting Association Treasury.
+If the Hard Cap is not reached all remaining funds will be assigned to the Live Accounting Association Treasury.
 
 ### 11. How can we contact you?
 
-We have a dedicated support channel already built into [Totem Live](https://totem.live). You can also reach us through [Discord](https://discord.gg/TXPKJTAGvt) and [Telegram](https://t.me/totemchat)
+We have a dedicated support channel already built into [Totem Live](https://totem.live/?form=chat&userIds=support). You can also reach us through [Discord](https://discord.gg/TXPKJTAGvt) and [Telegram](https://t.me/totemchat).
 
 Ping us and we should respond.
 
