@@ -26,7 +26,7 @@ The contributions are received and administered by the Live Accounting Associati
 
 * All Pledges received after the Pledge period ends will not receive KAPEX allocations. 
 
-* The Pledge cut-off date will be defined by the Live Accounting Association before the Pledge is activated. This will be known as "The Last Allocation Time" and cannot be appealed. 
+* The Pledge cut-off date will be defined before the Pledge is deactivated. This will be known as "The Last Allocation Time" and cannot be appealed. 
 
 * The final allocation is only calculated after the Pledge period ends in order to capture Pledges made at the very last minute. 
 
@@ -46,4 +46,5 @@ The actual running time of both the Crowdloan and the Pledge is defined by a num
 
 ### Migration Allocations
 
-Funds that are migrated from Totem Meccano will be carried out on a fair basis. If we have noticed any suspicious activity on Totem Meccano for example attempting to game the referral mechanism funds will not be migrated. You may raise a complaint on our social channels (Twitter, Discord or Telegram) if you believe that you have been unfairly blocked from receiving a migrated balance. Final decisions will be at the discretion of the Live Accounting Association.
+Funds that are migrated from Totem Meccano will be carried out on a fair basis. If we notice any suspicious activity on Totem Meccano for example this includes but is not limited to using fake email addresses in the newsletter signup, fake or bot twitter accounts, gaming the distribution mechanism or adapting or resetting the testnet client UI your funds will not be migrated and you will be disqualified. You may raise a complaint on our social channels (Twitter, Discord or Telegram) if you believe that you have been unfairly blocked from receiving a migrated balance. Final decisions will be at the discretion of the Project Team.
+
