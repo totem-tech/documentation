@@ -96,7 +96,7 @@ For this reason there is no reason to KYC either.
 
 The maximum contribution is determined by the maximum number of KAPEX that is available for allocation. 
 
-This is known as the Crowdloan Hard Cap. If the Live Accounting Association judges that the Crowdloan is over-subscribed, it can at its own discretion increase the quantity of KAPEX to be allocated.
+This is known as the Crowdloan Hard Cap. If the Project Team judges that the Crowdloan is over-subscribed, it can at its own discretion increase the quantity of KAPEX to be allocated.
 
 > The Crowdloan Soft Cap is 568K DOT - 56,800 KAPEX*. <br />
 > The Crowdloan Target Cap is 1.775M DOT - 177,500 KAPEX*. <br />
@@ -104,7 +104,7 @@ This is known as the Crowdloan Hard Cap. If the Live Accounting Association judg
 
 _*not including bonuses which are paid on top of these caps._
 
-If the Hard Cap is not reached all remaining funds will be assigned to the Live Accounting Association Treasury.
+If the Hard Cap is not reached all remaining funds will be assigned to the Network Treasury.
 
 ### 11. How can we contact you?
 

@@ -2,7 +2,7 @@
 
 In this section we detail the two most important considerations; the so-called **"Howey Test"** and **Know Your Customer (KYC) and Anti-Money Laundering (AML) Compliance** in relation to the Crowdfunding. 
 
-In addition as the Live Accounting Association, based in Switzerland is administering the Crowdfunding and must follow the Swiss Financial Market's Authority Guidance which is outlined below.
+In addition as the Live Accounting Association (Swiss Verein in formation), based in Switzerland is administering the Crowdfunding and must follow the Swiss Financial Market's Authority Guidance which is outlined below.
 
 ---
 
@@ -60,13 +60,13 @@ This amount is sufficient for micro-business to conduct accounting operations an
 
 In the case of a requested to replenish TOTEM, the Faucet allocated the funds unconditionally and for free although this will partially change in future as outlined here.
 
-Whilst the Tokens have been distributed by the Faucet prior to the Crowdfunding, the entire remaining balances held by the Founders will be transferred to the Live Accounting Association, an independent non-profit organisation based in Switzerland. This will be carried out with one-off network reset which will not penalise other existing holders.
+Whilst the Tokens have been distributed by the Faucet prior to the Crowdfunding, the entire remaining balances held by the Founders will be transferred to the Live Accounting Association (Swiss Verein in formation), an independent non-profit organisation based in Switzerland. This will be carried out with one-off network reset which will not penalise other existing holders.
 
-The Crowdfunding will be administered by the Live Accounting Association, and the basis of the allocation will be that the TOTEM Tokens will be distributed as a measure of the contribution as a donation to the Association and not to the Founders. The donation does not constitute or confer membership of the Association, which can be obtained seperately. 
+The Crowdfunding will be administered by the Live Accounting Association (Swiss Verein in formation), and the basis of the allocation will be that the TOTEM Tokens will be distributed as a measure of the contribution as a donation to the Association and not to the Founders. The donation does not constitute or confer membership of the Association, which can be obtained seperately. 
 
-The Live Accounting Association will set aside money received as a donation to enable the purpose of the Association.
+The Live Accounting Association (Swiss Verein in formation) will set aside money received as a donation to enable the purpose of the Association.
 
-> The purpose of the Live Accounting Association is to provide funding for the development of the Live Accounting Network. Any developer - not just the Founders of Totem Accounting - can apply for grants from the Association for work that carries out the purpose of the Association.
+> The purpose of the Live Accounting Association (Swiss Verein in formation) is to provide funding for the development of the Live Accounting Network. Any developer - not just the Founders of Totem Accounting - can apply for grants from the Association for work that carries out the purpose of the Association.
 
 * Founders will not receive an allocation of TOTEM from the Crowdfunding.
 * In future all balances will be transferred to Totem Live Accounting MainNet at a minimum of 1:1 ratio of allocation. 
@@ -101,7 +101,7 @@ There are three categories of Totem Transaction owners:
 
 For users allocated Totem Transactions (ticker symbol: TOTEM) from the Faucet alone there is no expectation of profit. No publicity has ever been made to this effect at any time.
 
-Totem Transactions that are allocated by the Live Accounting Association in the Crowdfunding are allocated at a discount to the deterministic exchange rate. The discounts are set out in the schedules to the Crowdfunding and are entirely dependent on the contribution level.
+Totem Transactions that are allocated by the Live Accounting Association (Swiss Verein in formation) in the Crowdfunding are allocated at a discount to the deterministic exchange rate. The discounts are set out in the schedules to the Crowdfunding and are entirely dependent on the contribution level.
 
 It could be argued that Contributors can expect that the TOTEM will be accepted by other parties on the Network at the deterministic exchange rate and therefore an element of increase in value is built-in to the discounted distribution from the Crowdfunding. 
 
@@ -225,17 +225,17 @@ The issuance of Totem TRansactions are not analgous to Equity or Bonds and altho
 
 #### Deposits
 
-This issuance of Totem Transactions by the Live Accounting Association in exchange does not constitute a claim for the repayment of funds, and therefore the contributions are not considered deposits. There is no requirement under the Banking Act to require a licence. 
+This issuance of Totem Transactions by the Live Accounting Association (Swiss Verein in formation) in exchange does not constitute a claim for the repayment of funds, and therefore the contributions are not considered deposits. There is no requirement under the Banking Act to require a licence. 
 
 #### Collective Investment Schemes
 
-The funds collected by the Live Accounting Association are not to be managed by third parties and are therefore is not a collective investment scheme.
+The funds collected by the Live Accounting Association (Swiss Verein in formation) are not to be managed by third parties and are therefore is not a collective investment scheme.
 
 # KYC and AML Regulations
 
 In Switzerland in the case of utility tokens anti-money laundering regulation is not applicable as long as the main reason for issuing the tokens is to provide access rights to a non-financial application of blockchain technology (see Art. 2 para. 2 let. a no. 3 AMLO, FINMA Circ. 11/1 "Financial intermediation under AMLA" margin no. 13 et seq.).
 
-However, in the interest of transparency the Live Accounting Association has taken a pragmatic approach in deciding to capture some personal information in order to satisfy requests from third-countries law enforcement agencies and to protect the Association, its directors and members. 
+However, in the interest of transparency the Live Accounting Association (Swiss Verein in formation) has taken a pragmatic approach in deciding to capture some personal information in order to satisfy requests from third-countries law enforcement agencies and to protect the Association, its directors and members. 
 
 In the interests of securing the Personal Identification Information (PII) the following proceedure will be followed: 
 
@@ -247,17 +247,17 @@ In the interests of securing the Personal Identification Information (PII) the f
 
 * This encryption is in addition to the encryption that takes place via the secure websocket using the Secure Websocket Protocol `wss://` and a valid CA certificate. 
 
-    * In this way only the Live Accounting Association's public encryption key is used for encryption and therefore Totem Accounting or any thrid party cannot view or decrypt the registrant's personal data.
+    * In this way only the Live Accounting Association (Swiss Verein in formation)'s public encryption key is used for encryption and therefore Totem Accounting or any thrid party cannot view or decrypt the registrant's personal data.
 
 * This also means that registrant's PII can be transmitted securely over the Internet and stored securely on the Live Accounting database without needing to decrypt it.
 
-* All intermediate servers including the Totem Accounting Messaging Server will not be able to decrypt the information as they will not have access to the decryption keys of the Live Accounting Association. 
+* All intermediate servers including the Totem Accounting Messaging Server will not be able to decrypt the information as they will not have access to the decryption keys of the Live Accounting Association (Swiss Verein in formation). 
 
-* All Personal Identification Informtion (PII) will be held in this encrypted format on the Live Accounting Association database. 
+* All Personal Identification Informtion (PII) will be held in this encrypted format on the Live Accounting Association (Swiss Verein in formation) database. 
 
-* The Live Accounting Association will not decrypt the data other than for verification purposes or following a formal written request made to the Live Accounting Association by law enforcement. 
+* The Live Accounting Association (Swiss Verein in formation) will not decrypt the data other than for verification purposes or following a formal written request made to the Live Accounting Association (Swiss Verein in formation) by law enforcement. 
 
-    * As the Live Accounting Association is not obliged to go through this process all law enforcement requests will be made public by the Live Accounting Association stating which agency, when and for what reason they were requested.
+    * As the Live Accounting Association (Swiss Verein in formation) is not obliged to go through this process all law enforcement requests will be made public by the Live Accounting Association (Swiss Verein in formation) stating which agency, when and for what reason they were requested.
 
     * The data provided in these requests will only ever be decrypted on a case-by-case basis and not decrypted _en masse_.
 
@@ -271,4 +271,4 @@ The personal Information that we request is as follows:
     * Residents of certain countries are excluded from participating in the Crowdfunding, but ***are not excluded from using the app***. See the [Crowdfunding Terms](Crowdfunding.md).
 
 * Email address
-    * Registrants' email addresses will be shared by the Live Accounting Association with the Totem Accounting and subscribed to the mailing list in order to facilitate announcements about the Crowdfunding progress and other news or relevant communications.
+    * Registrants' email addresses will be shared by the Live Accounting Association (Swiss Verein in formation) with the Totem Accounting and subscribed to the mailing list in order to facilitate announcements about the Crowdfunding progress and other news or relevant communications.

@@ -29,9 +29,9 @@ This will be programmed into the genesis block.
 
 ## The Network Treasury
 
-This will initially be controlled by the Live Accounting Association, and will later be community owned. 
+This will initially be controlled by the Live Accounting Association (Swiss Verein in formation), and will later be community owned. 
 
-**Note:** The Live Accounting Association will not migrate the balance of tokens from its holdings, but instead the Network Treasury will be allocated an amount equivalent to 51% of the coins to be minted at MainNet according to the price calculation above.
+**Note:** The Live Accounting Association (Swiss Verein in formation) will not migrate the balance of tokens from its holdings, but instead the Network Treasury will be allocated an amount equivalent to 51% of the coins to be minted at MainNet according to the price calculation above.
 
 The Treasury is intended to be the liquidity provider of last resort in the initial startup phases of MainNet. The funds will be used to provide liquidity to users, in the exceptional circumstances where the holders of TOTEM refuse to provide liquidity to commercial users. It is intended as a safety mechanism to prevent users from being held to ransom.
 

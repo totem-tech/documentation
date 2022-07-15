@@ -20,7 +20,7 @@ The two types are:
 
 > The Pledge is unique to Totem - but is not mandatory for you to participate in the Crowdloan.
 
-The pledge will be managed by the Treasury of the Live Accounting Association with an on-chain module created for the purpose. This will not be available until a parachain slot is won.
+The pledge will be managed by the Treasury of the Project Team with an on-chain module created for the purpose. This will not be available until a parachain slot is won.
 
 > **At no time will you ever be _obliged_ to meet the pledge you made - you are free to change your mind.** <br /> This is the fairest mechanism we can conceive to operate such a bonus scheme.
 

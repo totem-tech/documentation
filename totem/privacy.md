@@ -10,7 +10,7 @@ These are the Privacy Terms for Totem Live Accounting app.
 
 * We do not allow third-party apps to track you.
 
-* The personal information collected for the KYC and AML process in the Crowdfunding is held and managed by the Live Accounting Association.
+* The personal information collected for the KYC and AML process in the Crowdfunding is held and managed by the Live Accounting Association (Swiss Verein in formation).
 
     * It is encrypted to their public key before being sent to their storage server - not ours. 
 

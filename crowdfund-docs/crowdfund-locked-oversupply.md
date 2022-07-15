@@ -5,7 +5,7 @@
 The funds were originally intended to be the total supply but now is intended to be locked for the life of the network in order not to penalise Contributors to the Crowdfunding. The process will follow a number of steps:
 
 1) Gather all available funds to one account.
-2) Allocate the Crowdfunding Funds to the Live Accounting Association account and the the Treasury.
+2) Allocate the Crowdfunding Funds to the Network Treasury.
 3) Allocate the Referral Fund.
 4) Allocate partial Crowdfunding funds to the Faucet for security reasons.
 5) Send Balance to unspendable account.

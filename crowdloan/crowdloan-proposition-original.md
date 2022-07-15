@@ -13,7 +13,7 @@
 |------------------------------------------------------|---------:|------------:|
 | **Total KAPEX Supply**                               | **100%**     | **2,581,818** |
 | KAPEX Released for Crowdloan & Pledge                    | 55%      | 1,420,000 |
-| Live Accounting Association <br /> Development & Engineering Grants | 20%      | 516,364 |
+| Development & Engineering Grants | 20%      | 516,364 |
 | Airdrop (User Migration from Meccano Network*)                    | 3%       |  77,455  |
 | Polkadot Community                         | 2%       |  51,636  |
 | Current & Future Team                                | 20%      | 516,364 |

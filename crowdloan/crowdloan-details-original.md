@@ -95,7 +95,7 @@ This should give you a good idea as to how KAPEX is awarded.
 
 ### Pledge Use of Funds
 
-Once the pledges are collected the Live Accounbting Association will distribute the funds in the following way:
+Once the pledges are collected by the Project Team will distribute the funds in the following way:
 
 |                                           | Distribution % |
 |-------------------------------------------|----------------|

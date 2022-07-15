@@ -1,7 +1,7 @@
 
 # Paid allocations of TOTEM network tokens:
 
-### There are currently no plans to issue TOTEM tokens in exchange for payments to Totem Team or the Live Accounting Association.
+### There are currently no plans to issue TOTEM tokens in exchange for payments to Totem Project Team.
 
 We are planning a Crowdloan but this will be based on our limited supply KAPEX Parachain Network Tokens which you can read about in the next section.
 

@@ -26,7 +26,7 @@ You can track your TOTEM in your Totem.Live account. The vesting period is time 
 
 ## Disclaimer:
 
-All funds received will be held by the Live Accounting Association charged with funding Totem.Live development. The funds will be distributed in the form of grants to developers and community members focused on building Totem.Live app and ecosystem. For more information, you can refer to the Totem Live Crowdfunding Funds Distribution document. 
+All funds received will be held by the Network Treasury charged with funding Totem.Live development. The funds will be distributed in the form of grants to developers and community members focused on building Totem.Live app and ecosystem. For more information, you can refer to the Totem Live Crowdfunding Funds Distribution document. 
 
 ---
 
@@ -40,9 +40,9 @@ All funds received will be held by the Live Accounting Association charged with 
 
 * Using such tools, whilst not excluded, is your own risk. These services receive your funds and pay out to addresses you provide to them. It is your responsibility to ensure that the address you provide to them is the correct address for funding your contributions. 
 
-* These are third-party conversion services and for clarity are not operated by Totem Accounting, and or the Live Accounting Association.
+* These are third-party conversion services and for clarity are not operated by Totem.
 
-* Totem Accounting, and or the Live Accounting Association is not liable for any loss of funds that arise from using third-party services to make payments. If the funds do not arrive in the designated pay-to addresses they are considered as unpaid.
+* Totem Accounting, and or the Network Treasury is not liable for any loss of funds that arise from using third-party services to make payments. If the funds do not arrive in the designated pay-to addresses they are considered as unpaid.
 
 ---
 

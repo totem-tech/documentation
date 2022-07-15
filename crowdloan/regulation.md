@@ -2,7 +2,7 @@
 
 In this section we detail the two most important considerations; the so-called **"Howey Test"** and **Know Your Customer (KYC) and Anti-Money Laundering (AML) Compliance** in relation to the Crowdloan and Pledge. 
 
-In addition as the Live Accounting Association, based in Switzerland is administering the Crowdloan and Pledge and must follow the Swiss Financial Market's Authority Guidance which is outlined below.
+In addition as the Live Accounting Association (Swiss Verein in formation), based in Switzerland is administering the Crowdloan and Pledge and must follow the Swiss Financial Market's Authority Guidance which is outlined below.
 
 ---
 
@@ -62,7 +62,7 @@ The concept provides that the virtual value of the coin cannot be manipulated by
 
 This calculation applies to the testnet, and will also apply to the Mainnet, however the coins on the Kapex network will be subject to market pricing. 
 
-The value of the the testnet currency allocated by the testnet Faucet is in accordance with the valuation algorithm described in [the documentation](https://docs.totemaccounting.com/#/information/overview-token-3?id=steps-to-calculate-totem-exchange-rate). At the time of the testnet start, this virtual value was equivalent to around 0.18 USD at a time of allocation or 16181 testnet coins. 
+The quantity of the the testnet currency allocated by the testnet Faucet is in accordance with the valuation algorithm described in [the documentation](https://docs.totemaccounting.com/#/information/overview-token-3?id=steps-to-calculate-totem-exchange-rate). At the time of the testnet start, for accounting purposes as a unit of account (i.e. not a valuation) quantity of 16181 coins was apprimately equivalent to 0.18 USD, and was used this way in order to determine what the accounting entry amount should be stated in the network currency not the fiat currency. 
 
 This amount of coins allocated was thought to be sufficient for micro-business to conduct accounting operations and business activities in the testnet Dapp essentially for free for a meaningful period of time without requiring an investment of fiat or cryptocurrency funds.
 
@@ -70,11 +70,11 @@ In the case of a requested to replenish the testnet currency, the testnet Faucet
 
 Whilst the testnet coins have been distributed by the testnet Faucet, the allocation of the Kapex coins for early adopters will be via a claims process to be decided. This will ensure that only valid users will be able to receive their migrated amounts.
 
-The Crowdloan and Pledge will be administered by the Live Accounting Association (in formation), and the basis of the allocation of Kapex coins has been set out in the Crowdloan details in these documents. The contribution does not constitute or confer membership of the Association, which can be obtained seperately. 
+The Crowdloan and Pledge will be administered by the Live Accounting Association (Swiss Verein in formation) (in formation), and the basis of the allocation of Kapex coins has been set out in the Crowdloan details in these documents. The contribution does not constitute or confer membership of the Association, which can be obtained seperately. 
 
-The Live Accounting Association will set aside money received as a donation to enable the purpose of the Association, but will otherwose rely on the Kapex currency for funding.
+The Live Accounting Association (Swiss Verein in formation) will set aside money received as a donation to enable the purpose of the Association, but will otherwise rely on the Kapex currency for funding.
 
-> The purpose of the Live Accounting Association is to provide funding for the development of the Live Accounting Networks. Any developer - not just the Founders of Totem Accounting - can apply for grants from the Association for work that carries out the purpose of the Association.
+> The purpose of the Live Accounting Association (Swiss Verein in formation) is to provide funding for the development of the Live Accounting Networks. Any developer - not just the Founders of Totem Accounting - can apply for grants from the Association for work that carries out the purpose of the Association.
 
 * Founders and team will receive an allocation of Kapex from the Live Accounting Treasury.
 
@@ -232,7 +232,7 @@ This issuance of Totem network coins in exchange for contributions to the Crowdl
 
 #### Collective Investment Schemes
 
-The funds collected by the Live Accounting Association with regards to the Pledge are not to be managed by third parties and are therefore is not a collective investment scheme.
+The funds collected by the Live Accounting Association (Swiss Verein in formation) with regards to the Pledge are not to be managed by third parties and are therefore is not a collective investment scheme.
 
 # KYC and AML Regulations
 

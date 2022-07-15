@@ -24,7 +24,7 @@ The purpose of the fundraising is to grow the team and accelerate development to
 
 ### Remaining 25% distributed as follows:
 
-* 20% Live Accounting Association Reserve (Development and Engineering Grants Program).
+* 20% Development and Engineering Grants Program Reserve.
 
 * 3% UI Referrals Promotions and Airdrops.
 
