@@ -73,7 +73,7 @@ This initial distribution will be based upon the total contributions in the Crow
 
 This will be carried out after the Kapex chain wins a parachain slot and becomes live. Transactions will be executed to distribute the funds directly to contributor's wallets.
 
-Crowdloan referral bonuses will not be payed at this stage, because the next phases are required to calculate the full bonus payout to contributors even if they were referred.
+Crowdloan referral bonuses will not be paid at this stage, because the next phases are required to calculate the full bonus payout to contributors even if they were referred.
 
 For existing qualifying users of the Totem Meccano Network, they will receive their migration allocation in Phase II based on their balance in Meccano and their referral bonuses already received. The conversion ratio will be announced once the number of accounts and amounts to migrate are known. There will also be a cut-off date for awards that can be earned in Meccano.
 
