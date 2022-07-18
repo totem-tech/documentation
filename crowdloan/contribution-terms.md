@@ -61,7 +61,7 @@ The contributions are received and administered by the Live Accounting Associati
 
 #### Totem Pledge Identity 
 
-You can view the official Totem Accounting Pledge Idendity here:
+You can view the official Totem Accounting Pledge Identity here:
 
 https://polkadot.subscan.io/account/14K5BeQDAwETVu9c7uRnxixW1DRefrbawD8yima2Mv2nR651
 
