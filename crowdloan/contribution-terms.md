@@ -24,18 +24,59 @@ The contributions are received and administered by the Live Accounting Associati
 
 ### Contributing to the Pledge Round
 
+#### Eligibility
+
+1. Only Crowdloan contributors identified by an address that contributed to the Totem Kapex Crowdloan are eligible for participation in the Pledge Round with a few exceptions.
+
+    1.a Any centralised exchange or DApp users are NOT eligible to participate due to technical reasons.
+
+    1.b The only exception to this rule is contributors who participated in the Crowdloan via Parallel Finance are eligible to participate.
+
+2. Any Crowdloan contribution made via a self-custody wallet such as PolkadotJS Apps, Nova, Feather or any other wallet are eligible. 
+
+    * However the only way to participate is via our Dapp and the PolkadotJS Extension. Therefore the address that has been used to contribute to the Crowdloan **_must also be added to and available in the PolkadotJS Extension_**.
+
+#### Pledge Rules
+
+1. Pledged DOT are non-refundable (unlike Crowdloaned DOT).
+
+2. You can Pledge and fulfill any amount starting from 0.01 DOT up to 100% of your Crowdloan contribution amount.
+
+3. Pledge is not mandatory. Even if you didn't Pledge (or don't fulfill your Pledge) you will still receive your Crowdloan rewards.
+
+4. If you choose not to fulfill your Pledge, you'll only receive Corwdloan portion of the rewards plus any referral bonuses and the additional share of the Guaranteed Allocations on 22% of the supply.
+
+5. We recommend only using our DApp (https://totem.live/crowdloan) from a computer browser such as Chrome, Brave, Firefox with the Polkadotjs Extension installed.
+
+6. If you have an eligible address sending funds manually to Totem's Pledge identity will still get you your Pledge rewards. 
+
+    * However fulfilling this way may cause delays and you will miss out on referral rewards. 
+
+    * For this reason we do not recommend sending funds directly to the Totem Pledge Address.
+
+7. If you send more DOT than you are eligible the additional amount is non-refundable and will be considered a donation to the Live Accounting Association (Swiss Verein in formation). 
+
+    * If you only use the DApp, it will prevent you from sending more than 100%.
+
+
+#### Totem Pledge Identity 
+
+You can view the official Totem Accounting Pledge Idendity here:
+
+https://polkadot.subscan.io/account/14K5BeQDAwETVu9c7uRnxixW1DRefrbawD8yima2Mv2nR651
+
+#### Other terms
+
 * Contributors are required to self-validate the amounts that they fulfill for the Pledge Round, and that the addresses that they are making the Pledge fulfillment from is the correct address:
 
 * Any address that sends funds to the Pledge Account directly, but did not contribute to the Crowdloan, will not receive KAPEX allocations.
 
-    * It is a mandatory requirement of the Pledge Round that you must already have contributed to the Crowdloan. There are no exceptions.
+    * It is a mandatory requirement of the Pledge Round that you must already have contributed to the Crowdloan. There are no exceptions i.e. no secret private deals - everything is public.
 
     * The Pledge fulfillment address that you use to send funds **_MUST CORRESPOND WITH THE CROWDLOAN CONTRIBUTION ADDRESS_** to qualify for allocations of KAPEX. There are no exceptions.
 
     * If you did not contribute to the Crowdloan, you can still send DOT funds to the Pledge Account on Polkadot directly **but this will be considered an unconditional and unrewarded donation to the team.**
 
-> We have built a special DApp that allows you to make your Pledge fulfillment correctly. 
->
 >We strongly recommend that you use this application to avoid errors. You can access it at [totem.live/crowdloan](https://totem.live/crowdloan)
 
 * The same address used for the crowdloan and / or pledge will be used to payout all Kapex Allocations and bonus rewards.
