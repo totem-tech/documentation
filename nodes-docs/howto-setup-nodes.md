@@ -61,6 +61,8 @@ Two different use cases exist for using nginx as a reverse proxy. The following 
 
 [nginx for bootnodes](node-docs/howto-nginx-bootnodes.md)
 
+[nginx for ui/rpc](node-docs/howto-nginx-uirpcnodes.md)
+
 ### Docker installation
 
 In the this section we install docker. 
@@ -106,9 +108,7 @@ You can now login as the user you created earlier using `ssh`.
 
 > **Note** you may be prompted for a password, but this option should be switched off, once you are certain your config is completed. See this article for [Linux passwordless login](https://linuxize.com/post/how-to-setup-passwordless-ssh-login/)
 
-
 ### Setting up and running the node
-
 
 ```shell
 # Create a directory to hold your chain data:
@@ -123,46 +123,13 @@ Create a file to start your chain
 
     nano start.sh
 
-Add the following commands
-```
-docker run \
--it \
--p 127.0.0.1:30333:30333 \
--p 0.0.0.0:40333:40333 \
--p 0.0.0.0:9615:9615 \
--p 0.0.0.0:9616:9616 \
---rm \
---name k-boot-1 \
---pull=always \
--v="/$(pwd)/data:/data" \
-totemlive/totem-parachain-collator:v1.1.0-release \
---chain kapex \
---execution=wasm \
---state-cache-size=1 \
---name "k-boot-1" \
---port 30333 \
---node-key-file /data/node-key \
---node-key-type "ed25519" \
---prometheus-external \
---prometheus-port 9615 \
--- \
---chain polkadot \
---port 40333 \
---prometheus-external \
---prometheus-port 9616
-```
-Note that the use of `--rm` argument is optional, and could be replaced by `--restart unless-stopped`, however the downside of this command is that the container must be manually stoped and removed even if the script is stopped - in other words after each time that the container is stopped. Wherease `--rm` will remove it automatically.
+Choose the commands to add into this file dependent on the type of node you are creating:
 
-
-
-Make the `start.sh` file executable
-
-    chmod u+x start.sh
-
-#### Errors
-If you get the error when trying to stop a container `Error response from daemon: cannot stop container:` execute the following command from the user that is running the container:
-
-    sudo aa-remove-unknown
+[Commands for docker Bootnode](nodes.docs/howto-docker-bootnode.md)
+[Commands for docker UI RPC node](nodes.docs/howto-docker-uirpcnode.md)
+[Commands for docker Collator node](nodes.docs/howto-docker-collatornode.md)
+[Commands for docker Archival node](nodes.docs/howto-docker-archivenode.md)
+[Commands for docker Simple Full node](nodes.docs/howto-docker-simplenode.md)
 
 ### Crontab
 
