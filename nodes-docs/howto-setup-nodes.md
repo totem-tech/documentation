@@ -1,10 +1,28 @@
 # Setup Totem KAPEX Nodes on VPS
 
-The setup was performed on Linux Ubuntu 22.04
+The setup was performed on Linux Ubuntu 22.04 and can be used on VPS/droplets from various service providers.
 
-Upon initial creation of the droplet/server you must remove any user with the `UID=1000` as this conflicts with the Docker container permissions. Usually if one exists it is a user called `ubuntu` with this `UID`.
+In this document we will go through the various node types that exist for KAPEX and how to configure them. The node types are:
 
-It is assumed that as this is a fresh system creation and you are already loged in as a root user. If not then switch to the root user with `sudo su`. 
+* Boot Node
+
+* UI/RPC Node. 
+
+    * _This node type is also useful for centralised exchanges in order to setup API endpoints._
+
+* Collator Node
+
+* Archive Node
+
+* Vanilla Full Node
+
+We will be using our `totem-collator` from the dockerhub repository in all the examples. If you wish to compile a node from scratch some of the setting apply, but some do not. We recommend thereofore that the docker image is used.
+
+#### User ID conflict with Docker
+
+Upon initial creation of the droplet/server you must remove any user with the `UID=1000` as this conflicts with the KAPEX Docker image permissions which we will be using here.
+
+For example on a fresh Ubuntu install there may be a user called `ubuntu` with this `UID`. Follow these steps to remove this user and create a fresh one. 
 
 ```shell
 # check for user with UID 1000
@@ -26,6 +44,8 @@ usermod -aG sudo <a-username>
 
 ### Firewall
 
+Create a firewall to specify which ports you require to be open
+
 ```shell
 # update package manager
 apt update
@@ -38,30 +58,41 @@ ufw enable
 
 # allow ssh login (port 22)
 ufw allow ssh
+```
 
-# allow p2p on the parachain node (do not use port 30333!)
-ufw allow 41333
+Refer to the ports needed to be opened for the specific node type [here](nodes-docs/ports.md) or by following the specific links:
 
-# allow p2p on the relaychain node
-ufw allow 4O333
+* [Bootnode with domain name and nginx reverse proxy](nodes-docs/ports?id=bootnode-with-domain-name-and-nginx-reverse-proxy)
 
-# you can add other optional ports:
-# * prometheus port on the parachain node
-ufw allow 9615
-# * prometheus port on the relachain node
-ufw allow 9616
+* [Bootnode without domain name](nodes-docs/ports?id=bootnode-without-domain-name)
 
+* [UI node with domain name and nginx reverse proxy, but not RPC](nodes-docs/ports?id=ui-node-with-domain-name-and-nginx-reverse-proxy-but-not-rpc)
+
+* [Collator Node](nodes-docs/ports?id=collator-node)
+
+* [Collator Node with UI and RPC access](nodes-docs/ports?id=collator-node-with-ui-and-rpc-access)
+
+* [Vanilla Full node or Archive node](nodes-docs/ports?id=vanilla-full-node-or-archive-node)
+
+```
 # check the setup
 ufw status numbered
 ```
+
+### Fail2Ban
+
+See at the end of this page.
 
 ### Nginx
 
 Two different use cases exist for using nginx as a reverse proxy. The following links provide that information:
 
-[nginx for bootnodes](node-docs/howto-nginx-bootnodes.md)
+> If you are not creating either of these node types you will not need to use nginx.
 
-[nginx for ui/rpc](node-docs/howto-nginx-uirpcnodes.md)
+[nginx for bootnodes](nodes-docs/howto-nginx-bootnodes.md)
+
+[nginx for ui/rpc](nodes-docs/howto-nginx-uirpcnodes.md)
+
 
 ### Docker installation
 
@@ -126,9 +157,13 @@ Create a file to start your chain
 Choose the commands to add into this file dependent on the type of node you are creating:
 
 [Commands for docker Bootnode](nodes.docs/howto-docker-bootnode.md)
+
 [Commands for docker UI RPC node](nodes.docs/howto-docker-uirpcnode.md)
+
 [Commands for docker Collator node](nodes.docs/howto-docker-collatornode.md)
+
 [Commands for docker Archival node](nodes.docs/howto-docker-archivenode.md)
+
 [Commands for docker Simple Full node](nodes.docs/howto-docker-simplenode.md)
 
 ### Crontab

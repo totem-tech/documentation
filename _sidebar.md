@@ -30,10 +30,7 @@
         * [Crowdloan Terms](crowdloan/contribution-terms.md)
         * [Regulatory](crowdloan/regulation.md)
 ---
-* [**Run a node**](nodes-docs/nodes-intro.md)
-    * [**Simple node**](nodes-docs/howto-simplenode-on-VPS.md)
-    * [**Archive node**](nodes-docs/howto-archivenode-on-VPS.md)
-    * [**Boot node**](nodes-docs/howto-bootnode-on-VPS.md)
+* [**Run a node**](nodes-docs/howto-setup-nodes.md.md)
 ---
 * [**Navigating the App**](app-docs/navigation.md)
     * [Getting Started](app-docs/on-boarding/getting-started.md)
