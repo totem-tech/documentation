@@ -2,17 +2,21 @@
 
 Dated: 26 August 2022
 
-### This document details the awards payouts and calculations following the Totem Kapex Crowdloan, Pledge and Referral Programs which are all now closed.
+#### This document details the awards payouts and calculations following the Totem Kapex Crowdloan, Pledge and Referral Programs which are all now closed.
 
-#### tl;dr
+**tl;dr.**
 
 * All contributors will receive many more KAPEX than expected.
 
     * Due mainly to the combined effects of the low turnout and the guaranteed minimum distribution. 
 
-* You can use the formula below to calculate if you don't want go through this doc.
+* You can use the [formula](/crowdloan/payouts?id=formulas) below to calculate if you don't want go through this doc.
 
 * All payouts should happen by mid-September 2022 or earlier.
+
+---
+
+### Recap
 
 Totem won Auction #20 on Polkadot and secured a parachain slot for the KAPEX Parachain and in return we will be paying out KAPEX to the community that helped us reach this milestone.
 
@@ -32,6 +36,7 @@ You can find the published allocations and payouts in a [public Google Spreadhse
 
 _It should be noted that google sheets does not handle 12 decimal places correctly sometimes. This may result in the last 4 decimal places being replaced by zeros. Your actually allocations however will be correct to the last decimal place._
 
+#### Formulas
 
 Although the Google Document and this documention page explains the exact calculations for the entire payouts including referral rewards, you can calculate the minimum amount that you will receive using the formulas below:
 
