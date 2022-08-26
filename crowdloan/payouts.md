@@ -1,6 +1,6 @@
 # KAPEX Crowdloan, Pledge & Referral Program Award Payouts
 
-This document details the awards payouts and calculations following the Totem Kapex Crowdloan, Pledge and Referral Programs which are all now closed.
+### This document details the awards payouts and calculations following the Totem Kapex Crowdloan, Pledge and Referral Programs which are all now closed.
 
 Totem won Auction #20 on Polkadot and secured a parachain slot for the KAPEX Parachain and in return we will be paying out KAPEX to the community that helped us reach this milestone.
 
@@ -26,7 +26,7 @@ _It should be noted that google sheets does not handle 12 decimal places correct
 
 Although the Google Document and this documention page explains the exact calculations for the entire payouts including referral rewards, you can calculate the minimum amount that you will receive using the formulas below:
 
-> Use these multipliers with your Crowdloan and Pledge DOT contributions to validate your Crowdloan and Pledge Award _including your allocation of the 22% guaranteed distribution_ as stated in our documents and now the published distribution document._*_
+> Use the Multipliers below with your Crowdloan and Pledge DOT contributions to validate your Crowdloan and Pledge Award _including your allocation of the 22% guaranteed distribution_ as stated in our documents and now the published distribution document._*_
 
 _*If the published amount in the KAPEX Payout sheet are more than expected, it is because the following calculation does not include Referral Rewards, which are calculated seperately._
 
@@ -65,19 +65,20 @@ However considering the low turnout in the Crowdloan and Pledge offerings the to
 
 We therefore decided to update the Referral Payout to be based on the Referee’s KAPEX award _after_ the uplift not the actual DOT contribution of the referee. 
 
-> This has meant that all users who took part in the Referral Program will now received a minimum 3410% greater than expected referral reward!
+> This change has meant that all users who took part in the Referral Program will now receive a minimum 3410% greater than expected referral reward!
 
 More information about how we calculated this is in the detailed breakdown below.
 
 ## Detailed KAPEX Payout Breakdown
 
-**_This section is for anyone that wants to look into the details of the distribution or audit our calculations. We recommend that contributors who are interested do so, and please [inform us](mailto:support@totemaccounting.com) concerning any issues that are discovered._**
+**_This section is for anyone that wants to look into the details of the distribution or audit our calculations. We recommend that contributors who are interested do so [informing us](mailto:support@totemaccounting.com) if they discover any issues._**
 
 ## Summary Accounts Sheet
 
-In the first Google Sheet we have published a high-level view of the allocations.
+In the first sheet in the Google Document we have published a high-level view of the allocations. All values in this sheet are rounded to the nearest KAPEX unit.
 
 We start with the facts concerning the Crowdloan, Pledge and Referral Program.
+
 |Description | Amount | Currency |
 |---|---|---|
 |Total DOT Contributed in the Crowdloan	    |132833	|DOT|
@@ -85,13 +86,13 @@ We start with the facts concerning the Crowdloan, Pledge and Referral Program.
 |Total KAPEX to be Allocated from Crowdloan and Pledge	|570899	|KAPEX|
 |Total KAPEX to be allocated from Referral Program	|24169	|KAPEX|
 
-The "**Crowdloan, Pledge & Referral Allocations**" and "**Current Team Allocations**" are the initial payouts derived from details in other sheets. All values are rounded to the nearest KAPEX unit.
+* The "**Crowdloan, Pledge & Referral Allocations**" and "**Current Team Allocations**" are the initial payouts derived from details in other sheets. 
 
-There will be no vesting on these amounts and users are free to transfer as soon as they are received.
+* There will be no vesting on these amounts and users are free to transfer as soon as they are received.
 
-The "**Treasury**" of the Live Accounting Association (_in formation_) retains the remaining balance following distribution of circa 1,728,568 KAPEX.
+* The "**Treasury**" of the Live Accounting Association (_in formation_) retains the remaining balance following distribution of circa 1,728,568 KAPEX.
 
-This amount will be allocated according to our documentation and as described ion the "**Treasury Balance Breakdown**" section on this sheet.
+* This amount will be allocated according to our documentation and as described ion the "**Treasury Balance Breakdown**" section on this sheet.
 
 ## KAPEX Payouts Sheet
 
@@ -115,7 +116,7 @@ This contains the data that allowed us to calculate the percentage of referral r
 
 * Addresses that either did not have a referer ID or referer address are excluded. The qualification for this was that both the referer and the referee must have taken part in the Crowdloan, and if one of them did not then this would disqualify both from receiving a referal rewards.
 
-* Addresses that are seen as both Referee and Referer contributed via ParallelFi. ParallelFi decided to assign their referral rewards to their users meaning that ParallelFi users will receive both the referral reward for having been referred by ParallelFi as well as the Referee reward from ParallelFi. We were also supplied with a list of addresses and the amounts contributed, so that we were able to make this analysis.
+* Addresses that are seen as both Referee and Referer contributed via ParallelFi. ParallelFi decided to assign their referral rewards to their users meaning that ParallelFi users will receive both the referral reward for having been referred by ParallelFi as well as the Referee reward from ParallelFi. ParallelFi also supplied with a list of addresses and the amounts contributed, so that we were able to make this analysis.
 
     * We have not officially received any confirmation regarding other Centralised Exchanges (CEXs) that aggregated contributions to the Crowdloan nor which addresses are officially theirs. On that basis we have no means to included the referral rewards from contributions made via CEXs. We suggest that if this is the case for you that you contact the CEX that you contributed through and ask them to contact us to resolve.
 
