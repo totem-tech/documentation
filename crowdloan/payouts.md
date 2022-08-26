@@ -1,12 +1,24 @@
 # KAPEX Crowdloan, Pledge & Referral Program Award Payouts
 
+Dated: 26 August 2022
+
 ### This document details the awards payouts and calculations following the Totem Kapex Crowdloan, Pledge and Referral Programs which are all now closed.
+
+#### tl;dr
+
+* All contributors will receive many more KAPEX than expected.
+
+    * Due mainly to the combined effects of the low turnout and the guaranteed minimum distribution. 
+
+* You can use the formula below to calculate if you don't want go through this doc.
+
+* All payouts should happen by mid-September 2022 or earlier.
 
 Totem won Auction #20 on Polkadot and secured a parachain slot for the KAPEX Parachain and in return we will be paying out KAPEX to the community that helped us reach this milestone.
 
 _This process does not yet include a payout for the migration of users from the Totem Meccano Canary Network as these will follow the distribution and go-live of the Production KAPEX Parachain._
 
-You can find the published allocations and payouts in a [Public Google Spreadhseet](https://docs.google.com/spreadsheets/d/13asCuALay7faQl7HZBhaiQDEZVGA-LUIHz-STlsjSYw/edit?usp=sharing) which contains the following sub-sheets:
+You can find the published allocations and payouts in a [public Google Spreadhseet](https://docs.google.com/spreadsheets/d/13asCuALay7faQl7HZBhaiQDEZVGA-LUIHz-STlsjSYw/edit?usp=sharing) which contains the following sub-sheets:
 
 * Summary Accounts
 
@@ -20,9 +32,6 @@ You can find the published allocations and payouts in a [Public Google Spreadhse
 
 _It should be noted that google sheets does not handle 12 decimal places correctly sometimes. This may result in the last 4 decimal places being replaced by zeros. Your actually allocations however will be correct to the last decimal place._
 
-## tl;dr
-
-**_You will be delighted to hear that you are all going to receive many more KAPEX than you expected due to the effects of the low turnout and the guaranteed minimum distribution._**
 
 Although the Google Document and this documention page explains the exact calculations for the entire payouts including referral rewards, you can calculate the minimum amount that you will receive using the formulas below:
 
@@ -123,3 +132,11 @@ This contains the data that allowed us to calculate the percentage of referral r
 **DATA: Referred by ID Sheet**
 
 This sheet is designed so that referers can identify the amounts contributed by the accounts they had referred. We have not shown the referer addresses for privacy reasons.
+
+## Payouts Timing
+
+There are a number of tasks that are still left to do before we make the payouts most notable of which is getting the Parachain producing blocks.
+
+We anticipate that these tasks will be finished mid-September 2022, if not sooner and the payouts will follow immediately afterwards.
+
+We will perform some additional upgrade tasks before listing the transfer lock, but we hope this will all be completed in time.
