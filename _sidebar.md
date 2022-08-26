@@ -29,6 +29,7 @@
         * [Crowdloan FAQ](crowdloan/crowdloan-faq.md)
         * [Crowdloan Terms](crowdloan/contribution-terms.md)
         * [Regulatory](crowdloan/regulation.md)
+        * [KAPEX Payouts](crowdloan/payouts.md)
 ---
 * [**Navigating the App**](app-docs/navigation.md)
     * [Getting Started](app-docs/on-boarding/getting-started.md)
