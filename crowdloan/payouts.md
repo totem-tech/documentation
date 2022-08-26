@@ -144,4 +144,4 @@ There are a number of tasks that are still left to do before we make the payouts
 
 We anticipate that these tasks will be finished mid-September 2022, if not sooner and the payouts will follow immediately afterwards.
 
-We will perform some additional upgrade tasks before listing the transfer lock, but we hope this will all be completed in time.
+We will perform some additional upgrade tasks before lifting the transfer lock, but we hope this will all be completed in time.
