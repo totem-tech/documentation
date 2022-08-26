@@ -58,7 +58,7 @@ To encourage hitting the Soft and Target Caps all Crowdlenders can refer friends
 
 |                                       |  | 
 |--------------------------------------|------------:|
-| Max Allocations in the referal program          |    56,800 KAPEX |
+| Max Allocations in the referral program          |    56,800 KAPEX |
 
 _Users who have been referred, must make a contribuition to the Crowdloan, to activate the referral bonus for themselves and the person that referred them. Referral only extends directly to the referred party and is measured by the referred party’s contribution. In other words the bonus does not extend or accumulate to the initial referer when the referee is themselves a referer._
 

@@ -126,9 +126,11 @@ This sheet is designed as a simple list with some indicators and allows slicing 
 
 This contains the data that allowed us to calculate the percentage of referral reward payout for each address. Note the following:
 
-* Not all addresses are listed here - only those that are in the referral programs.
+* Not all addresses are listed here - only those addresses that qualify for referral program are included.
 
-* Addresses that either did not have a referer ID or referer address are excluded. The qualification for this was that both the referer and the referee must have taken part in the Crowdloan, and if one of them did not then this would disqualify both from receiving a referal rewards.
+* Addresses that either did not have a referer ID or referer address or both are excluded. 
+
+    * The qualification for this rule was that both the referer and the referee must have taken part in the Crowdloan, and if one of them did not then this would disqualify both from receiving a referral rewards.
 
 * Addresses that are seen as both Referee and Referer contributed via ParallelFi. ParallelFi decided to assign their referral rewards to their users meaning that ParallelFi users will receive both the referral reward for having been referred by ParallelFi as well as the Referee reward from ParallelFi. ParallelFi also supplied with a list of addresses and the amounts contributed, so that we were able to make this analysis.
 

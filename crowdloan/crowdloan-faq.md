@@ -78,7 +78,7 @@ The Pledge mechanism is considered activated when the module is available on the
 
 This will happen in three stages:
 
-1. The first stage happens after the parachain slot is won. This is when the contribution allocations, referals and Soft and Target Cap are calculated. These are then directly allocated to contributor's addresses.
+1. The first stage happens after the parachain slot is won. This is when the contribution allocations, referrals and Soft and Target Cap are calculated. These are then directly allocated to contributor's addresses.
 
 2. Once the Pledge module is activated it will be populated with amounts to be claimed by Pledgers and Crowdlenders taking into consideration Soft and Target Cap bonuses.
 
