@@ -29,6 +29,7 @@
         * [Crowdloan FAQ](crowdloan/crowdloan-faq.md)
         * [Crowdloan Terms](crowdloan/contribution-terms.md)
         * [Regulatory](crowdloan/regulation.md)
+        * [KAPEX Payouts](crowdloan/payouts.md)
 ---
 * [**Run a node**](nodes-docs/howto-setup-nodes.md.md)
 ---
