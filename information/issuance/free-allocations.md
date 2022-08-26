@@ -18,7 +18,7 @@
 
         * The referee will aslo receive a bonus of $5 from the faucet. [Done!]
 
-        * A referee can only make a maximum of 15 referals per week. [Done!]
+        * A referee can only make a maximum of 15 referrals per week. [Done!]
 
         * User can earn significantly more if they use the Twitter reward mechanism. [Done!]
 
