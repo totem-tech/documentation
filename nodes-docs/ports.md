@@ -9,9 +9,15 @@ This page does not cover the port mappings from the host to the docker container
 
 ### Bootnode with domain name and nginx reverse proxy
 
+In this configuration the host port for the Parachain connection will be a different port than the one exposed in the docker container. You only need to ensure that the host port is configured to allow traffic through your firewall. 
+
+The configuration will map the ports similar to this, although you can choose your own port numbers.
+
+> `host port 31333` -> `localhost port 30333` -> `container port 30333`.
+
 |Chain Config.	|p2p	|UI	|rpc| Prometheus*|
 |----|----|----|----|----|
-|Parachain	|41333	|n/a	|n/a |9615	|
+|Parachain	|31333	|n/a	|n/a |9615	|
 |Polkadot	|40333	|n/a	|n/a |9616	|
 
 ---
@@ -27,10 +33,22 @@ This page does not cover the port mappings from the host to the docker container
 
 ### UI node with domain name and nginx reverse proxy, but not RPC
 
+In this configuration the host port for the Parachain connection will be a different port than the one exposed in the docker container. You only need to ensure that the host port is configured to allow traffic through your firewall. 
+
+The configuration will map the ports similar to this, although you can choose your own port numbers.
+
+> `host port 31333` -> `localhost port 30333` -> `container port 30333`.
+
+Also this configuration will require a secure websocket connection. It is recommended that you use [Certbot](https://certbot.eff.org/instructions?ws=nginx&os=ubuntufocal) to automatically configure `nginx`.
+
+Again the configuration will map the ports similar to this, although you can choose your own port numbers.
+
+> `host port 443` -> `localhost port 9944` -> `container port 9944`.
+
 |Chain Config.	|p2p	|UI	|rpc| Prometheus*|
 |----|----|----|----|----|
-|Parachain	|41333	|9944	|n/a |9615	|
-|Polkadot	|40333	|9945	|n/a |9616	|
+|Parachain	|31333	|443	|n/a |9615	|
+|Polkadot	|40333	|n/a	|n/a |9616	|
 
 ---
 

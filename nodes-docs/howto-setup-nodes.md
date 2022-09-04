@@ -2,7 +2,15 @@
 
 The setup was performed on Linux Ubuntu 22.04 and can be used on VPS/droplets from various service providers.
 
-In this document we will go through the various node types that exist for KAPEX and how to configure them. The node types are:
+### Support
+
+If you come across issues or need help, please reach out to us on [Telegram](https://t.me/totemchat), [Discord](https://discord.gg/TXPKJTAGvt) or <a href="mailto:support@totemaccounting.com?subject=Totem Docs: Help running my Node">email</a>.
+
+## Scope of the document
+
+In this document we will go through the various node types that exist for KAPEX and how to configure them. The intended audience are Exchanges, Validators (Collators), Archivists, Blockchain Indexers (block explorers etc...) and all other parties interested in supporting the KAPEX Parachain Network.
+
+The node types are:
 
 * Boot Node
 
@@ -16,7 +24,31 @@ In this document we will go through the various node types that exist for KAPEX 
 
 * Vanilla Full Node
 
-We will be using our `totem-collator` from the dockerhub repository in all the examples. If you wish to compile a node from scratch some of the setting apply, but some do not. We recommend thereofore that the docker image is used.
+**We will be using our [totem-parachain-collator](https://hub.docker.com/r/totemlive/totem-parachain-collator/tags) from the dockerhub repository in all the examples.**
+
+* If you wish to compile a node from scratch some of the settings apply, but obviously the docker-specific settings do not apply. We highly recommend the docker image is used to avoid issues.
+
+### Fail2Ban
+
+This utility attempts to reduce some aspects of Denial of Service (DoS) attacks, but is somewhat complex to manage and maintain. See at the [end of this page](/nodes-docs/howto-setup-nodes?id=install-fail2ban) for the installation details. 
+
+_Fail2Ban should not be seen as the only requirement to secure your server, but should be seen as part of an overall attack mitigation strategy including but not limited to:_ 
+
+* ssh login
+
+    * not permitting password login
+
+    * root user login not allowed
+
+* use of a firewall with only certain ports open
+
+* nginx request rate limiting
+
+* other...
+
+_This document is not designed to address the entire scope of possible server attack vectors by any means nor do we provide any guarantees that implementing all of the steps here would be sufficient to prevent your server from being attacked. It is a best efforts approach, but for specific security requirements, we highly recommend that you contact the relevant indiustry professionals in order to conduct and audit of your setups._
+
+## Preliminary configuration
 
 #### User ID conflict with Docker
 
@@ -32,10 +64,10 @@ nano /etc/passwd
 deluser --remove-home ubuntu
 
 # create a new user
+# skip entering details, and add initial password when prompted
 adduser <a-username>
 
-# skip entering details, and add initial password when prompted
-# make the user a admin
+# make the user a admin (optional)
 usermod -aG sudo <a-username>
 
 ```
@@ -79,15 +111,11 @@ Refer to the ports needed to be opened for the specific node type [here](nodes-d
 ufw status numbered
 ```
 
-### Fail2Ban
-
-See at the end of this page.
-
 ### Nginx
 
-Two different use cases exist for using nginx as a reverse proxy. The following links provide that information:
-
 > If you are not creating either of these node types you will not need to use nginx.
+
+Two different use cases exist for using nginx as a reverse proxy. The following links provide that information:
 
 [nginx for bootnodes](nodes-docs/howto-nginx-bootnodes.md)
 
@@ -186,8 +214,6 @@ This will start the node in a `screen` instance call `parachain`.
 It is possible that your node comes under DOS attack. There are no easy ways to prevent this, however a combination of firewall, and Fail2Ban may help.
 
 #### Install Fail2ban
-
-`Fail2ban` is a common way to limit the impact of attacks on your server. This is not the most friendly utility to use of manage.
 
     sudo apt-get update && \
     sudo apt-get upgrade && \
