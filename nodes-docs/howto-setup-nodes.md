@@ -170,33 +170,53 @@ You can now login as the user you created earlier using `ssh`.
 ### Setting up and running the node
 
 ```shell
-# Create a directory to hold your chain data:
+# Create a directory to hold your chain data and ensure that it is owned by the correct user:
 mkdir -p data
-cd data
-
-nano node-key
-# paste your node key in hex format here. note do not have a new line and do not prefix the hex value with `0x`
-# save and close
+chown 1000:1000 data
 ```
+
+If you are running a boot node (or for that matter if you want to specifically identify your node by identity), you will need to store the key to your node in a specific place that can be referenced by docker.
+
+```shell
+cd data
+mkdir -p keys
+cd keys
+mkdir -p node-key
+```
+
+Place the node key file inside the directory `/node-key`
+
+There are several ways to store the key for your collator, in this example we are storing a previously generated signing key for our collator in a specific directory to be referenced by the node.
+
+If you are running a collator ensure that the the key for your collator is named correctly and stored in this location.
+
+```shell
+cd data
+mkdir -p keys
+cd keys
+mkdir -p auth-key
+```
+Place the collator signing key file inside the directory `/auth-key`
+
 Create a file to start your chain
 
     nano start.sh
 
 Choose the commands to add into this file dependent on the type of node you are creating:
 
-[Commands for docker Bootnode](nodes.docs/howto-docker-bootnode.md)
+[Commands for docker Bootnode](nodes-docs/howto-docker-bootnode.md)
 
-[Commands for docker UI RPC node](nodes.docs/howto-docker-uirpcnode.md)
+[Commands for docker UI RPC node](nodes-docs/howto-docker-uirpcnode.md)
 
-[Commands for docker Collator node](nodes.docs/howto-docker-collatornode.md)
+[Commands for docker Collator node](nodes-docs/howto-docker-collatornode.md)
 
-[Commands for docker Archival node](nodes.docs/howto-docker-archivenode.md)
+[Commands for docker Archival node](nodes-docs/howto-docker-archivenode.md)
 
-[Commands for docker Simple Full node](nodes.docs/howto-docker-simplenode.md)
+[Commands for docker Simple Full node](nodes-docs/howto-docker-simplenode.md)
 
 ### Crontab
 
-Crontab ensures that your image restarts after your server is restarted. This can also happen if your VPS provider shuts down your instance for maintenance.
+Crontab ensures that your image restarts after your server is restarted. This can also happen if your VPS service provider shuts down your instance for maintenance.
 
     crontab -e
 
@@ -207,7 +227,7 @@ Add the following line using the `username` you created earlier to define the di
     @reboot cd /home/<a-username>; screen -dmS parachain ./start.sh
 ```
 
-This will start the node in a `screen` instance call `parachain`.
+This will start the node in a `screen` instance call `parachain`. Executing the start instruction in a screen session is useful to provide persistant execution whilst the user is logged out. To return to the session type `screen -x parachain` and to leave without closing the session type `ctrl a+d`.
 
 ### Final consideration
 

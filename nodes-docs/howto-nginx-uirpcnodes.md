@@ -1,21 +1,35 @@
-# Nginx setup for UI/RPC Nodes
+# Nginx setup for UI/RPC Nodes using DNS
 
-Nginx has several important features in this context, but it is only used with this UI/RPC node types for managing API endpoints for the network, but more specifically so that an app can relay transactions to the parachain network. 
+### Nginx is used with UI/RPC node types for managing API endpoints supporting an application in order to read the state of the network, and to relay transactions. 
 
-This is mandatory however if the node is to be used with the Polkadotjs Libraries because nginx will also be required to handle the certificates for the domain. Although these can be self-signed it is recommended that yoou use [Let's Encrypt](https://letsencrypt.org/) and [Certbot](https://certbot.eff.org/) to generate and maintain the certificates. Certbot can also configuree your `nginx` files for you, if it is already installed.
+* In general this type of node will be used by Centralised Exchanges and application developers.
 
-Since we are setting up a UI RPC node that uses a FQDN it will expose your node to additional traffic over and above the peer-to-peer networking traffic, and so you should consider the available CPU, memory, disk swapping capacity etc.
+    * You can also run your own UI/RPC node to interact with the Kapex application front-end, instead of using the public endpoints available in the application. See the application documentation for information on this.
+
+* Nginx will handle serving the certificates for the domain. 
+
+    * When using Fully Qualified Domain Names (FQDN) in conjuntion with Polkadotjs Libraries connections are generally only allowed the Secure Websocket Protocol `wss://your.domain.name`.
+
+    * Although technically these certificates can be self-signed, we recommend that you use [Let's Encrypt](https://letsencrypt.org/) and [Certbot](https://certbot.eff.org/) to generate and maintain the certificates. 
+
+        * Certbot can also configure your `nginx` files for you and handle automatic renewals for the certificates which is very useful.
+
+Since we are setting up a UI RPC node that uses a FQDN it will expose your node to additional traffic over and above the peer-to-peer networking traffic, and so you should consider the available CPU, memory, disk swapping capacity of your node. This should be monitored regularly and adjusted according to the demands of your node.
+
+* This may include load balancing activities, but this document will not cover that configuration setup.
+
+## Installing Nginx for a UI/RPC Node
 
 ```shell
-# Install nginx - this is only partially used
+# Install nginx
 apt install nginx
 ````
 
-The default settings for the nginx.conf should be sufficient, but you will need to edit the default sites-available file.
+The default settings for the nginx.conf should be sufficient, but you will need to edit the `default` file in `/sites-available` directory.
 
 ```
 cd /etc/nginx
-cd sites-enabled
+cd sites-available
 nano default
 ```
 
@@ -29,7 +43,7 @@ map $http_upgrade $connection_upgrade {
     default                  upgrade;
     ''                       close;
 }
-# 10246 websocket-polkadot-ui
+# upstream websocket parachain
 upstream websocket-parachain-ui {
     server                   127.0.0.1:9944;
 }
@@ -66,7 +80,7 @@ server {
 
 This code listens for api connections on port `443` the default secure websocket port on the `host`, and forwards to port `9944` on `localhost`. 
 
-Later we will configure the docker container to listen to port `9944` on `localhost` and forward to the parachain port inside the container.
+Later we will configure the docker container to listen to port `9944` on `localhost` and forward to the same port inside the container. The default port for the UI/RPC websocket on the parachain is `9944`.
 
 Check that nginx has been configured properly
     

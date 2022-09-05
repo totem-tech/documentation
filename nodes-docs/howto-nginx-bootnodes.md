@@ -1,8 +1,10 @@
 # Nginx setup for Bootnodes
 
-### Nginx is used with this bootnode type for directing connections to the parachain using a domain name. 
+### Nginx is used with the bootnode type for introducing new nodes to the Kapex parachain network when you want to identify the node by DNS. 
 
-The bootnode networking features will apply only to the Parachain section of the parachain node because the relaychain section is pre-configured. The features are:
+Bootnodes work with the underlying `libp2p` protocol to provide an initial set of well-known nodes that new nodes can reach when starting. Each node will gossip information about their peers on the network, and bootnodes provide lists of known peers to new nodes to bootstrap the peer-to-peer network. 
+
+However in order to acheive this certain aspects are handled by the process automatically. In most cases you will not have to worry about handling these aspects, but it is informative to know about them for troubleshooting.
 
 1) Allowing multiplex communication in libp2p
 
@@ -16,17 +18,37 @@ The bootnode networking features will apply only to the Parachain section of the
 
 5) Allows information about other nodes to be shared with connecting nodes
 
-If you are setting up a bootnode, please create an issue and a pull request on the [totem-parachains Github repo](https://github.com/totem-tech/totem-parachains) to have your bootnode added to the [Kapex chain specification file](https://github.com/totem-tech/totem-parachains/blob/main/res/kapex/kapex-parachain-readable.json).
+If you are setting up a bootnode, please create an issue and a pull request on the totem-parachains Github repo to have your bootnode added to the [Kapex chain specification file](https://github.com/totem-tech/totem-parachains/blob/main/res/kapex/kapex-parachain-readable.json).
 
 ## Setup
 
-Since we are setting up a bootnode that uses a Fully Qualified Domain Name (FQDN) its `Multiaddr` as specified in the parachain `chain_spec.json` file will look something like this:
+There are two options for setting up a boot node, but only the one that uses a Fully Qualified Domain Name (FQDN) in its `Multiaddr` needs to have a reverse proxy such as `nginx` to route communication to the node.
+
+This is an example of a boot node identity using a FQDN as specified in the Kapex parachain `chain_spec.json`:
 
     /dns4/k-boot-1.kapex.network/tcp/31333/ws/p2p/12D3KooWAyVMvqR9zpu3ri6SAFQewfQegrQ2iMSx8UsmXeixxCZo
 
-**_This is optional_** and it need not be used if your boot node is going to be identified by its `IP` address.
+This `Multiaddr` format need not be used if your boot node is going to be identified by its `IP` address in which case it would look something like this:
 
-### Instal nginx
+    /ip4/host-ip-address/tcp/host-port/ws/p2p/ed25519-node-identity
+
+### Key generation for the node identity
+
+You will need to create a Ed25519 key type for your node so that it can be identified on the p2p network.
+
+The easiest way to generate a get is to use Parity Technology's Subkey tool as follows:
+
+> Keep this file private. **DO NOT STORE THIS SECRET IN ANY PUBLIC DIRECTORY/REPOSITORY**
+
+    # Generate Node Key type ED25519
+    docker run --platform linux/amd64 --rm parity/subkey:latest generate-node-key > ./node-key-for-boot-node
+
+The resulting file will contain the node's secret key and the output will in fact be the node's identity for use in the `Multiaddr` for the boot node. 
+
+
+
+
+### Install & configure nginx
 
 ```shell
 # Install nginx - this is only partially used
