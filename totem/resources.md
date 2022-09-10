@@ -28,7 +28,7 @@ _Totem Launch:_ <a href="https://bit.ly/3rmZ8qv">Substrate Conference April 2019
 
 _Youtube Channel:_ <a href="https://bit.ly/2Yzdd7O">Totem Live Accounting</a>
 
-_Youtube Playlis:_ <a href="http://bit.ly/3r9QEmq">Totem TechTalks</a>
+_Youtube Playlist:_ <a href="http://bit.ly/3r9QEmq">Totem TechTalks</a>
 
 ## Developer Resources
 

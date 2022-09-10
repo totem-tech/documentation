@@ -34,19 +34,20 @@ This `Multiaddr` format need not be used if your boot node is going to be identi
 
 ### Key generation for the node identity
 
-You will need to create a Ed25519 key type for your node so that it can be identified on the p2p network.
+You will need to create an `Ed25519` key type for your node so that it can be identified on the p2p network.
 
-The easiest way to generate a get is to use Parity Technology's Subkey tool as follows:
+The easiest way to generate a get is to use [Parity Technology's Subkey](https://hub.docker.com/r/parity/subkey/tags) as follows:
 
-> Keep this file private. **DO NOT STORE THIS SECRET IN ANY PUBLIC DIRECTORY/REPOSITORY**
+>**DO NOT STORE SECRET KEYS IN ANY PUBLIC DIRECTORY OR REPOSITORY**
+> 
+>**USE THIS TOOL OFFLINE**
+>
+> Keep the output file private! 
 
     # Generate Node Key type ED25519
     docker run --platform linux/amd64 --rm parity/subkey:latest generate-node-key > ./node-key-for-boot-node
 
 The resulting file will contain the node's secret key and the output will in fact be the node's identity for use in the `Multiaddr` for the boot node. 
-
-
-
 
 ### Install & configure nginx
 

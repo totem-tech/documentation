@@ -31,7 +31,16 @@
         * [Regulatory](crowdloan/regulation.md)
         * [KAPEX Payouts](crowdloan/payouts.md)
 ---
-* [**Run a node**](nodes-docs/howto-setup-nodes.md.md)
+* [**Technical Documentation**](nodes-docs/howto-setup-nodes.md)
+    * [Port mappings](nodes-docs/ports.md)
+    * [Full Node](nodes-docs/howto-docker-full-node.md)
+    * [Bootnode](nodes-docs/howto-docker-bootnode.md)
+        * [Nginx settings for Bootnodes](nodes-docs/howto-nginx-bootnodes.md)
+    * [UI Node](nodes-docs/howto-docker-uirpc-node.md)
+        * [Nginx settings for UI RPC Nodes](nodes-docs/howto-nginx-uirpcnodes.md)
+    * [Collator Node](nodes-docs/howto-docker-collatornode.md)
+        * [Generate a Signing Key](nodes-docs/howto-signing-key.md)
+    * [Archive Node](nodes-docs/howto-docker-archivenode.md)
 ---
 * [**Navigating the App**](app-docs/navigation.md)
     * [Getting Started](app-docs/on-boarding/getting-started.md)
@@ -65,6 +74,6 @@
 <!-- * [Installing these docs](misc/installing-docs.md) -->
 ---
 * [Careers](totem/jobs.md)
-* [Resources](totem/resources.md)
+* [Contact](totem/resources.md)
 * [Privacy Statements](totem/privacy.md)
 * [Terms of Use](totem/terms.md)

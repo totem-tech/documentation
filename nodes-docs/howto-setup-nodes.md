@@ -1,6 +1,6 @@
-# Setup Totem KAPEX Nodes on VPS
+# Setup Totem KAPEX Nodes
 
-The setup was performed on Linux Ubuntu 22.04 and can be used on VPS/droplets from various service providers.
+The setup was performed on Linux Ubuntu 22.04 and can be used on VPS/droplets from various service providers, or any machine that supports Docker.
 
 ### Support
 
@@ -46,7 +46,7 @@ _Fail2Ban should not be seen as the only requirement to secure your server, but 
 
 * other...
 
-_This document is not designed to address the entire scope of possible server attack vectors by any means nor do we provide any guarantees that implementing all of the steps here would be sufficient to prevent your server from being attacked. It is a best efforts approach, but for specific security requirements, we highly recommend that you contact the relevant indiustry professionals in order to conduct and audit of your setups._
+_This document is not designed to address the entire scope of possible server attack vectors by any means **nor do we provide any guarantees** that implementing all of the steps here would be sufficient to mitigate an attack on your server. It is a best efforts approach, but for specific security requirements, we highly recommend that you consult an opsec industry professional in order to conduct and audit of your setups._
 
 ## Preliminary configuration
 
@@ -106,6 +106,8 @@ Refer to the ports needed to be opened for the specific node type [here](nodes-d
 
 * [Vanilla Full node or Archive node](nodes-docs/ports?id=vanilla-full-node-or-archive-node)
 
+To validate the ports that have been opened use this command:
+
 ```
 # check the setup
 ufw status numbered
@@ -113,14 +115,13 @@ ufw status numbered
 
 ### Nginx
 
-> If you are not creating either of these node types you will not need to use nginx.
-
 Two different use cases exist for using nginx as a reverse proxy. The following links provide that information:
+
+> If you are not creating either of these node types you will not need to use nginx.
 
 [nginx for bootnodes](nodes-docs/howto-nginx-bootnodes.md)
 
 [nginx for ui/rpc](nodes-docs/howto-nginx-uirpcnodes.md)
-
 
 ### Docker installation
 
@@ -167,15 +168,20 @@ You can now login as the user you created earlier using `ssh`.
 
 > **Note** you may be prompted for a password, but this option should be switched off, once you are certain your config is completed. See this article for [Linux passwordless login](https://linuxize.com/post/how-to-setup-passwordless-ssh-login/)
 
-### Setting up and running the node
+### Node data storage
+
+Each node will require writeable directory to store block data, network data and keys. You can create this directory on your host or on a mounted volume, as long as it has the correct permissions it will be recognised by the container.
 
 ```shell
-# Create a directory to hold your chain data and ensure that it is owned by the correct user:
+# Create a directory to hold your chain data... 
 mkdir -p data
+# ...and ensure that it is owned by the correct user:
 chown 1000:1000 data
 ```
 
-If you are running a boot node (or for that matter if you want to specifically identify your node by identity), you will need to store the key to your node in a specific place that can be referenced by docker.
+### Bootnode key location
+
+If you are running a boot node (or for that matter if you want to specifically identify your node by identity), you will need to store the key to your node in a specific place that can be referenced by docker. Refer to the [node key generation](nodes-docs/howto-nginx-bootnodes?id=key-generation-for-the-node-identity) documentation to create the correct type of key.
 
 ```shell
 cd data
@@ -184,9 +190,11 @@ cd keys
 mkdir -p node-key
 ```
 
-Place the node key file inside the directory `/node-key`
+Place the node key file inside the directory `/node-key`. This location will be referenced in the docker commands.
 
-There are several ways to store the key for your collator, in this example we are storing a previously generated signing key for our collator in a specific directory to be referenced by the node.
+### Collator node signing key location
+
+There are several ways to store the key for your collator, in this example we are storing a [previously generated signing key](nodes-docs/howto-signing-key) for our collator in a specific directory to be referenced by the node.
 
 If you are running a collator ensure that the the key for your collator is named correctly and stored in this location.
 
@@ -196,23 +204,43 @@ mkdir -p keys
 cd keys
 mkdir -p auth-key
 ```
-Place the collator signing key file inside the directory `/auth-key`
+Place the collator signing key file inside the directory `/auth-key`. This location will be referenced in the docker commands.
+
+## Starting your Kapex node
 
 Create a file to start your chain
 
     nano start.sh
 
-Choose the commands to add into this file dependent on the type of node you are creating:
+Choose the commands to add into this file dependent on the type of node you are creating. In these links you will find templates for docker start commands. Copy these commands and edit to replace the placeholder texts where needed.
 
-[Commands for docker Bootnode](nodes-docs/howto-docker-bootnode.md)
+[Docker commands for a Bootnode](nodes-docs/howto-docker-bootnode.md)
 
-[Commands for docker UI RPC node](nodes-docs/howto-docker-uirpcnode.md)
+[Docker commands for a UI RPC node](nodes-docs/howto-docker-uirpc-node.md)
 
-[Commands for docker Collator node](nodes-docs/howto-docker-collatornode.md)
+[Docker commands for a Collator node](nodes-docs/howto-docker-collatornode.md)
 
-[Commands for docker Archival node](nodes-docs/howto-docker-archivenode.md)
+[Docker commands for a Archival node](nodes-docs/howto-docker-archivenode.md)
 
-[Commands for docker Simple Full node](nodes-docs/howto-docker-simplenode.md)
+[Docker commands for a Simple Full node](nodes-docs/howto-docker-full-node.md)
+
+Make the `start.sh` file executable
+
+    chmod u+x start.sh
+
+### Notes on the Docker commands
+
+#### Auto-remove running containers
+
+The use of `--rm` argument is optional, and could be replaced by `--restart unless-stopped`, however the downside of this command is that the container must be manually stopped and removed even if the script is stopped - in other words after each time that the container is stopped, wherease `--rm` will remove it automatically. 
+
+Configuring [Crontab](nodes-docs/howto-setup-nodes?id=crontab) is useful to maintain minimal down-time on your node, even when your VPs service provider conducts maintenance, and whden combined with `-rm` no cleanup is required.
+
+#### Docker startup error
+
+If you get the error when trying to stop a container `Error response from daemon: cannot stop container:` execute the following command from the user that is running the container:
+
+    sudo aa-remove-unknown
 
 ### Crontab
 
@@ -242,7 +270,7 @@ It is possible that your node comes under DOS attack. There are no easy ways to 
     sudo systemctl enable fail2ban && \
     sudo nano /etc/fail2ban/jail.local
 
-add the following lines
+add the following lines, but please note that using the default `ssh` port `22` is **not** recommended. To change this you must first change the default `ssh` port on your server.
 
 ```shell 
     [sshd]

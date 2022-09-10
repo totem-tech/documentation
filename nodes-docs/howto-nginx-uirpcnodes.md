@@ -1,10 +1,10 @@
 # Nginx setup for UI/RPC Nodes using DNS
 
-### Nginx is used with UI/RPC node types for managing API endpoints supporting an application in order to read the state of the network, and to relay transactions. 
+### Nginx is used with UI/RPC node types for managing API endpoints supporting an application, reading blockchain state storage state and relaying transactions. 
 
-* In general this type of node will be used by Centralised Exchanges and application developers.
-
-    * You can also run your own UI/RPC node to interact with the Kapex application front-end, instead of using the public endpoints available in the application. See the application documentation for information on this.
+> In general this type of node will be used by Centralised Exchanges and application developers.
+> 
+> Anyone can run your own UI/RPC node to interact with the Kapex application front-end, instead of using the public endpoints available in the application. See the end user documentation for information on this setting.
 
 * Nginx will handle serving the certificates for the domain. 
 
@@ -14,9 +14,9 @@
 
         * Certbot can also configure your `nginx` files for you and handle automatic renewals for the certificates which is very useful.
 
-Since we are setting up a UI RPC node that uses a FQDN it will expose your node to additional traffic over and above the peer-to-peer networking traffic, and so you should consider the available CPU, memory, disk swapping capacity of your node. This should be monitored regularly and adjusted according to the demands of your node.
-
-* This may include load balancing activities, but this document will not cover that configuration setup.
+> Since we are setting up a UI RPC node that uses a FQDN it will expose your node to additional traffic over and above the peer-to-peer networking traffic, and so you should consider the available CPU, memory, disk swapping capacity of your node. This should be monitored regularly and adjusted according to the demands of your node.
+> 
+> This may include load balancing activities, but this document will not cover that configuration setup.
 
 ## Installing Nginx for a UI/RPC Node
 

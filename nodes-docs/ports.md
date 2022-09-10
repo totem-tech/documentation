@@ -1,9 +1,13 @@
 # Open Ports for Totem KAPEX parachain nodes
 
-The following tables relates to the ports need to be open on the host for the specific configuration of the selected parachain node type. Each parachain node type opens at least one parachain port and one relaychain port. We have tried to cover all usual scenarios.
-This page does not cover the port mappings from the host to the docker container.
+### The following tables relate to the ports to be opened on the host for the specific configuration of your selected parachain node type. 
 
-> **Note:** Prometheus allows health monitoring for your nodes. It is optional in all cases.
+Each parachain node type opens at least one parachain port and one relaychain port. The configuration covers the usual scenarios and it should be noted that you may mix-and-match settings to configure your node for your own use cases.
+
+
+> This page does not cover the port mappings from the host to the docker container which is covered in the [docker configuration section](nodes-docs/howto-setup-nodes?id=docker-configuration).
+
+> Prometheus allows health monitoring for your nodes. Although we recommend its use and have listed the ports here, it is optional.
 
 ---
 
@@ -15,7 +19,9 @@ The configuration will map the ports similar to this, although you can choose yo
 
 > `host port 31333` -> `localhost port 30333` -> `container port 30333`.
 
-|Chain Config.	|p2p	|UI	|rpc| Prometheus*|
+Ports to open on the host.
+
+|Relating to chain...	|p2p port	|UI port	|rpc port | Prometheus* port |
 |----|----|----|----|----|
 |Parachain	|31333	|n/a	|n/a |9615	|
 |Polkadot	|40333	|n/a	|n/a |9616	|
@@ -24,7 +30,9 @@ The configuration will map the ports similar to this, although you can choose yo
 
 ### Bootnode without domain name
 
-|Chain Config.	|p2p	|UI	|rpc| Prometheus*|
+Ports to open on the host.
+
+|Relating to chain...	|p2p port	|UI port	|rpc port | Prometheus* port |
 |----|----|----|----|----|
 |Parachain	|30333	|n/a	|n/a |9615	|
 |Polkadot	|40333	|n/a	|n/a |9616	|
@@ -45,7 +53,9 @@ Again the configuration will map the ports similar to this, although you can cho
 
 > `host port 443` -> `localhost port 9944` -> `container port 9944`.
 
-|Chain Config.	|p2p	|UI	|rpc| Prometheus*|
+Ports to open on the host.
+
+|Relating to chain...	|p2p port	|UI port	|rpc port | Prometheus* port |
 |----|----|----|----|----|
 |Parachain	|31333	|443	|n/a |9615	|
 |Polkadot	|40333	|n/a	|n/a |9616	|
@@ -54,7 +64,9 @@ Again the configuration will map the ports similar to this, although you can cho
 
 ### Collator node
 
-|Chain Config.	|p2p	|UI	|rpc| Prometheus*|
+Ports to open on the host.
+
+|Relating to chain...	|p2p port	|UI port	|rpc port | Prometheus* port |
 |----|----|----|----|----|
 |Parachain	|30333	|n/a	|n/a |9615	|
 |Polkadot	|40333	|n/a	|n/a |9616	|
@@ -65,16 +77,20 @@ Again the configuration will map the ports similar to this, although you can cho
 
 > RPC access should only be used/opened temporarily to access certain restricted services on your collator
 
-|Chain Config.	|p2p	|UI	|rpc| Prometheus*|
+Ports to open on the host.
+
+|Relating to chain...	|p2p port	|UI port	|rpc port | Prometheus* port |
 |----|----|----|----|----|
 |Parachain	|30333	|9944	|9933 |9615	|
-|Polkadot	|40333	|9945	|9934 |9616	|
+|Polkadot	|40333	|n/a	|n/a  |9616	|
 
 ---
 
 ### Vanilla Full node or Archive node
 
-|Chain Config.	|p2p	|UI	|rpc| Prometheus*|
+Ports to open on the host.
+
+|Relating to chain...	|p2p port	|UI port	|rpc port | Prometheus* port |
 |----|----|----|----|----|
 |Parachain	|30333	|n/a	|n/a |9615	|
 |Polkadot	|40333	|n/a	|n/a |9616	|
