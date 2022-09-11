@@ -228,7 +228,7 @@ Choose the commands to add into this file dependent on the type of node you are 
 
 Make the `start.sh` file executable
 
-    chmod u+x start.sh
+    sudo chmod u+x start.sh
 
 ### Notes on the Docker commands
 
