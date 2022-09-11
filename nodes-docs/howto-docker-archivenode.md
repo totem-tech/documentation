@@ -27,7 +27,7 @@ totemlive/totem-parachain-collator:production \
 --state-cache-size=1 \
 --name "name-to-identify-on-telemetry" \
 --port 30333 \
---pruning=archive \ # temporary
+--pruning=archive \
 --prometheus-external \ # optional
 --prometheus-port 9615 \ # optional
 -- \
