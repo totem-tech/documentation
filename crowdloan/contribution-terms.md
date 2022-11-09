@@ -44,7 +44,7 @@ The contributions are received and administered by the Live Accounting Associati
 
 3. Pledge is not mandatory. Even if you didn't Pledge (or don't fulfill your Pledge) you will still receive your Crowdloan rewards.
 
-4. If you choose not to fulfill your Pledge, you'll only receive Corwdloan portion of the rewards plus any referral bonuses and the additional share of the Guaranteed Allocations on 22% of the supply.
+4. If you choose not to fulfill your Pledge, you'll only receive Crowdloan portion of the rewards plus any referral bonuses and the additional share of the Guaranteed Allocations on 22% of the supply.
 
 5. We recommend only using our DApp (https://totem.live/crowdloan) from a computer browser such as Chrome, Brave, Firefox with the Polkadotjs Extension installed.
 
