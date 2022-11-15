@@ -6,7 +6,7 @@
 
 **We’re announcing a Crowdfunding seed round to fund expansion of the current team and to accelerate development of the Live Accounting App.The community will have an opportunity to become stakeholders in the Totem Live Network.** 
 
-Community members can participate in the funding round by buying batches of the network currency _**Totem Transactions (ticker symbol: TOTEM)**_ on the current TestNet.  
+Community members can participate in the funding round by buying batches of the network currency _**Totem Transactions (ticker symbol: TOTEM)**_ on the current Testnet.  
 
 ---
 

@@ -86,7 +86,7 @@ Therefore on this point neither TOTEM nor KPX qualifies as a Security. Considera
 
 ### ANALYSIS 2: Is there a so-called "Common Enterprise"?
 
-As the Totem Live Accounting Network has already been developed and is already live both as the Meccano TestNet and as a Production Network in the Kapex Parachain there is no requirement for the Contributors to the Crowdloan to be part of a common enterprise in order for the project to be developed, launched or to succeed.
+As the Totem Live Accounting Network has already been developed and is already live both as the Meccano Testnet and as a Production Network in the Kapex Parachain there is no requirement for the Contributors to the Crowdloan to be part of a common enterprise in order for the project to be developed, launched or to succeed.
 
 #### Howey Test 2 Conclusion
 
@@ -204,7 +204,7 @@ In this case the Totem Transactions (ticker symbol: TOTEM) exhibit missing prope
 
 ### ANALYSIS 7. Are Totem Transactions Asset Tokens?
 
-Totem Transactions (ticker symbol: TOTEM) that are to be distributed in the Crowdfunding, are allocated on an existing so-called TestNet system. They are intended to be migrated to the MainNet system when it goes live. 
+Totem Transactions (ticker symbol: TOTEM) that are to be distributed in the Crowdfunding, are allocated on an existing so-called Testnet system. They are intended to be migrated to the MainNet system when it goes live. 
 
 The allocation is conditional upon the contributor to comply with the terms of migration, but in general remaining balances on accounts will be migrated plus any additional bonuses earned in the interim.
 

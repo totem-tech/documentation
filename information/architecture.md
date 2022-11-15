@@ -30,7 +30,7 @@ In the longer term we will be using Fully Homomorphic Encryption (FHE) for obvio
 
 <h3> Totem Meccano</h3>
 
-The current version of the Totem network is the  *Meccano TestNet*. We do not plan a MainNet until we have a fully functional end-to-end product. This will likely be in later this year (2020 as of writing).
+The current version of the Totem network is the  *Meccano Testnet*. We do not plan a MainNet until we have a fully functional end-to-end product. This will likely be in later this year (2020 as of writing).
 
 The purpose of this network is to begin wider engagement with the blockchain community, monitor performance and interactions in all parts of the architecture, adapt the economic model, and obviously upgrade, fix and battle-test the code. Please send us an mailto:info@totemaccounting.com?subject=Inquiry:%20I%20want%20to%20participate%20in%20Totem%20development[email] if you want to be part of the team.
 

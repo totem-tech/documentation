@@ -7,7 +7,7 @@
 ---
 
 ### Totem Meccano CanaryNet
-#### [TestNet] 
+#### [Testnet] 
 
 This was the first Totem Network which launched in April 2019. It is still running and has been used to develop the Totem Blockchain and Front-end code. It is however, very old now, as it was based on the very early version on Polkadot Substrate V1 - the framework used to build Polkadot itself.
 
@@ -20,7 +20,7 @@ The tokens only have a notional value and are not intended to be listed on excha
 ---
 
 ### Totem Lego (Wapex) Network
-#### [TestNet Parachain] 
+#### [Testnet Parachain] 
 
 This network replaces Totem Meccano Canary Network and has been upgraded to the latest version of Polkadot Substrate V4.
 

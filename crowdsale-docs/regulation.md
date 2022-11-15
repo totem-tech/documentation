@@ -201,7 +201,7 @@ In this case the Totem Transactions (ticker symbol: TOTEM on Mainnet) exhibit mi
 
 ### ANALYSIS 7. Are Totem Transactions Asset Tokens?
 
-Totem Transactions (ticker symbol: TOTEM on Mainnet, KAPEX on Polkadot Parachain) that are to be distributed in the Crowdfunding/Pledge and Parachain Slot Auction, are allocated on an existing so-called TestNet system. They are intended to be migrated to the MainNet and Parachain when it goes live. 
+Totem Transactions (ticker symbol: TOTEM on Mainnet, KAPEX on Polkadot Parachain) that are to be distributed in the Crowdfunding/Pledge and Parachain Slot Auction, are allocated on an existing so-called Testnet system. They are intended to be migrated to the MainNet and Parachain when it goes live. 
 
 The allocation is conditional upon the contributor to comply with the terms of migration, but in general remaining balances on accounts will be migrated plus any additional bonuses earned in the interim, and these will need to be claimed by the user.
 
