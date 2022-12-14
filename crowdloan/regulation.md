@@ -1,12 +1,32 @@
 # Regulation, The Howey Test and Swiss FINMA
 
-In this section we detail the two most important considerations; the so-called **"Howey Test"** and **Know Your Customer (KYC) and Anti-Money Laundering (AML) Compliance** in relation to the Crowdloan and Pledge. 
+---
 
-In addition as the Live Accounting Association (Swiss Verein in formation), based in Switzerland is administering the Crowdloan and Pledge and must follow the Swiss Financial Market's Authority Guidance which is outlined below.
+## Regulations
+
+### The Totem Team are building accounting software. 
+
+As such "accounting software" does not require compliance with any known regulatory directive anywhere in the world and therefore the software is free from regulatory oversight.
+
+In addition, the software employes a global Unit of Account as the underlying "functional currency" in the sense of [FASB 52](https://www.fasb.org/page/PageContent?pageId=/reference-library/superseded-standards/summary-of-statement-no-52.html&bcpath=tff), [IAS 21](https://www.iasplus.com/en/standards/ias/ias21). 
+
+It is a fact that a global accounting software application cannot operate in any meaningful mathematically correct sense without a functional currency mechanism - it is an intrinsic mechanism of the software itself.
+
+> The Totem Live Accounting Software and Protocols in its fundamental operation as an accounting software system is not subject to any known regulatory scrutiny in any jurisdiction at the time of writing*.
+
+_*updated December 12 2022._
 
 ---
 
-**_Do not register or contribute to the Crowdloan and Pledge if you do not understand anything that is documented here or in the other Crowdloan and Pledge pages._**
+### As we are aware that Financial Regulators tend to scrutinise blockchain projects to determine if a token of a project is a security in this section we detail an analysis of the project from this perspective.
+
+We explore the so-called **"Howey Test"** and **Know Your Customer (KYC) and Anti-Money Laundering (AML) Compliance** particularly in relation to the Crowdfunding/Pledge and Parachain Slot Auction as well as the historical context of use in the Test Network and as a functional currency for accounting purposes. 
+
+In addition as the Live Accounting Association (Swiss Verein in formation), based in Switzerland is administering the Crowdfunding/Pledge and Parachain Slot Auction we examine the requirement to follow the Swiss Financial Market's Authority Guidance as outlined below.
+
+---
+
+**_Do not register or contribute to the Crowdfunding/Pledge and Parachain Slot Auction if you do not understand anything that is documented here or in the other Crowdfunding/Pledge and Parachain Slot Auction pages._**
 
 ---
 
@@ -20,7 +40,9 @@ The Howey Test is set out in four parts. All four parts need to be passed in ord
 
 If the Token is deemed to be a security (i.e. it passes all four tests), then the sale must register with the Securities and Exchange Commission in the USA, regardless of the country in which the Token sale occurs.
 
-The four parts of the test are broadly:
+> It should be noted that whilst many projects have "tokens" issued by smart contracts, this is not the case for any of the Totem Live Accounting Networks because they each have their own blockchains with native "coins" used to pay transaction fees. Furthermore, the "coin" and the extra-regulatory "functional currency" of the accounting system, are in fact one-and-the-same unit of account.
+
+The four parts of the Howey Test are broadly:
 
 * Is there an investment of money?
 * Is there a so-called "Common Enterprise"?
@@ -32,45 +54,70 @@ In the following sections we detail how these tests apply to this Crowdloan and 
 
 ### ANALYSIS 1: Is there an investment of money?
 
-The Totem Live Accounting Meccano Canary Test Network ("the Testnet") is a public blockchain network that has been live since February 14th 2019, and has been the backbone of all the development work that has taken place before and after it was launched.
+#### Glossary
 
-The Totem Kapex Parachain Network ("Kapex") was connected to the Polkadot Network on 29th April 2022, but did not function until a decentralised auction had been won on the Polkadot Network. 
+* The **Totem Live Accounting Meccano Canary Test Network ("the Testnet")** is a public blockchain network that has been live since February 14th 2019, and has been the backbone of all the development work that has taken place before and after it was launched.
 
-The Kapex project is a public blockchain, and due to it's network relationship with Polkadot it is referred to as a "Parachain".
+* The **Totem Kapex Parachain Network ("Kapex")** was connected to the Polkadot Network on 29th April 2022, but did not function until a decentralised auction had been won on the Polkadot Network. 
 
-A funding round took place in order to win the auction on Polkadot. It was named the "Crowdloan & Pledge".
+    * The Kapex project is a public blockchain, and due to it's network relationship with Polkadot it is referred to as a "Parachain".
 
-The purpose of the Crowdloan and Pledge was to allow the holders of the Polkadot "DOT" cryptocurrency to voluntarily put up a fully-refundable "lease guarantee" on behalf of the Totem Team in order to win an auction and secure a slot for the Kapex Network on Polkadot. 
+* A pseudo-funding round took place in order to win the auction on Polkadot. It was named the **"Crowdloan & Pledge"**.
 
-The process of fund-raising in a Crowdloan is "arms-length" and cannot be controlled by the Totem team directly neither do they have access to the funds that are used in the guarantee. 
+    * The purpose of the Crowdloan was to allow the holders of the Polkadot "DOT" cryptocurrency to voluntarily put up a fully-refundable "lease guarantee" on behalf of the Totem Team in order to win an auction and secure a slot for the Kapex Network on Polkadot. 
 
-The Totem Mainnet ("Mainnet") has yet to launch.
+    * The process of fundraising in a Crowdloan is "arms-length" and cannot be controlled by the Totem Team directly. They neither have access to the funds that are provided by the lease guarantors who take part in the Polkadot Crowdloan nor are they able prevent a return of funds to those guarantors once the lease expires.
 
-All users who have registered on the [Totem Live App](https://totem.live) ("the Dapp") connect directly with the Testnet and have been allocated cryptocurrency (or "coins") free-of-charge using the automated Testnet "Faucet" since April 2019.
+    * The Pledge did allow for contributors to the Crowdloan an additional ability to offer non-returnable DOT funds to support the team.
 
-The Testnet does not depend on other blockchains such as Ethereum or Bitcoin - it is a completely independent "layer 1" blockchain network. 
+* In both cases the native coin of the parachain was given free-of-charge to participants who made contributions to the Crowdloan, whether or not they decided to take part in the Pledge.
 
-The Testnet coins are consumed in order to execute actions on the Testnet. For example to create Activities, Timekeeping and Tasks and to administer them requires you to spend the Testnet currency to process these requests on the blockchain.
+* The **Totem Mainnet ("Mainnet")** has yet to launch.
 
-Furthermore users of the Testnet since launch have also been able to request, with certain limits, further allocations of coins from the Testnet Faucet without charge. This request is carried out from within the application itself. These additional allocations have been fixed at the same level as the initial allocation and have been distributed free-of-charge.
+#### Prior Distribution 
 
-The allocations made to users will be conditionally carried over to the Totem Kapex Parachain Network as a reward for early adopters at a rate to be calculated. Users will be required to claim their share of the Kapex Network coins allocated for this purpose as they will not be paid directly. 
+* All users who have registered on the [Totem Live App](https://totem.live) ("the Dapp") connect directly with the Testnet and have been allocated cryptocurrency (or "coins") free-of-charge using the automated Testnet "Faucet" since April 2019.
 
-The network currency used on the Testnet is a cryptocurrency that has never been intended to have a value determined by after-market exchanges. We are not aware of any exchanges that have listed this network coin nor have we made any application to have this coin listed on third-party exchanges.
+* The Testnet does not depend on other blockchains such as Ethereum or Bitcoin - it is a completely independent "layer 1" blockchain network. 
 
-It should be noted that as the Totem networks are permissionless blockchain networks, no party can prevent after-market exchanges from listing any of the currencies associated with the networks described here. 
+* The Testnet coins are consumed in order to execute actions on the Testnet. For example to create Activities, Timekeeping and Tasks and to administer them requires you to spend the Testnet currency to process these requests on the blockchain.
 
-Testnet Coins that are migrated to, and claimed on, the Kapex network will also have the ability to be migrated to the Mainnet in a future iteration of the project. 
+* Users of the Testnet since launch have also been able to request, with certain limits, further allocations of coins from the Testnet Faucet without charge. 
 
-No guarantees have been given regarding the launch of Mainnet. The intention however is that Kapex coins do not automatically migrate, but are intended to be burnt (a term meaning "destroyed" or otherwise become permanently unspendable) in order for the owners to receive an equivalent quantity of coins on the Mainnet.
+    * This request is carried out from within the application itself. 
+    * These additional allocations have been fixed at the same level as the initial allocation and have been distributed free-of-charge.
 
-The Testnet currency has been designed from the outset to explore and research a value calculated deterministically by an automated algorithm as set out in our 2016 Paper and more recently updated. The algorithm determines the virtual value of the Testnet currency is based on information available to the runtime of the test network.
+* The allocations made to users will be conditionally carried over to the Totem Kapex Parachain Network as a reward for early adopters at a rate to be decided. 
+    
+    * Users will be required to claim their share of the Kapex Network coins allocated for this purpose as they will not be paid directly. 
 
-The concept provides that the virtual value of the coin cannot be manipulated by external parties and allows accounting entries to be made with a Unit of Account of deterministic value rather than a currency of floating value. This primarily enables accounting operations to be recorded with the Unit of Account and not with a coin at market price.
+* The network currency used on the Testnet is a cryptocurrency that has never been intended to have a value determined by after-market exchanges. 
 
-This calculation applies to the Testnet, and will also apply to the Mainnet, however the coins on the Kapex network will be subject to market pricing. 
+    * We are not aware of any exchanges that have listed this network coin nor have we made any application to have this coin listed on third-party exchanges.
 
-The quantity of the the Testnet currency allocated by the Testnet Faucet is in accordance with the valuation algorithm described in [the documentation](https://docs.totemaccounting.com/#/information/overview-token-3?id=steps-to-calculate-totem-exchange-rate). At the time of the Testnet start, for accounting purposes as a unit of account (i.e. not a valuation) quantity of 16181 coins was apprimately equivalent to 0.18 USD, and was used this way in order to determine what the accounting entry amount should be stated in the network currency not the fiat currency. 
+        * It should be noted that as the Totem networks are permissionless blockchain networks, no party can prevent after-market exchanges from listing any of the currencies associated with the networks described here. 
+
+* It is intended that Testnet Coins that are migrated to the Kapex network will also have the ability to be migrated to the Mainnet in a future iteration of the project. 
+
+* No guarantees have been given regarding the launch of Mainnet. 
+
+    * The intention however is that Kapex coins do not automatically migrate, but are intended to be burnt (a term meaning "destroyed" or otherwise become permanently unspendable) in order for the owners to receive an equivalent quantity of new coins on the Mainnet.
+
+        * This is not a two-way process - once the coins have been migrated to the MainNet, they cannot be returned to the Kapex Network.
+
+* The Testnet currency has been designed from the outset to explore and research a value calculated deterministically by an automated algorithm as set out in our 2016 Paper and more recently updated. The algorithm determines the virtual value of the Testnet currency is based on information available to the runtime of the test network.
+
+    * The concept provides that the virtual value of the coin cannot be manipulated by external parties and allows accounting entries to be made with a "Unit of Account of deterministic value" rather than a currency of floating value. 
+    
+    * This primarily enables accounting operations to be recorded with the Unit of Account and not with a coin at market price which would have undesirable volatile characteristics.
+
+    * This Unit of Account value determination applies to the Testnet, and will also apply to the Mainnet. 
+
+    * The coins on the Kapex network will be subject to market pricing. 
+
+* The quantity of the the Testnet currency allocated by the Testnet Faucet is in accordance with the valuation algorithm described in [the documentation](https://docs.totemaccounting.com/#/information/overview-token-3?id=steps-to-calculate-totem-exchange-rate). 
+
+* At the time of the Testnet start, for accounting purposes as a unit of account (i.e. not a valuation) quantity of 16181 coins was apprimately equivalent to 0.18 USD, and was used this way in order to determine what the accounting entry amount should be stated in the network currency not the fiat currency. 
 
 This amount of coins allocated was thought to be sufficient for micro-business to conduct accounting operations and business activities in the Testnet Dapp essentially for free for a meaningful period of time without requiring an investment of fiat or cryptocurrency funds.
 

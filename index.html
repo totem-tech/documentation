@@ -69,6 +69,10 @@
     <div data-app id="home"></div>
     <script>
         window.$docsify = {
+            requestHeaders: {
+                // 'cache-control': 'max-age=600',
+                'cache-control': 'max-age=0', // This for testing
+            },
             themeable: {
                 readyTransition: true,
                 responsiveTables: true
@@ -101,8 +105,8 @@
             sidebarDisplayLevel: 1, // set sidebar display level
             // complete configuration parameters
             search: {
-                maxAge: 86400000, // Expiration time, the default one day
-                // maxAge: 1, // To clear for testing
+                // maxAge: 86400000, // Expiration time, the default one day
+                maxAge: 1, // To clear for testing
                 paths: 'auto',
                 // paths: [], // Can be specific files
                 placeholder: 'Type to search',
