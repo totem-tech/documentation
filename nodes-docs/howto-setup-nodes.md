@@ -130,8 +130,10 @@ In the this section we install docker.
 Although it can be installed from SNAP in Ubuntu 22.04, we recommend doing this manually to cover all the steps.
 
 ```shell
+# run this if docker is already installed on your server, to update with latest version
+sudo apt-get remove docker docker-engine docker.io containerd runc
+
 # this script can be run at once
-sudo apt-get remove docker docker-engine docker.io containerd runc && \
 sudo apt-get update && \
 sudo apt-get install \
     apt-transport-https \
@@ -226,7 +228,7 @@ Choose the commands to add into this file dependent on the type of node you are 
 
 Make the `start.sh` file executable
 
-    chmod u+x start.sh
+    sudo chmod u+x start.sh
 
 ### Notes on the Docker commands
 

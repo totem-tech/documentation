@@ -1,6 +1,26 @@
 # Regulation, The Howey Test and Swiss FINMA
 
-In this section we detail the two most important considerations; the so-called **"Howey Test"** and **Know Your Customer (KYC) and Anti-Money Laundering (AML) Compliance** in relation to the Crowdfunding/Pledge and Parachain Slot Auction. 
+---
+
+## Regulations
+
+> The Totem Team are building fundamentally a;snbq;hsdfbq;dfshjbqdsfccounting software. 
+
+As such "accounting software" does not require compliance with any known regulatory directive anywhere in the world and therefore the software is free from regulatory oversight.
+
+In addition, the software employes a global Unit of Account as the underlying "functional currency" in the sense of [FASB 52](https://www.fasb.org/page/PageContent?pageId=/reference-library/superseded-standards/summary-of-statement-no-52.html&bcpath=tff), [IAS 21](https://www.iasplus.com/en/standards/ias/ias21). 
+
+It is a fact that a global accounting software application cannot operate in any meaningful mathematical sense without a functional currency mechanism - it is an intrinsic mechanism of the software itself.
+
+> **The Totem Live Accounting Software and Protocols in its fundamental operation as an accounting software system are not subject to any known regulatory scrutiny in any jurisdiction at the time of writing*.**
+
+_*this may change and we reserve the right to amend this position accordingly._
+
+---
+
+As we are aware that Financial Regulators tend to scrutinise blockchain projects to determine if the native token of a project is a security in this section we detail an analysis of the relevant subject matter.
+
+We explore the so-called **"Howey Test"** and **Know Your Customer (KYC) and Anti-Money Laundering (AML) Compliance** particularly in relation to the Crowdfunding/Pledge and Parachain Slot Auction as well as the historical context of use in the Test Network and as a functional currency for accounting purposes. 
 
 In addition as the Live Accounting Association (Swiss Verein in formation), based in Switzerland is administering the Crowdfunding/Pledge and Parachain Slot Auction and must follow the Swiss Financial Market's Authority Guidance which is outlined below.
 
@@ -14,7 +34,7 @@ In addition as the Live Accounting Association (Swiss Verein in formation), base
 
 The Howey Test which came out of the 1946 Securities and Exchange Commission Court Case  [Howey vs SEC](https://en.wikipedia.org/wiki/SEC_v._W._J._Howey_Co.) has become widely accepted as  being applicable to all cryptocurrency fundraising efforts since 2017. 
 
-The purpose of the Howey Test is to determine if the Crowdfunding/Pledge and Parachain Slot Auction constitutes an "investment contract".
+The purpose of the Howey Test in the context of cryptocurrency is to determine if the Crowdfunding/Pledge and Parachain Slot Auction constitutes an "investment contract" and is therefore considered "a security" to be registered with the SEC.
 
 The Howey Test is set out in four parts. All four parts need to be passed in order for the distribution of Tokens to be considered an "investment contract" and therefore as a security. If one or more parts fail, then the Token _may not_ be considered a security in most jurisdictions.
 
@@ -34,19 +54,23 @@ In the following sections we detail how these tests apply to this Crowdfunding/P
 
 The Totem Live Accounting Test Network (aka Totem Meccano Canary Network) is a public blockchain network that has been live since February 14th 2019, and has been the backbone of all the development work that has taken place before and after it was launched.
 
-All users who have registered on the [Totem Live App](https://totem.live) connect directly with the network and have been allocated Totem Transactions (ticker symbol: TOTEM, previously XTX) - the native cryptocurrency of the network - for free using our automated Faucet since the outset.
+All users who have registered on the [Totem Live App](https://totem.live) connect directly with the network and have been allocated Totem Transactions (ticker symbol: TOTEM, previously XTX) - the native cryptocurrency of the network - free-of-charge using our automated distribution Faucet since the outset.
 
 The Totem Live Accounting Blockchain Network does not depend on other blockchains such as Ethereum or Bitcoin - it is completely decentralised and independent.
 
-The native cryptocurrency is consumed in order to execute actions on the Totem Live Accounting Network. For example to create Activities, Timekeeping and Tasks and to administer them requires you to spend the native cryptocurrency to process these requests on the blockchain network.
+It was intended that the native cryptocurrency is valued as a Unit of Account for accounting purposes, a so-called "functional currrency" based on a basket of currencies. It is used to determine the integer value to be recorded into the accounting ledgers, and is materially identical to all other functional currency "units of account" used by all other accounting mechanisms (software and traditional hand written accounts) that have ever existed.
 
-Furthermore all existing users since launch have also been able to request, with certain limits, further allocations of Transactions (ticker symbol: TOTEM, previously XTX) from the Faucet without charge. This request is carried out from within the application itself. These additional allocations have been fixed at the same level as the initial allocation and have been distributed free-of-charge.
+Where the functional currency of Totem TestNet and the future MainNet differs is that the Unit of Account can be used to evaluate an amount to be charged as a transaction fee and collected as such. It can also be "consumed" in order to execute actions on the Totem Live Accounting Networks. 
 
-The allocations made to users will be unconditionally carried over to the Totem Live Accounting MainNet and the Parachain as a reward for early adopters.
+> For example to create Activities, Timekeeping and Tasks and to administer them requires a user to spend the an amount of native cryptocurrency equivalent to the calculated amount of functional currrency in order to process these requests on the blockchain network.
 
-The Totem Transactions Token (ticker symbol: TOTEM, previously XTX, and in future KAPEX on the Parachain) is a cryptocurrency that has never been intended to have a value determined by after-market exchanges. 
+Furthermore all existing users (since launch) have also been able to request, with certain limits, further allocations of the native coin (ticker symbol: TOTEM, previously XTX) from the Faucet without charge. This request has been carried out from within the application itself. These additional allocations have been made at a fixed quantity and have been distributed free-of-charge.
 
-TOTEM on Mainnet and Testnet has been designed from the outset to have a value that is calculated deterministically by an automated algorithm as set out in our 2016 Paper and more recently updated. The algorithm determines the value of the cyrptocurrencies based on information available tothe Totem Network. 
+The allocations made to users was conditionally carried over to the Totem Live Accounting Parachain as a reward for early adopters.
+
+The Totem TestNet Coin (ticker symbol: TOTEM, previously XTX) is a cryptocurrency that has never been intended to have a value determined by after-market exchanges.
+
+Totem coins on Mainnet and Testnet are designed to have a value that is calculated deterministically by an automated algorithm as set out in our 2016 Paper and more recently updated. The algorithm determines the value of the cyrptocurrencies based on information available to the Totem Network. 
 
 The concept provides that the value of the Token cannot be manipulated by external parties and allows accounting entries to be made with a Unit of Account of deterministic value rather than a currency of floating value. This primarily enables accounting operations to be recorded with the Unit of Account and not the market price.
 
@@ -54,15 +78,26 @@ It should be noted that as the Totem Live Accounting Network is a permissionless
 
 However users of third-party exchanges should be aware that the spot price (or market price) is completely disconnected from the deterministicly calculated price in the Totem Live Accounting Network, and therefore users must consider and are entirely responsible for impairment risks when selling or buying on after-market exchanges.
 
-The value of the cryptocurrency allocated either by the Faucet or the Crowdfunding/Pledge and Parachain Slot Auction is in accordance with the valuation algorithm or some other algorithm determined at the time of distribution. At the time of the Meccano Test network startup, this value was equivalent to around 0.18 USD at a time of allocation or 16181 TOTEM. 
+The value of the cryptocurrency allocated either by the Faucet is in accordance with the valuation algorithm. At the time of the Meccano Test network startup, this value was equivalent to around 0.18 USD at a time of allocation or 16181 TOTEM. 
 
-This amount is sufficient for micro-business to conduct accounting operations and business activities in the Totem Live Accounting Application essentially for free for a meaningful period of time without requiring an investment of fiat or cryptocurrency funds.
+This amount is sufficient for micro-business to conduct accounting operations and business activities in the Totem Live Accounting Application essentially free-of-charge for a meaningful period of time without requiring an investment of fiat or cryptocurrency funds.
 
-In the case of a requested to replenish TOTEM, the Faucet allocated the funds unconditionally and for free although this will partially change in future as outlined here.
+In the case of a request to replenish TOTEM, the Faucet allocated the funds unconditionally and free-of-charge although this has since been deprecated in April 2022.
 
-Whilst the Tokens have been distributed by the Faucet prior to the Crowdfunding/Pledge and Parachain Slot Auction, the entire remaining balances held by the Founders will be transferred to the Live Accounting Association (Swiss Verein in formation), an independent non-profit organisation based in Switzerland. This will be carried out with one-off network reset which will not penalise other existing holders.
+However on the Totem Kapex Network, the native functional currency is intended to be subject to market price valuations rather than having a deterministic unit of account valuation.
 
-The Crowdfunding/Pledge and Parachain Slot Auction will be administered by the Live Accounting Association (Swiss Verein in formation), and the basis of the allocation will be that TOTEM on Mainnet and KAPEX on the Polkadot Parachain will be distributed as a measure of the contribution as a donation to the Association and not to the Founders. The donation does not constitute or confer membership of the Association, which can be obtained seperately.
+These coins will be partially distributed free-of-charge as follows:
+
+* Allocations will be distributed with a to-be-determined ratio from Totem TestNet users to their same address on the Kapex Network.
+
+* Allocations will be made free-of-charge according to the number of DOT committed to secure a lease in a "Polkadot Crowdloan" at a ratio of not less than 0.1 Kapex per DOT contributed. 
+
+    * The Crowdloan commitment is fully refundable after the end of the lease period.
+
+
+* Proportional to the commitment by users to donate DOT in a pledge to the Team at a ratio of not less than 0.32 Kapex per DOT donated. 
+
+The Crowdfunding/Pledge and Parachain Slot Auction will be administered by the Live Accounting Association (Swiss Verein in formation).
 
 The Live Accounting Association (Swiss Verein in formation) will set aside money received as a donation to enable the purpose of the Association.
 
@@ -71,9 +106,13 @@ The Live Accounting Association (Swiss Verein in formation) will set aside money
 * Founders will not receive an allocation of TOTEM on Mainnet, KAPEX on Polkadot Parachain from the Crowdfunding/Pledge and Parachain Slot Auction.
 * In future all balances will be transferred to Totem Live Accounting MainNet at a minimum of 1:1 ratio of allocation.
 
+ 
+
+
+
 #### Howey Test 1 Conclusion 
 
-The first test is unlikely to be satified as Totem Transactions (ticker symbol: TOTEM on Mainnet, KAPEX on Polkadot Parachain) were distributed on an already live network via an already live application, for free and for a significant period of time prior the Crowdfunding/Pledge and Parachain Slot Auction.
+The first test is unlikely to be satified as Totem Transactions (ticker symbol: TOTEM on Mainnet, KAPEX on Polkadot Parachain) were distributed on an already live network via an already live application, free-of-charge and for a significant period of time prior the Crowdfunding/Pledge and Parachain Slot Auction.
 
 Therefore on this point the Token does not qualify as a Security. Consideration must still be given to the other tests.
 
@@ -149,7 +188,7 @@ These facts alone mean that the Howey Test is not satified that the enterprise r
 
 Long before the Crowdfunding/Pledge and Parachain Slot Auction, the Totem Live Accounting Network and Application became public and operational with the core functionality having already been built, launched and available to the public even in the Test Network form.
 
-Furthermore TOTEM on Meccano Testnet, that will also be migrated to the Parachain and eventually the Mainnet has been issued and distributed for a significant period of time prior to the Crowdfunding/Pledge and Parachain Slot Auction for free and will continue to allocated in this way, albeit in some limited capacity, after the Crowdfunding/Pledge and Parachain Slot Auction completes.
+Furthermore TOTEM on Meccano Testnet, that will also be migrated to the Parachain and eventually the Mainnet has been issued and distributed for a significant period of time prior to the Crowdfunding/Pledge and Parachain Slot Auction free-of-charge and will continue to allocated in this way, albeit in some limited capacity, after the Crowdfunding/Pledge and Parachain Slot Auction completes.
 
 The users of the Network are not required to carry out work in order to give value to the Token as the value is determined by an independent algorithm rather than a third-party market price. 
 
@@ -201,7 +240,7 @@ In this case the Totem Transactions (ticker symbol: TOTEM on Mainnet) exhibit mi
 
 ### ANALYSIS 7. Are Totem Transactions Asset Tokens?
 
-Totem Transactions (ticker symbol: TOTEM on Mainnet, KAPEX on Polkadot Parachain) that are to be distributed in the Crowdfunding/Pledge and Parachain Slot Auction, are allocated on an existing so-called TestNet system. They are intended to be migrated to the MainNet and Parachain when it goes live. 
+Totem Transactions (ticker symbol: TOTEM on Mainnet, KAPEX on Polkadot Parachain) that are to be distributed in the Crowdfunding/Pledge and Parachain Slot Auction, are allocated on an existing so-called Testnet system. They are intended to be migrated to the MainNet and Parachain when it goes live. 
 
 The allocation is conditional upon the contributor to comply with the terms of migration, but in general remaining balances on accounts will be migrated plus any additional bonuses earned in the interim, and these will need to be claimed by the user.
 

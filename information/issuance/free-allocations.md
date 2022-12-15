@@ -4,9 +4,9 @@
 
 ### All available coins not already allocated to _users_ in the Meccano Testnet and not accidentally burnt in the development process will be re-assigned to the Network Treasury address. This includes all founder allocations that were made at the genesis block. 
 
-> In other words the Founders will give up their allocations on the TestNet in order not to skew allocations on the KAPEX Parachain.
+> In other words the Founders will give up their allocations on the Testnet in order not to skew allocations on the KAPEX Parachain.
 
-* The Project Team will make adjustments to existing users’ balances in the TestNet which will be carried over to KAPEX Parachain:
+* The Project Team will make adjustments to existing users’ balances in the Testnet which will be carried over to KAPEX Parachain:
 
     * Current users of Totem are already in posession of tokens from the faucet (circa $0.17) will receive a bonus of the equivalent of $25. [Done!]
 

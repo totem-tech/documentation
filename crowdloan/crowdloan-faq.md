@@ -42,7 +42,7 @@ Totem is designed to be used. If you use Totem for tasks, activities and timekee
 
 If you receive funds from the Faucet an allocation will be made for you on the Kapex Parachain from the Airdrop reserve. 
 
-### 4. Are HODLers on the Meccano TestNet penalised?
+### 4. Are HODLers on the Meccano Testnet penalised?
 
 **No.**
 

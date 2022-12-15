@@ -48,8 +48,8 @@ All Contributors are subject to a staggered release schedule. However, smaller i
 
 Some points to consider:
 
-* Early holders of TOTEM expected to sell to users on TestNet and MainNet. This releases value.
-* Account Balances remaining at launch of MainNet to be migrated from TestNet and may receive a usage bonus.
+* Early holders of TOTEM expected to sell to users on Testnet and MainNet. This releases value.
+* Account Balances remaining at launch of MainNet to be migrated from Testnet and may receive a usage bonus.
 * Allocation to founders in lieu of prior contributions are locked for the longest period as described above.
 
 | Amount Contributed |  Max bTOTEM Alloc. (50x Week 1)  | bTOTEM Relased in 0 Mnths  | bTOTEM Relased in 3 Mnths  | bTOTEM Relased in 6 Mnths  | bTOTEM Relased in 9 Mnths  | bTOTEM Relased in 12 Mnths  |  Final Release  |

@@ -34,56 +34,59 @@ In the following sections we detail how these tests apply to this Crowdfunding. 
 
 The Totem Live Accounting Test Network (aka Totem Meccano Canary Network) is a public blockchain network that has been live since February 14th 2019, and has been the backbone of all the development work that has taken place before and after it was launched.
 
-All users who have registered on the [Totem Live App](https://totem.live) connect directly with the network and have been allocated Totem Transactions (ticker symbol: TOTEM) - the native cryptocurrency of the network - for free using our automated Faucet since the outset.
+All users who have registered on the [Totem Live App](https://totem.live) connect directly with the network and have been allocated Totem Transactions (ticker symbol: TOTEM) - the native cryptocurrency of the network free-of-charge using our automated Faucet since the outset.
 
-The Totem Live Accounting Blockchain Network does not depend on other blockchains such as Ethereum or Bitcoin - it is completely decentralised and independent.
+The Totem Live Accounting Blockchain Network does not depend on other blockchains such as Ethereum or Bitcoin - it is completely decentralised and independent, and therefore the native token is considered a native coin rather than a token.
 
 TOTEM is consumed in order to execute actions on the Totem Live Accounting Network. For example to create Activities, Timekeeping and Tasks and to administer them requires you to spend TOTEM to process these requests on the blockchain network.
 
 Furthermore all existing users since launch have also been able to request, with certain limits, further allocations of Transactions (ticker symbol: TOTEM) from the Faucet without charge. This request is carried out from within the application itself. These additional allocations have been fixed at the same level as the initial allocation and have been distributed free-of-charge.
 
-The allocations made to users will be unconditionally carried over to the Totem Live Accounting MainNet as a reward for early adopters.
+The allocations made to users will be unconditionally carried over to the Totem Live Accounting Parachain Network as a reward for early adopters following the completion of certain tasks in the application connected to the Meccano Test Network.
 
 The Totem Transactions Token (ticker symbol: TOTEM) is a cryptocurrency that has never been intended to have a value determined by after-market exchanges. 
 
-TOTEM has been designed from the outset to have a value that is calculated deterministically by an automated algorithm as set out in our 2016 Paper and more recently updated. The algorithm determines the value of TOTEM based on information available tothe Totem Network. 
+TOTEM has been designed from the outset to represent a unit of measure calculated deterministically by an automated algorithm as set out in our 2016 Paper and more recently updated. The algorithm determines the conversion of the TOTEM unit of measure based on information available tothe Totem Network. 
 
-The concept provides that the value of the Token cannot be manipulated by external parties and allows accounting entries to be made with a Unit of Account of deterministic value rather than a currency of floating value. This primarily enables accounting operations to be recorded with the Unit of Account and not the market price.
+The concept provides that the value of the unit of measure cannot be manipulated by external parties and allows accounting entries to be made with a deterministic value rather than a currency of floating value. This primarily enables accounting operations to be recorded in the unit of measure for accounting purposes more widely understood as a Unit of Account. The coin is therefore not a market priced coin.
 
-It should be noted that as the Totem Live Accounting Network is a permissionless blockchain network, no party can prevent after-market exchanges from listing TOTEM. 
+It should be noted that as the Totem Live Accounting Network is a permissionless blockchain network, no party can prevent after-market exchanges from listing TOTEM should they decide to do so, and the team behind the development cannot be implicated in that event. 
 
-However users of third-party exchanges should be aware that the spot price (or market price) is completely disconnected from the deterministicly calculated price in the Totem Live Accounting Network, and therefore users must consider and are entirely responsible for impairment risks when selling or buying on after-market exchanges.
+However, users of third-party exchanges should be aware that the spot price (or market price) is completely disconnected from the deterministicly calculated price in the Totem Live Accounting Network, and therefore users must consider and are entirely responsible for impairment risks when selling or buying on after-market exchanges.
 
-The value of the TOTEM allocated either by the Faucet or the Crowdfunding is in accordance with the valuation algorithm. At the time of the network start, this value was equivalent to around 0.18 USD at a time of allocation or 16181 TOTEM. 
+The conversion of the TOTEM coin allocated either by the Faucet or the Crowdfunding is in accordance with the determination algorithm. At the time of the network start, this conversion rate was equivalent to around 0.18 USD at a time of allocation or 16181 TOTEM.
 
 This amount is sufficient for micro-business to conduct accounting operations and business activities in the Totem Live Accounting Application essentially for free for a meaningful period of time without requiring an investment of fiat or cryptocurrency funds.
 
-In the case of a requested to replenish TOTEM, the Faucet allocated the funds unconditionally and for free although this will partially change in future as outlined here.
+##### Kapex Network and Coins
 
-Whilst the Tokens have been distributed by the Faucet prior to the Crowdfunding, the entire remaining balances held by the Founders will be transferred to the Live Accounting Association (Swiss Verein in formation), an independent non-profit organisation based in Switzerland. This will be carried out with one-off network reset which will not penalise other existing holders.
+The Totem Meccano Network was the initial development environment for the Kapex Parachain Network which is currently live and the Totem Mainnet which has yet to launch. The development will migrate to these other networks before the Meccano Network is deprecated.
 
-The Crowdfunding will be administered by the Live Accounting Association (Swiss Verein in formation), and the basis of the allocation will be that the TOTEM Tokens will be distributed as a measure of the contribution as a donation to the Association and not to the Founders. The donation does not constitute or confer membership of the Association, which can be obtained seperately. 
+The first of these is the Kapex Parachain Network. This is technically a decentralised autonomous blockchain network, that is able to communicate with the Polkadot network via a messaging system called XCM. In addition the Polkadot Network can offer the security of its own validators to any Parachain that puts up a sum of DOT (the native cryptocurrency of the Polkadot Network) to secure a lease on that network.
 
-The Live Accounting Association (Swiss Verein in formation) will set aside money received as a donation to enable the purpose of the Association.
+In the case of the Kapex Parachain, the community put up enough DOT to secure a lease slot for the Kapex Parachain. The lease is in fact a guarantee that never leaves the control of the entity that makes the contribution, however it is locked for a paeriod of around 96 weeks.
 
-> The purpose of the Live Accounting Association (Swiss Verein in formation) is to provide funding for the development of the Live Accounting Network. Any developer - not just the Founders of Totem Accounting - can apply for grants from the Association for work that carries out the purpose of the Association.
+In exchange for the lost opportunity cost of locking the DOT for the period of the lease, the Totem team offered to give away free-of-charge a quantity of Kapex Coins (ticker symbol: KPX). At the time of writing the final rate of exchange was circa 3.5 Kapex per DOT committed to the lease guarantee including bonuses.
 
-* Founders will not receive an allocation of TOTEM from the Crowdfunding.
-* In future all balances will be transferred to Totem Live Accounting MainNet at a minimum of 1:1 ratio of allocation. 
+The process by which this took place is called a "Crowdloan" and is executed on the Polkadot Network. The Crowdloan was entirely out of control of the Totem Team. Furthermore, the funds are unable to be used or transferred by the Team or transferred from the Crowdloan Account. The Polkadot Network manages the locking and release of funds automatically without intervention from the Totem Team.
+
+It is intended that the Founders will not receive an allocation of TOTEM from the Crowdloan process, but will receive an allocation in lieu of their efforts to develop the application, blockchain and Live Accounting Network.
+
+It is intended that in future all balances of KPX will be transferred to Totem Live Accounting MainNet at a minimum of 1:1 ratio of allocation. 
 
 #### Howey Test 1 Conclusion 
 
-The first test is unlikely to be satified as Totem Transactions (ticker symbol: TOTEM) were distributed on an already live network via an already live application, for free and for a significant period of time prior the Crowdfunding.
+The first test is unlikely to be satified as Totem Transactions (ticker symbol: TOTEM) were distributed on an already live network via an already live application, free-of-chare for a significant period of time.
 
-Therefore on this point the Token does not qualify as a Security. Consideration must still be given to the other tests.
+Furthermore, the Kapex coin (ticker symbol: KPX) has been given away free-of-charge without any condition of investment. The allocation of Kapex Coins are not equivalent to a non-returnable risk capital investment.
+
+Therefore on this point neither TOTEM nor KPX qualifies as a Security. Consideration must still be given to the other tests.
 
 ---
 
 ### ANALYSIS 2: Is there a so-called "Common Enterprise"?
 
-As the Totem Live Accounting Network has already been developed and is already live, there is no requirement for the Contributors to the Crowdfunding to be part of a common enterprise in order for the project to be developed, launched or to succeed.
-
-The TOTEM Tokens are unlocked for Contributors in tranches shortly after the Crowdfunding completes using the application itself. Contributor can immediately use some or all of their allocations of TOTEM to enable the application or to transfer to other parties as a form of settlement at the deterministic exchange rate. 
+As the Totem Live Accounting Network has already been developed and is already live both as the Meccano Testnet and as a Production Network in the Kapex Parachain there is no requirement for the Contributors to the Crowdloan to be part of a common enterprise in order for the project to be developed, launched or to succeed.
 
 #### Howey Test 2 Conclusion
 
@@ -96,16 +99,16 @@ The second test fails to establish a common enterprise, as Contributors are part
 There are three categories of Totem Transaction owners:
 
 * Early users / owners who were allocated TOTEM from tne Faucet
-* Crowdfunding Contributors owners who were allocated TOTEM from the Faucet as a function of their contribution
+* Crowdloan Contributors who were allocated KPX as a function of their contribution
 * Owners who are both of the above
 
-For users allocated Totem Transactions (ticker symbol: TOTEM) from the Faucet alone there is no expectation of profit. No publicity has ever been made to this effect at any time.
+For users allocated Totem Transactions (ticker symbol: TOTEM) from the Faucet alone there is no expectation of profit. No publicity has ever been made to this effect at any time. However, there is an expectation that these coins can be exchanged for KPX Coins on the Kapex Parachain Network.
 
-Totem Transactions that are allocated by the Live Accounting Association (Swiss Verein in formation) in the Crowdfunding are allocated at a discount to the deterministic exchange rate. The discounts are set out in the schedules to the Crowdfunding and are entirely dependent on the contribution level.
+KPX that are allocated by the Live Accounting Association (Swiss Verein in formation) in the Crowdloan are allocated free-of-charge but are dependent on the level of contribution in DOT.
 
-It could be argued that Contributors can expect that the TOTEM will be accepted by other parties on the Network at the deterministic exchange rate and therefore an element of increase in value is built-in to the discounted distribution from the Crowdfunding. 
+It could be argued that Contributors can expect that the KPX allocated to them will be accepted by other parties on the Network at a value determined by the open market and therefore an element of speculative increase in value is built-in to the distribution from the Crowdloan. 
 
-However this is only true if the contributor intends not to use Totem Live Accounting and therefore special conditions exist for so-called "Hodlers". It means that penalties apply under certain circumstances to "Hodlers" as set out in the Crowdfunding FAQ. Therefore in order for returns to be realised the user must also perform accounting tasks that are useful for them.
+However this is only true if the contributor intends not to use Totem Live Accounting Application and therefore special conditions exist for so-called "Hodlers". It means that penalties apply under certain circumstances to "Hodlers" as set out in the Crowdfunding FAQ. Therefore in order for returns to be realised the user must also perform accounting tasks that are useful for them.
 
 It is however entirely expected that when TOTEM is used for example in conjuction with paying supplier invoices the value of that settlement is agreed based on the deterministic exchange rate algorithm. At current rates, and given that the mechanism is designed to provide a stable value, this will mean an increase received in relative value compared to the discounted value of all contributions.
 
@@ -201,7 +204,7 @@ In this case the Totem Transactions (ticker symbol: TOTEM) exhibit missing prope
 
 ### ANALYSIS 7. Are Totem Transactions Asset Tokens?
 
-Totem Transactions (ticker symbol: TOTEM) that are to be distributed in the Crowdfunding, are allocated on an existing so-called TestNet system. They are intended to be migrated to the MainNet system when it goes live. 
+Totem Transactions (ticker symbol: TOTEM) that are to be distributed in the Crowdfunding, are allocated on an existing so-called Testnet system. They are intended to be migrated to the MainNet system when it goes live. 
 
 The allocation is conditional upon the contributor to comply with the terms of migration, but in general remaining balances on accounts will be migrated plus any additional bonuses earned in the interim.
 

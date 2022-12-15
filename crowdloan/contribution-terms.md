@@ -44,7 +44,7 @@ The contributions are received and administered by the Live Accounting Associati
 
 3. Pledge is not mandatory. Even if you didn't Pledge (or don't fulfill your Pledge) you will still receive your Crowdloan rewards.
 
-4. If you choose not to fulfill your Pledge, you'll only receive Corwdloan portion of the rewards plus any referral bonuses and the additional share of the Guaranteed Allocations on 22% of the supply.
+4. If you choose not to fulfill your Pledge, you'll only receive Crowdloan portion of the rewards plus any referral bonuses and the additional share of the Guaranteed Allocations on 22% of the supply.
 
 5. We recommend only using our DApp (https://totem.live/crowdloan) from a computer browser such as Chrome, Brave, Firefox with the Polkadotjs Extension installed.
 
@@ -95,10 +95,33 @@ https://polkadot.subscan.io/account/14K5BeQDAwETVu9c7uRnxixW1DRefrbawD8yima2Mv2n
 
 ### TOTEM Meccano Testnet Account Migration & Allocations
 
-Funds that are migrated from Totem Meccano will be carried out on a fair basis. If we notice any suspicious activity on Totem Meccano for example this includes but is not limited to using fake email addresses in the newsletter signup, fake or bot twitter accounts, gaming the distribution mechanism or adapting or resetting the testnet client UI your funds will not be migrated and you will be disqualified. You may raise a complaint on our social channels (Twitter, Discord or Telegram) if you believe that you have been unfairly blocked from receiving a migrated balance. Final decisions will be at the discretion of the Project Team.
+Funds that are migrated from Totem Meccano will be carried out on a fair basis. If we notice any suspicious activity on Totem Meccano for example this includes but is not limited to using fake email addresses in the newsletter signup, fake or bot Twitter accounts, gaming the distribution mechanism or adapting or resetting the Testnet client UI your funds will not be migrated and you will be disqualified. You may raise a complaint on our social channels (Twitter, Discord or Telegram) if you believe that you have been unfairly blocked from receiving a migrated balance. Final decisions will be at the discretion of the Project Team.
 
-The Migration of these funds will we announced before 8th August 2022. 
 
-Participants will be expected to carry out several on-chain and off chain tasks in order to claim their reward on KAPEX Parachain and there will be a 6 month period that they will be allowed to carry out these tasks.
+Participants will be expected to carry out several on-chain and off chain tasks in order to claim their reward on KAPEX Parachain and a special module has been set up in the [Totem Live App](https://totem.live).
 
-The lifting of the balance lock is not dependent on the migration allocations having been completed. You are therefore encouraged to carry out the migration tasks at the earliest opportunity. Once the migration process deadline passes, Totem Meccano will be deprecated, and users will no longer be able to migrate their balances. There will be no exceptions to this rule.
+The lifting of the balance transfer lock on Kapex is not dependent on the migration allocations having been completed. You are therefore encouraged to carry out the migration tasks at the earliest opportunity. Once the migration process deadline passes, Totem Meccano will be deprecated, and users will no longer be able to migrate their balances. There will be no exceptions to this rule.
+
+#### Terms of Migration
+
+The terms of the migration are as follows:
+
+> The Migration of these funds were announced 14th November 2022. The claim process will last until midnight CET 31st January 2023. 
+
+* 1) The original faucet allocations were made free-of-charge and were to be allocated to a single unique chat user, and unique identity combination. 
+
+        * This rule has not changed and applies in the claim process.
+
+* 2) Referral allocations were made on a _1:n_ per unique chat user unique identity combination. 
+
+        * This means that one unique combination can refer multiple other unique combinations as long as neither the referred chat user nor the identity had been previously registered or was otherwise in direct receipt of faucet funds at the time of referral.
+
+
+* 3) In the case of the inclusion of a Twitter handle for claiming airdrop rewards, only one Twitter handle is allowed per identity. All subsequent uses of any given Twitter handle will be disqualified from receiving migrated allocations of Kapex coins.  
+
+* 4) Only one allocation will be considered claimable per unique combination. 
+
+        * Using multiple user accounts with the same identity is considered gaming the reward mechanism and will result in disqualification for all claims for that user and or identity. 
+
+
+* 5) In the case of referrals only "the first seen" referral will count. All subsequent referral attempts for either a chat user or identity will not be counted for migration.

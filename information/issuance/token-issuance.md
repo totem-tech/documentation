@@ -12,6 +12,6 @@ Having said that we recognise that the participants and investors in the cryptoc
 
 For this reason we are issuing a very limited quantity of free-floating market price tokens which will be used to determine the initial quantity of tokens to be minted on the MainNet. These tokens will be issued on the Totem KAPEX Parachain connected to the Polkadot Network.
 
-In addition we will not ignore our existing users and early adopters on the TestNet and will also reward them when we migrate their balances to the KAPEX Parachain.
+In addition we will not ignore our existing users and early adopters on the Testnet and will also reward them when we migrate their balances to the KAPEX Parachain.
 
-**In the next section we will explain how tokens are distributed on our TestNet today, what the KAPEX token is and how all relates to the quantity of tokens for the MainNet.**
+**In the next section we will explain how tokens are distributed on our Testnet today, what the KAPEX token is and how all relates to the quantity of tokens for the MainNet.**

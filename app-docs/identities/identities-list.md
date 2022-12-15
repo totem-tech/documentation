@@ -17,7 +17,7 @@ This is the name that you give your Identity. Again, it is private and only know
 
 #### Retaining privacy when you share an Identity
 
-How you name your Identity is your concern. If you do not want to share the name you give to your Identity when sharing, you have the possibility to enter a nale that only the recipient knows.
+How you name your Identity is your concern. If you do not want to share the name you give to your Identity when sharing, you have the possibility to enter a name that only the recipient knows.
 
 ### Usage column
 
