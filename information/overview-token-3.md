@@ -20,20 +20,13 @@ The motivation for including so many assets is that is that large variations in 
 
 ### Steps to calculate TOTEM exchange rate.
 
-The calculation is as described in the following table. It should be noted that USD was used as the currency to measure the Total Market Cap. This results in a price of TOTEM in USD. However any currency could have been used as a measure and the end result would be a price in that other currency. 
+The calculation for the Unit of Account is based on the **Nominal Effective Exchange Rate (NEER)** which has been enhanced to consider the weighting according to the total issuance of each coin in the basket. For fiat currencies this is a difficult to track as figures are somewhat unreliable, however with cryptocurrencies the equivalent of M0 Money Supply is very reliable. We refer to this calculation as **e-NEER _enhanced NEER_**.
 
-| Steps to calculate TOTEM exchange rate                                                                         | Values              |
-|--------------------------------------------------------------------------------------------------------------|--------------------:|
-| Sum the "Total Market Cap" (TMC) of all assets in USD                                                        | 126441464918052     |
-| Sum the Total Units (irrespective of currency) - "Total Market Units" (TMU)                                  | 37441006590481700   |
-| Divide the TMC by the TMU to get the Notional Unit Price (NUP) in USD per market unit                        | 0.003377085         |
-| Index Reference Value (IRV) Homage to Euler's Number                                                         | 2718281828459045235 |
-| Define the ratio of TMU to IRV (TMU/IRV = IRVr)                                                              | 0.013773777         |
-| Multiply NUP by IRVr. **This is TOTEM Price in USD**                                                           | 0.0000465152        |
+The weight **$w$** of the currency is calcualted as **$$w_i = \frac{\sum_{j=1}^n s_j}{s_i}$$** which is the sum of the issuance **$s$** for every **$n$** currency in the basket divided by the total issuance for the individual currency. This provides an inverse weighting where the lowest issued currency, which is technically more scarce, is weighted greater than a currency that is heavily issued. 
 
-_The values for TMC and TMU are current at the time of writing._
+The unit of account **$U$** can therefore be derived as **$$U = \sum_{i=1}^n w_i . e_i$$** where **$w$** is the weight of the currency, **$e$** is the exchange rate to the base currency used to obtain the exchange rates. This base currency can be any currency as long as it is consistent for the basket at the point of calculation. It is possible to vary the base currency for each calculation so long as it is consistent.
 
-> The exchange rate of TOTEM fluctuates in balance with the fluctations in the Reference Exchange Rates and so represents a stable Unit of Account against which all currencies can be measured. This makes it an ideal candidate as a Functional Currency.
+> The exchange rate of TOTEM fluctuates but maintains the ratio between the exchange rates and so represents a stable Unit of Account against which all currencies can be measured. This makes it an ideal candidate as a Functional Currency.
 
 In Totem all accounting entries are recorded in TOTEM by default. The entries are made at the exchange rate of the moment of recognition and not the value in the currency that the transaction is made. In this way all accounting entries are recorded directly in the Functional Currency. As per our example above and do not require further adjustments. The adjustment occurs automatically when producing the statements in the Presentation Currency.
 
@@ -44,7 +37,7 @@ In addition to this calculation it is possible to derive a "Global Currency Inde
 
 | Calculate "Starting Global Currency Index"                                                  | Index  Starting Value |
 |---------------------------------------------------------------------------------------------| ---------------------:|
-| Invert IRVr                                                                                 | 72.60                 |
+| tbc                                                                                         | tbc                   |
 
 ### Sources of data.
 
