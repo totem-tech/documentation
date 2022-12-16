@@ -20,11 +20,11 @@ The motivation for including so many assets is that is that large variations in 
 
 ### Steps to calculate TOTEM exchange rate.
 
-The calculation for the Unit of Account is based on the **Nominal Effective Exchange Rate (NEER)** which has been enhanced to consider the weighting according to the total issuance of each coin in the basket. For fiat currencies this is a difficult to track as figures are somewhat unreliable, however with cryptocurrencies the equivalent of M0 Money Supply is very reliable. We refer to this calculation as **e-NEER _enhanced NEER_**.
+The calculation for the Unit of Account is based on the **Nominal Effective Exchange Rate (NEER)** which has been enhanced to consider the weighting according to the total issuance of each coin in the basket. For fiat currencies this is a difficult to track as figures are somewhat unreliable, however with cryptocurrencies the equivalent of M0 Money Supply is very reliable. 
 
-The weight **$w$** of the currency is calcualted as **$$w_i = \frac{\sum_{j=1}^n s_j}{s_i}$$** which is the sum of the issuance **$s$** for every **$n$** currency in the basket divided by the total issuance for the individual currency. This provides an inverse weighting where the lowest issued currency, which is technically more scarce, is weighted greater than a currency that is heavily issued. 
+The weight **$w$** of the currency is calcualted as **$$w_i = \frac{\frac{1}{s_i}}{\sum_{j=1}^n \frac{1}{s_j}}$$** which is the inverse of the issuance **$s$** divided by the total inverse issuance for all the individual currencies in the basket. This provides an weighting where the lowest issued currency, which is technically more scarce, is weighted greater than a currency that is heavily issued.
 
-The unit of account **$U$** can therefore be derived as **$$U = \sum_{i=1}^n w_i . e_i$$** where **$w$** is the weight of the currency, **$e$** is the exchange rate to the base currency used to obtain the exchange rates. This base currency can be any currency as long as it is consistent for the basket at the point of calculation. It is possible to vary the base currency for each calculation so long as it is consistent.
+The unit of account **$U$** can therefore be derived as **$$NEER = \sum_{i=1}^n w_i . e_i$$** where **$w$** is the weight of the currency, **$e$** is the exchange rate to the base currency used to obtain the exchange rates. This base currency can be any currency as long as it is consistent for the basket at the point of calculation. It is possible to vary the base currency for each calculation so long as it is consistent.
 
 > The exchange rate of TOTEM fluctuates but maintains the ratio between the exchange rates and so represents a stable Unit of Account against which all currencies can be measured. This makes it an ideal candidate as a Functional Currency.
 
