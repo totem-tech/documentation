@@ -16,9 +16,7 @@ _*updated December 12 2022._
 
 ## Regulation, The Howey Test and Swiss FINMA
 
-### As we are aware that Financial Regulators tend to scrutinise blockchain projects to determine if a token of a project is a security or not, whilst our work is primarily the construction of softxware, in this section we provide an analysis of the project from this perspective, in order to address any concerns that partners and contributors may have.
-
-
+#### Whilst our work is primarily the construction of software we are aware that Financial Regulators tend to scrutinise blockchain projects to determine if a token mechanic is a security or not. In this section we provide an analysis of the project from this perspective to address any concerns that partners and contributors may have.
 
 We explore the so-called **"Howey Test"** and **Know Your Customer (KYC) and Anti-Money Laundering (AML) Compliance** particularly in relation to the Crowdfunding/Pledge and Parachain Slot Auction as well as the historical context of use in the Test Network and as a functional currency for accounting purposes. 
 
