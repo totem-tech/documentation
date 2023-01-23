@@ -22,7 +22,7 @@ docker run \
 totemlive/totem-parachain-collator:production \
 --chain=kapex \
 --execution=wasm \
---state-cache-size=1 \
+--state-pruning="archive-canonical" \
 --name "name-to-identify-on-telemetry" \
 --port 30333 \
 --prometheus-external \ # optional

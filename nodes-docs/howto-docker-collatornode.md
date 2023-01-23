@@ -26,7 +26,7 @@ docker run \
 totemlive/totem-parachain-collator:production \
 --chain=kapex \
 --execution=wasm \
---state-cache-size=1 \
+--state-pruning="archive" \
 --name "name-to-identify-on-telemetry" \
 --port 30333 \
 --collator \
@@ -66,10 +66,9 @@ docker run \
 totemlive/totem-parachain-collator:production \
 --chain=kapex \
 --execution=wasm \
---state-cache-size=1 \
+--state-pruning="archive" \
 --name "name-to-identify-on-telemetry" \
 --port 30333 \
---pruning=archive \ # temporary
 --ws-external \  # temporary
 --unsafe-ws-external \  # temporary
 --rpc-cors=all \  # temporary
