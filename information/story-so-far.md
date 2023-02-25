@@ -36,4 +36,4 @@ Building accounting software requires experience, but building accounting softwa
 
 The Totem team demonstrated this capability in February 2019, connecting five random parties and three tax jurisdictions, posting accounting entries in all relevant accounts on a blockchain. This was a "Marconi moment". Connecting all these ledgers together and randomly passing information for the first time means the activity of accounting will change forever.
 
-We have been building out the full scale version ever since and the Totem Live App can already do many of the underlying communication tasks required to make the full product. We are actively pushing new code every day and aim to launch the fully operational product by Q1 2023.
+We have been building out the full scale version ever since and the Totem Live App can already do many of the underlying communication tasks required to make the full product. We are actively pushing new code every day and aim to launch the fully operational product by Q1 2024.

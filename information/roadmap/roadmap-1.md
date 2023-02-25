@@ -2,7 +2,7 @@
 
 # TODO
 
-### The following pages contain a full list of software features that will be implemented in the course of 2022 and leading up to a beta product pulic launch in 2023.
+### The following pages contain a full list of software features that will be implemented in the course of 2023 and leading up to a beta product pulic launch in 2024.
 
 ### P2P Accounting Engine
 

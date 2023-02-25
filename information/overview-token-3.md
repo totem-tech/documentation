@@ -24,7 +24,7 @@ The calculation for the Unit of Account is based on the **Nominal Effective Exch
 
 The weight **$w$** of the currency is calcualted as **$$w_i = \frac{\frac{1}{s_i}}{\sum_{j=1}^n \frac{1}{s_j}}$$** which is the inverse of the issuance **$s$** divided by the total inverse issuance for all the individual currencies in the basket. This provides an weighting where the lowest issued currency, which is technically more scarce, is weighted greater than a currency that is heavily issued.
 
-The unit of account **$U$** can therefore be derived as **$$NEER = \sum_{i=1}^n w_i . e_i$$** where **$w$** is the weight of the currency, **$e$** is the exchange rate to the base currency used to obtain the exchange rates. This base currency can be any currency as long as it is consistent for the basket at the point of calculation. It is possible to vary the base currency for each calculation so long as it is consistent.
+The unit of account **$U$** can therefore be derived as **$$U = \sum_{i=1}^n w_i . e_i$$** where **$w$** is the weight of the currency, **$e$** is the exchange rate to the base currency used to obtain the exchange rates. This base currency can be any currency as long as it is consistent for the basket at the point of calculation. It is possible to vary the base currency for each calculation so long as it is consistent.
 
 > The exchange rate of TOTEM fluctuates but maintains the ratio between the exchange rates and so represents a stable Unit of Account against which all currencies can be measured. This makes it an ideal candidate as a Functional Currency.
 

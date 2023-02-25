@@ -18,7 +18,7 @@ There are several key features of the Totem Architecture which are as follows:
 
 Most of the components are designed to allow businesses to participate in the global live accounting network, but they can also run their own private networks should they wish to do this, and still benefit from being able to communicate with other companies and exchange account posting information.
 
-Whilst much of this is established in an early form, we are on course to complete development sometime in 2022, you can view the progress on our live network https://totem.live[Totem Live Accounting]
+Whilst much of this is established in an early form, we are on course to complete development sometime in 2024, you can view the progress on our live network https://totem.live[Totem Live Accounting]
 
 #<h3> Application Privacy</h3>
 
