@@ -12,11 +12,11 @@ In 2014 Chris began research to explore the concept of Global Corporate Currenci
 
 ---
 
-### Toufiqur Rahman Chowdhury
+### Toufiqur Rahaman Chowdhury
 
-**_Co-founder, Totem UI Developer, Software Engineer. (Germany)_**
+**_Co-founder, Totem UI Developer, Software Engineer. (Türkiye)_**
 
-Toufiqur is a first-class Software Engineer having worked on various web based technologies since graduating in 2014. He has been instrumental in developing the core Totem UI functionality and the unique BONSAI protocol for distributed NoSQL databases.
+Toufiq is a first-class Software Engineer having worked on various web based technologies since graduating in 2014. He has been instrumental in developing the core Totem UI functionality and the unique BONSAI protocol for distributed NoSQL databases.
 
 ---
 
