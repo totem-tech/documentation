@@ -22,14 +22,13 @@ The motivation for including so many assets is that is that large variations in 
 
 The calculation for the Unit of Account is based on the **Nominal Effective Exchange Rate (NEER)** which has been enhanced to consider the weighting according to the total issuance of each coin in the basket. For fiat currencies this is a difficult to track as figures are somewhat unreliable, however with cryptocurrencies the equivalent of M0 Money Supply is very reliable. 
 
-The weight **$w$** of the currency is calcualted as **$$w_i = \frac{s_j}{\sum_{j=1}^n s_i}$$** which is the inverse of the issuance **$s$** divided by the total inverse issuance for all the individual currencies in the basket. This provides an weighting where the lowest issued currency, which is technically more scarce, is weighted greater than a currency that is heavily issued.
+The weight **$w$** of the currency is calcualted as **$$w_i = \frac{\sum_{j=1}^n \frac{1}{s_j}}{s_i}$$** which is the inverse issuance of each currency, multiplied by the sum of all inverse issuances for all the individual currencies in the basket. This provides an weighting where the lowest issued currency, which is technically more scarce, is weighted greater than a currency that is heavily issued.
 
-The unit of account **$U$** can therefore be derived as **$$U = \sum_{i=1}^n w_i . e_i$$** where **$w$** is the weight of the currency, **$e$** is the exchange rate to the base currency used to obtain the exchange rates. This base currency can be any currency as long as it is consistent for the basket at the point of calculation. It is possible to vary the base currency for each calculation so long as it is consistent.
+The unit of account **$U$** can therefore be derived as **$$U = \sum_{i=1}^n w_i . e_i$$** where **$w$** is the weight of the currency, **$e$** is the exchange rate to the base currency used to obtain the exchange rates. This base currency can be any currency as long as it is consistent for the basket at the point of calculation. It is possible to vary the base currency for each calculation so long as it is consistent for the entire basket and between recalculations.
 
-> The exchange rate of TOTEM fluctuates but maintains the ratio between the exchange rates and so represents a stable Unit of Account against which all currencies can be measured. This makes it an ideal candidate as a Functional Currency.
+> The exchange rate of TOTEM fluctuates but maintains an accurate ratio between all exchange rates and so represents a stable Unit of Account against which all currencies can be measured. This makes it an ideal candidate as a Functional Currency for an accounting system.
 
 In Totem all accounting entries are recorded in TOTEM by default. The entries are made at the exchange rate of the moment of recognition and not the value in the currency that the transaction is made. In this way all accounting entries are recorded directly in the Functional Currency. As per our example above and do not require further adjustments. The adjustment occurs automatically when producing the statements in the Presentation Currency.
-
 
 ### Totem Global Currencies Index.
 
