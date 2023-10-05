@@ -40,7 +40,7 @@ The Howey Test is set out in four parts. All four parts need to be passed in ord
 
 If the Token is deemed to be a security (i.e. it passes all four tests), then the sale must register with the Securities and Exchange Commission in the USA, regardless of the country in which the Token sale occurs.
 
-> It should be noted that whilst many projects have "tokens" issued by smart contracts, this is not the case for any of the Totem Live Accounting Networks because they each have their own blockchains with native "coins" used to pay transaction fees. Furthermore, the "coin" and the extra-regulatory "functional currency" of the accounting system, are in fact one-and-the-same unit of account.
+> It should be noted that whilst many projects have "tokens" issued by smart contracts, this is not the case for any of the Totem Live Accounting Networks because they each have their own blockchains with native "coins" used to pay transaction fees. Furthermore, the "coin" and the extra-regulatory "functional currency" of the accounting system, are in fact one-and-the-same Unit of Account.
 
 The four parts of the Howey Test are broadly:
 
@@ -112,11 +112,11 @@ In the following sections we detail how these tests apply to this Crowdloan and 
 
     * The coins on the Kapex network will be subject to market pricing.
         
-        * This implies that the Kapex coin itself will not necessarily be a useful unit of account as it will be subject to market volatility. 
+        * This implies that the Kapex coin itself will not necessarily be a useful Unit of Account as it will be subject to market volatility. 
 
 * The quantity of the the Testnet currency allocated by the Testnet Faucet is in accordance with the valuation algorithm described in [the documentation](https://docs.totemaccounting.com/#/information/overview-token-3?id=steps-to-calculate-totem-exchange-rate). 
 
-* At the time of the Testnet start, for accounting purposes as a unit of account (i.e. not a valuation) quantity of 16181 coins was apprimately equivalent to 0.18 USD, and was used this way in order to determine what the accounting entry amount should be stated in the network currency not the fiat currency. 
+* At the time of the Testnet start, for accounting purposes as a Unit of Account (i.e. not a valuation) quantity of 16181 coins was apprimately equivalent to 0.18 USD, and was used this way in order to determine what the accounting entry amount should be stated in the network currency not the fiat currency. 
 
     * This amount of coins allocated was thought to be sufficient for micro-business to conduct accounting operations and business activities in the Testnet Dapp essentially for free for a meaningful period of time without requiring an investment of fiat or cryptocurrency funds.
 

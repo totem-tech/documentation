@@ -84,7 +84,7 @@ This amount is sufficient for micro-business to conduct accounting operations an
 
 In the case of a request to replenish TOTEM, the Faucet allocated the funds unconditionally and free-of-charge although this has since been deprecated in April 2022.
 
-However on the Totem Kapex Network, the native functional currency is intended to be subject to market price valuations rather than having a deterministic unit of account valuation.
+However on the Totem Kapex Network, the native functional currency is intended to be subject to market price valuations rather than having a deterministic Unit of Account valuation.
 
 These coins will be partially distributed free-of-charge as follows:
 
