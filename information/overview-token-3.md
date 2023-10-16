@@ -22,9 +22,26 @@ The motivation for including so many assets is that is that large variations in 
 
 The calculation for the Unit of Account is based on the **Nominal Effective Exchange Rate (NEER)** which has been enhanced to consider the weighting according to the total issuance of each coin in the basket. For fiat currencies this is a difficult to track as figures are somewhat unreliable, however with cryptocurrencies the equivalent of M0 Money Supply is very reliable. 
 
-The weight **$w$** of the currency is calcualted as **$$w_i = {s_i^{-1}}\cdot{\sum_{j=1}^n {s_j^{-1}}}$$** which is the inverse issuance of each currency, multiplied by the sum of all inverse issuances for all the individual currencies in the basket. This provides an weighting by currency where the lowest issued currency (which is technically more scarce) is weighted greater than a currency that is heavily issued.
+The weight **$w$** of the currency is calcualted as **$$w_i = {s_i^{-1}}\cdot{(\sum_{j=1}^n {s_j^{-1}})^{-1}}$$** which is the inverse issuance of each currency, multiplied by the sum of all inverse issuances for all the individual currencies in the basket. This provides a weighting by currency where the lowest issued currency (which is technically more scarce) is weighted greater than a currency that is heavily issued.
 
-The Unit of Account **$U$** can therefore be derived as **$$U = \sum_{i=1}^n w_i . e_i$$** where **$w$** is the weight of the currency, **$e$** is the exchange rate to the base currency calculation currency. This base currency can be any currency as long as it is consistent for the basket at the point of calculation. For example if you are defining the Unit of Account for GBP, and the exchange rate you have is GBP/USD then USD exchange rate must be applied to the entire basket so that the Unit of Account is consistently applied. This does not mean that the value of the Unit of Account is pegged to the US Dollar, because this calculation would hold even if another currency such as the Euro (and hence the Euro exchange rate) was used to determine the Unit of Account.
+The weight adjusted price **$p_{wa}$** for each currency can therfore be calculated using the weight **$w_i$** and the price in base currency **$p_i$**: 
+
+**$$p_{wa} = \sum_{i=1}^n w_i \cdot p_i$$**
+
+The base currency can be any currency as long as it is consistent for the basket at the point of calculation. In other words the prices have to be expressed in the same currency when applying new data. 
+
+For example if you are defining the Unit of Account for GBP, and the exchange rate you have is GBP/USD then USD exchange rate must be applied to the entire basket so that the Unit of Account is consistently applied. This does not mean that the value of the Units of Account are pegged to the US Dollar, because this calculation would hold even if another currency such as the Euro (and hence the Euro exchange rate) was used to determine the Unit of Account.
+
+The Unit of Account **$u_a$** for each currency is derived by summing the weight adjusted prices **$p_{wa}$** to create a financial index **$f_{idx}$** 
+
+
+**$${f_{idx}} =  {\sum_{k=1}^n p_{wa_k}}$$**
+
+Apportioning a Unit of Account value to each currency by dividing the weight adjusted price by the financial index.
+
+**$$u_a = p_{wa} \cdot {({f_{idx}})^{-1}}$$**
+
+
 
 > The exchange rate of TOTEM fluctuates but maintains an accurate ratio between all exchange rates and so represents a stable Unit of Account against which all currencies can be measured. This makes it an ideal candidate as a Functional Currency for an accounting system.
 
@@ -32,11 +49,11 @@ In Totem all accounting entries are recorded in TOTEM by default. The entries ar
 
 ### Totem Global Currencies Index.
 
-In addition to this calculation it is possible to derive a "Global Currency Index" value for KPI's on the world economy: 
+In addition to this calculation it is possible to derive a "Global Currency Index" value **$G$** for KPI's on the world economy. This is simply the inverse of **${f_{idx}}$** value:
 
-| Calculate "Starting Global Currency Index"                                                  | Index  Starting Value |
-|---------------------------------------------------------------------------------------------| ---------------------:|
-| tbc                                                                                         | tbc                   |
+**$$G = {({f_{idx}})^{-1}}$$**
+
+
 
 ### Sources of data.
 
