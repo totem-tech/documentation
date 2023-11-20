@@ -2,12 +2,24 @@
 
 ## Operations
 
-### Michelle Leech 
+### Lucas Katz
 
-**_Head of Marketing and Communications. (Germany)_**
+**_Head of Marketing and Communications (Canada)_**
 
-Bilingual Marketing and Communication specialist with extensive experience working with Blockchain and Cryptocurrency businesses from product marketing to external communications and fundraising. Currently based in Germany.
+Recently moved into the crypto space Lucas started his own podcast "Lets talk Nodesense" before joining the Totem Team. He currently works as a paramedic in Canada.
+
+---
+
+### Aruanan Mastenbroek
+
+**_Business Development & Loyalty Program (Belgium)_**
+
+Aruanan is a former commodities trader who moved into Crypto trading in 2018. He joined Totem to develop and manage a loyalty program wich will be launched sometime in 2024 as part of the low-barrier sign-up stage.
+
+---
 
 ### Cheyenne Krishan
 
 **_Consultant Press Relations (Belgium)_**
+
+---

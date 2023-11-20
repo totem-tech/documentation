@@ -2,14 +2,6 @@
 
 ## Extended Technical Team
 
-### Miro Svetlik
-
-**_Co-founder, Totem Business Advisor & Software Engineer. (Belgium)_**
-
-Coming from Central Europe Miro is an autodidact who has acquired a broad set of skills ranging from scripting and coding to complex troubleshooting of live production systems over many years in IT. He is also the co-founder of a Quantum and ML startup, and created the PrintRod large-scale portable 3D printing, scanning tool. He provides business advisory support for Totem.
-
----
-
 ### Aeon C
 
 **_International Accountant & Tax Consultant. (Singapore)_**
@@ -18,6 +10,20 @@ An experienced Chartered Accountant with a focus on accounting and taxation for 
 
 ---
 
-### Ashik Mahmud
+### Félix Daudré-Vigner 
 
-**_Intern & Tester_**
+**_Rust Developer (France)_**
+
+Félix has recently joined the team and hit the ground running. A senior programmer with expertise in several languages, he moved into Rust development. He is charged with the process of migrating the code-base in preparation for Totem joining the Polkadot Network and beyond.
+
+---
+
+### Serge Van Ginderachter
+
+**_Devops (Belgium)_**
+
+Serge has worked for many large organisations managing their devops facilities. He joined Totem to manage infrastructure.
+
+
+
+---
